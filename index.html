@@ -1,31 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Fuzzy Linkography</title>
-	<style>
-	body {
-		max-width: 96ch;
-	}
-	h2 {
-		margin-bottom: 0.5rem;
-	}
-	.fuzzy-linkograph {
-		margin-bottom: 2rem;
-	}
-	svg {
-		border: 1px solid #aaa;
-	}
-	</style>
-</head>
-<body>
-	<h1>Fuzzy Linkography</h1>
-	<p>Below are some test examples of <em>fuzzy linkographs</em>: automatically generated diagrams of design or ideation sessions, highlighting semantic links between <em>design moves</em> that took place during the session.</p>
-  <p>As in conventional linkography, moves are arranged left to right in a single linear timeline. Links are drawn below moves to connect them. In fuzzy linkography, links are inferred by a computational process rather than hand-coded, so we use line color to indicate the <em>strength</em> of each link rather than treating all links as strictly binary.</p>
-	<div id="app"></div>
-	<script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
-  <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
-  <script src="/app.js" type="module" defer></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fuzzy Linkography</title>
+    <style>
+      body {
+        /* max-width: 96ch; */
+        height: 100%;
+        width: 100%;
+        margin: 0;
+      }
+      h2 {
+        margin-bottom: 0.5rem;
+      }
+      .fuzzy-linkograph {
+        margin-bottom: 2rem;
+      }
+      svg {
+        border: 1px solid #aaa;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Fuzzy Linkography</h1>
+    <!-- <p>
+      Below are some test examples of <em>fuzzy linkographs</em>: automatically
+      generated diagrams of design or ideation sessions, highlighting semantic
+      links between <em>design moves</em> that took place during the session.
+    </p>
+    <p>
+      As in conventional linkography, moves are arranged left to right in a
+      single linear timeline. Links are drawn below moves to connect them. In
+      fuzzy linkography, links are inferred by a computational process rather
+      than hand-coded, so we use line color to indicate the <em>strength</em> of
+      each link rather than treating all links as strictly binary.
+    </p> -->
+    <div id="app"></div>
+    <script
+      src="https://unpkg.com/react@18/umd/react.development.js"
+      crossorigin
+    ></script>
+    <script
+      src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"
+      crossorigin
+    ></script>
+    <script src="/app.js" type="module" defer></script>
+  </body>
 </html>

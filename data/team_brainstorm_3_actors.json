@@ -1,0 +1,169 @@
+{
+  "team_brainstorm_3_actors": [
+    {
+      "text": "let's plan a weekend trip",
+      "timestamp": "2025-10-26T10:00:05Z",
+      "actor": 0
+    },
+    {
+      "text": "we could go hiking in the mountains",
+      "timestamp": "2025-10-26T10:00:25Z",
+      "actor": 1
+    },
+    {
+      "text": "what about something relaxing like the beach",
+      "timestamp": "2025-10-26T10:00:48Z",
+      "actor": 0
+    },
+    {
+      "text": "we could rent a cabin near the lake",
+      "timestamp": "2025-10-26T10:01:10Z",
+      "actor": 2
+    },
+    {
+      "text": "yeah, that’s close enough for a short drive",
+      "timestamp": "2025-10-26T10:01:35Z",
+      "actor": 0
+    },
+    {
+      "text": "let’s make a checklist of what to bring",
+      "timestamp": "2025-10-26T10:02:05Z",
+      "actor": 1
+    },
+    {
+      "text": "food, tent, first-aid kit, camera",
+      "timestamp": "2025-10-26T10:02:22Z",
+      "actor": 0
+    },
+    {
+      "text": "someone should check the weather forecast",
+      "timestamp": "2025-10-26T10:02:50Z",
+      "actor": 2
+    },
+    {
+      "text": "forecast says light rain on saturday",
+      "timestamp": "2025-10-26T10:03:15Z",
+      "actor": 0
+    },
+    {
+      "text": "then we’ll need extra tarps and jackets",
+      "timestamp": "2025-10-26T10:03:40Z",
+      "actor": 1
+    },
+    {
+      "text": "cool, let's finalize the plan tonight",
+      "timestamp": "2025-10-26T10:04:05Z",
+      "actor": 2
+    },
+    {
+      "text": "let's split into tasks: booking, packing, food",
+      "timestamp": "2025-10-26T10:04:50Z",
+      "actor": 1
+    },
+    {
+      "text": "i'll book the cabin and check cancellation policy",
+      "timestamp": "2025-10-26T10:05:18Z",
+      "actor": 0
+    },
+    {
+      "text": "i can compare two trail options for sunday morning",
+      "timestamp": "2025-10-26T10:05:43Z",
+      "actor": 2
+    },
+    {
+      "text": "let's set a budget cap per person",
+      "timestamp": "2025-10-26T10:06:16Z",
+      "actor": 1
+    },
+    {
+      "text": "shared spreadsheet created for expenses and packing list",
+      "timestamp": "2025-10-26T10:06:48Z",
+      "actor": 0
+    },
+    {
+      "text": "add rain-friendly activities as backups",
+      "timestamp": "2025-10-26T10:07:20Z",
+      "actor": 2
+    },
+    {
+      "text": "board games and a short museum visit nearby",
+      "timestamp": "2025-10-26T10:07:49Z",
+      "actor": 1
+    },
+    {
+      "text": "confirm who’s driving and fuel split",
+      "timestamp": "2025-10-26T10:08:17Z",
+      "actor": 0
+    },
+    {
+      "text": "i'll take the first driving leg",
+      "timestamp": "2025-10-26T10:08:59Z",
+      "actor": 1
+    },
+    {
+      "text": "i can navigate and handle playlists",
+      "timestamp": "2025-10-26T10:09:10Z",
+      "actor": 2
+    },
+    {
+      "text": "weather updated: light rain turning clear by afternoon",
+      "timestamp": "2025-10-26T10:09:26Z",
+      "actor": 0
+    },
+    {
+      "text": "pack layers and waterproof shoes",
+      "timestamp": "2025-10-26T10:10:09Z",
+      "actor": 1
+    },
+    {
+      "text": "i’ll bring extra towels and a small heater",
+      "timestamp": "2025-10-26T10:10:28Z",
+      "actor": 2
+    },
+    {
+      "text": "finalize grocery list tonight",
+      "timestamp": "2025-10-26T10:10:47Z",
+      "actor": 0
+    },
+    {
+      "text": "assign tent and cooking gear",
+      "timestamp": "2025-10-26T10:11:13Z",
+      "actor": 1
+    },
+    {
+      "text": "i'll handle snacks and drinks",
+      "timestamp": "2025-10-26T10:11:28Z",
+      "actor": 2
+    },
+    {
+      "text": "eta at cabin around 6pm",
+      "timestamp": "2025-10-26T10:11:38Z",
+      "actor": 0
+    },
+    {
+      "text": "set meeting point at the south lot",
+      "timestamp": "2025-10-26T10:12:05Z",
+      "actor": 1
+    },
+    {
+      "text": "let’s double-check fuel and route in the morning",
+      "timestamp": "2025-10-26T10:12:15Z",
+      "actor": 2
+    },
+    {
+      "text": "sync maps offline for weak signal areas",
+      "timestamp": "2025-10-26T10:12:36Z",
+      "actor": 0
+    },
+    {
+      "text": "confirm emergency contacts and coverage",
+      "timestamp": "2025-10-26T10:13:08Z",
+      "actor": 1
+    },
+    {
+      "text": "ok, we’re ready—let’s lock the plan",
+      "timestamp": "2025-10-26T10:13:49Z",
+      "actor": 2
+    }
+  ]
+}

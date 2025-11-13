@@ -1,0 +1,39 @@
+{
+  "team_brainstorm_session_team6": [
+    {
+      "text": "week in australia: sydney to melbourne flow",
+      "timestamp": "2025-04-22T09:10:05Z",
+      "actor": 0
+    },
+    {
+      "text": "day 1: arrive, check in, harbor walk, dinner nearby",
+      "timestamp": "2025-04-22T09:10:28Z",
+      "actor": 1
+    },
+    {
+      "text": "day 2: jet\u2011ski or coastal hike; evening at bondi",
+      "timestamp": "2025-04-22T09:10:52Z",
+      "actor": 2
+    },
+    {
+      "text": "day 3: fly to melbourne; chinatown lunch; skydeck visit",
+      "timestamp": "2025-04-22T09:11:16Z",
+      "actor": 0
+    },
+    {
+      "text": "day 4: phillip island day trip\u2014penguins if timing fits",
+      "timestamp": "2025-04-22T09:11:40Z",
+      "actor": 1
+    },
+    {
+      "text": "day 5: darwin cruise option; alternative national park swim",
+      "timestamp": "2025-04-22T09:12:04Z",
+      "actor": 2
+    },
+    {
+      "text": "day 6: checkout and fly home; souvenir buffer",
+      "timestamp": "2025-04-22T09:12:28Z",
+      "actor": 0
+    }
+  ]
+}

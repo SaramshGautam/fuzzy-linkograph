@@ -1,0 +1,59 @@
+{
+  "team_brainstorm_session_team2": [
+    {
+      "text": "let's plan our summer trip across europe",
+      "timestamp": "2025-06-15T10:00:05Z",
+      "actor": 0
+    },
+    {
+      "text": "we could start in germany and try driving on the autobahn",
+      "timestamp": "2025-06-15T10:00:25Z",
+      "actor": 1
+    },
+    {
+      "text": "yes! i\u2019ve always wanted to rent a porsche and go full speed",
+      "timestamp": "2025-06-15T10:00:48Z",
+      "actor": 2
+    },
+    {
+      "text": "then maybe head south to italy for some good food and wine",
+      "timestamp": "2025-06-15T10:01:10Z",
+      "actor": 0
+    },
+    {
+      "text": "and wrap it up by partying in ibiza for a few days",
+      "timestamp": "2025-06-15T10:01:35Z",
+      "actor": 1
+    },
+    {
+      "text": "sounds perfect, but we should also visit paris on the way back",
+      "timestamp": "2025-06-15T10:02:00Z",
+      "actor": 2
+    },
+    {
+      "text": "good idea\u2014let\u2019s make a route map to see how much driving it\u2019ll take",
+      "timestamp": "2025-06-15T10:02:22Z",
+      "actor": 0
+    },
+    {
+      "text": "we can book a eurorail pass too, just in case we don\u2019t want to drive everywhere",
+      "timestamp": "2025-06-15T10:02:50Z",
+      "actor": 1
+    },
+    {
+      "text": "i\u2019ll look up the festivals happening in june across europe",
+      "timestamp": "2025-06-15T10:03:15Z",
+      "actor": 2
+    },
+    {
+      "text": "make sure we align ibiza dates with the big weekend parties",
+      "timestamp": "2025-06-15T10:03:40Z",
+      "actor": 1
+    },
+    {
+      "text": "and maybe end the trip relaxing in the swiss alps",
+      "timestamp": "2025-06-15T10:04:05Z",
+      "actor": 0
+    }
+  ]
+}

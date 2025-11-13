@@ -1,0 +1,1408 @@
+{
+  "TeamX_v3": {
+    "moves": [
+      {
+        "text": "hiking routes, scenic overlooks",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:20:30Z",
+        "action": "add_note",
+        "itemType": "text",
+        "items": ["shape:x001"],
+        "content": {
+          "text": "hiking routes, scenic overlooks",
+          "imageUrls": ["https://picsum.photos/seed/hiking-1/800/600"],
+          "tags": ["hiking", "routes", "overlooks"]
+        },
+        "micro": {
+          "pointer_path_px": 275,
+          "dwell_ms": 499,
+          "reselect_count": 1,
+          "hover_ms": 82,
+          "scrub_px": 14
+        },
+        "tempo": {
+          "gap_prev_ms": 885,
+          "apm_rolling": 20.9,
+          "velocity_px_s": 390.7
+        }
+      },
+      {
+        "text": "Rocky Mountains trailhead map",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:20:58Z",
+        "action": "image",
+        "itemType": "image",
+        "items": ["shape:x002"],
+        "content": {
+          "text": "Rocky Mountains trailhead map",
+          "imageUrls": ["https://picsum.photos/seed/trailhead-1/800/600"],
+          "tags": ["trail", "map"]
+        },
+        "micro": {
+          "pointer_path_px": 682,
+          "dwell_ms": 136,
+          "reselect_count": 0,
+          "hover_ms": 43,
+          "scrub_px": 13
+        },
+        "tempo": {
+          "gap_prev_ms": 1076,
+          "apm_rolling": 17.8,
+          "velocity_px_s": 130.6
+        }
+      },
+      {
+        "text": "city food crawl ideas",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:21:21Z",
+        "action": "add_note",
+        "itemType": "text",
+        "items": ["shape:x003"],
+        "content": {
+          "text": "city food crawl ideas",
+          "imageUrls": [
+            "https://picsum.photos/seed/food-0/800/600",
+            "https://picsum.photos/seed/city-0/800/600"
+          ],
+          "tags": ["city", "food", "crawl"]
+        },
+        "micro": {
+          "pointer_path_px": 679,
+          "dwell_ms": 232,
+          "reselect_count": 1,
+          "hover_ms": 170,
+          "scrub_px": 17
+        },
+        "tempo": {
+          "gap_prev_ms": 613,
+          "apm_rolling": 21.2,
+          "velocity_px_s": 183.9
+        }
+      },
+      {
+        "text": "hiking to campsites",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:21:47Z",
+        "action": "link",
+        "itemType": "text",
+        "items": ["shape:x004"],
+        "content": {
+          "text": "hiking to campsites",
+          "imageUrls": [],
+          "tags": ["hiking", "campsite"]
+        },
+        "micro": {
+          "pointer_path_px": 534,
+          "dwell_ms": 199,
+          "reselect_count": 0,
+          "hover_ms": 215,
+          "scrub_px": 21
+        },
+        "tempo": {
+          "gap_prev_ms": 809,
+          "apm_rolling": 12.3,
+          "velocity_px_s": 158.7
+        }
+      },
+      {
+        "text": "food crawl with coffee stops",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:22:12Z",
+        "action": "group",
+        "itemType": "text",
+        "items": ["shape:x005"],
+        "content": {
+          "text": "food crawl with coffee stops",
+          "imageUrls": [],
+          "tags": ["food", "coffee"]
+        },
+        "micro": {
+          "pointer_path_px": 520,
+          "dwell_ms": 142,
+          "reselect_count": 2,
+          "hover_ms": 137,
+          "scrub_px": 34
+        },
+        "tempo": {
+          "gap_prev_ms": 855,
+          "apm_rolling": 24.1,
+          "velocity_px_s": 271.4
+        }
+      },
+      {
+        "text": "budget: gas, lodging, passes",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:22:40Z",
+        "action": "add_note",
+        "itemType": "text",
+        "items": ["shape:x006"],
+        "content": {
+          "text": "budget: gas, lodging, passes",
+          "imageUrls": ["https://picsum.photos/seed/budget-0/800/600"],
+          "tags": ["budget", "gas", "lodging"]
+        },
+        "micro": {
+          "pointer_path_px": 620,
+          "dwell_ms": 415,
+          "reselect_count": 0,
+          "hover_ms": 200,
+          "scrub_px": 4
+        },
+        "tempo": {
+          "gap_prev_ms": 693,
+          "apm_rolling": 19.9,
+          "velocity_px_s": 429.2
+        }
+      },
+      {
+        "text": "beach sunset for day 3",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:23:01Z",
+        "action": "image",
+        "itemType": "image",
+        "items": ["shape:x007"],
+        "content": {
+          "text": "beach sunset for day 3",
+          "imageUrls": [
+            "https://picsum.photos/seed/beach-2/800/600",
+            "https://picsum.photos/seed/sunset-1/800/600"
+          ],
+          "tags": ["beach", "sunset"]
+        },
+        "micro": {
+          "pointer_path_px": 353,
+          "dwell_ms": 314,
+          "reselect_count": 1,
+          "hover_ms": 136,
+          "scrub_px": 40
+        },
+        "tempo": {
+          "gap_prev_ms": 1347,
+          "apm_rolling": 13.2,
+          "velocity_px_s": 262.1
+        }
+      },
+      {
+        "text": "smart mug prototype: temp sensor",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:23:31Z",
+        "action": "add_note",
+        "itemType": "text",
+        "items": ["shape:x008"],
+        "content": {
+          "text": "smart mug prototype: temp sensor",
+          "imageUrls": ["https://picsum.photos/seed/mug-0/800/600"],
+          "tags": ["mug", "prototype", "sensor"]
+        },
+        "micro": {
+          "pointer_path_px": 323,
+          "dwell_ms": 431,
+          "reselect_count": 2,
+          "hover_ms": 63,
+          "scrub_px": 34
+        },
+        "tempo": {
+          "gap_prev_ms": 2093,
+          "apm_rolling": 14.3,
+          "velocity_px_s": 304.9
+        }
+      },
+      {
+        "text": "PCB sketch for mug",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:23:55Z",
+        "action": "image",
+        "itemType": "image",
+        "items": ["shape:x009"],
+        "content": {
+          "text": "PCB sketch for mug",
+          "imageUrls": ["https://picsum.photos/seed/pcb-0/800/600"],
+          "tags": ["pcb", "sketch"]
+        },
+        "micro": {
+          "pointer_path_px": 474,
+          "dwell_ms": 470,
+          "reselect_count": 1,
+          "hover_ms": 235,
+          "scrub_px": 3
+        },
+        "tempo": {
+          "gap_prev_ms": 1069,
+          "apm_rolling": 22.1,
+          "velocity_px_s": 442.0
+        }
+      },
+      {
+        "text": "battery life tradeoffs",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:24:21Z",
+        "action": "add_note",
+        "itemType": "text",
+        "items": ["shape:x010"],
+        "content": {
+          "text": "battery life tradeoffs",
+          "imageUrls": [],
+          "tags": ["battery", "tradeoffs"]
+        },
+        "micro": {
+          "pointer_path_px": 317,
+          "dwell_ms": 228,
+          "reselect_count": 2,
+          "hover_ms": 203,
+          "scrub_px": 20
+        },
+        "tempo": {
+          "gap_prev_ms": 1035,
+          "apm_rolling": 19.8,
+          "velocity_px_s": 278.3
+        }
+      },
+      {
+        "text": "mug use-case to road-trip mornings",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:24:51Z",
+        "action": "link",
+        "itemType": "text",
+        "items": ["shape:x011"],
+        "content": {
+          "text": "mug use-case to road-trip mornings",
+          "imageUrls": [],
+          "tags": ["mug", "roadtrip", "coffee"]
+        },
+        "micro": {
+          "pointer_path_px": 396,
+          "dwell_ms": 255,
+          "reselect_count": 0,
+          "hover_ms": 83,
+          "scrub_px": 47
+        },
+        "tempo": {
+          "gap_prev_ms": 1749,
+          "apm_rolling": 18.3,
+          "velocity_px_s": 418.8
+        }
+      },
+      {
+        "text": "prototype sketches",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:25:17Z",
+        "action": "cluster",
+        "itemType": "text",
+        "items": ["shape:x012"],
+        "content": {
+          "text": "prototype sketches",
+          "imageUrls": [],
+          "tags": ["prototype", "cluster"]
+        },
+        "micro": {
+          "pointer_path_px": 658,
+          "dwell_ms": 305,
+          "reselect_count": 0,
+          "hover_ms": 55,
+          "scrub_px": 32
+        },
+        "tempo": {
+          "gap_prev_ms": 1610,
+          "apm_rolling": 12.2,
+          "velocity_px_s": 138.8
+        }
+      },
+      {
+        "text": "festival lineup: indie + electronic",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:25:38Z",
+        "action": "add_note",
+        "itemType": "text",
+        "items": ["shape:x013"],
+        "content": {
+          "text": "festival lineup: indie + electronic",
+          "imageUrls": ["https://picsum.photos/seed/festival-0/800/600"],
+          "tags": ["festival", "lineup", "indie", "electronic"]
+        },
+        "micro": {
+          "pointer_path_px": 413,
+          "dwell_ms": 468,
+          "reselect_count": 1,
+          "hover_ms": 172,
+          "scrub_px": 4
+        },
+        "tempo": {
+          "gap_prev_ms": 1388,
+          "apm_rolling": 16.2,
+          "velocity_px_s": 518.4
+        }
+      },
+      {
+        "text": "stage layout options",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:26:06Z",
+        "action": "image",
+        "itemType": "image",
+        "items": ["shape:x014"],
+        "content": {
+          "text": "stage layout options",
+          "imageUrls": ["https://picsum.photos/seed/stage-0/800/600"],
+          "tags": ["stage", "layout"]
+        },
+        "micro": {
+          "pointer_path_px": 261,
+          "dwell_ms": 468,
+          "reselect_count": 2,
+          "hover_ms": 49,
+          "scrub_px": 43
+        },
+        "tempo": {
+          "gap_prev_ms": 1699,
+          "apm_rolling": 21.1,
+          "velocity_px_s": 427.4
+        }
+      },
+      {
+        "text": "vendors: tacos, espresso cart",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:26:31Z",
+        "action": "add_note",
+        "itemType": "text",
+        "items": ["shape:x015"],
+        "content": {
+          "text": "vendors: tacos, espresso cart",
+          "imageUrls": ["https://picsum.photos/seed/vendors-0/800/600"],
+          "tags": ["vendors", "tacos", "espresso"]
+        },
+        "micro": {
+          "pointer_path_px": 550,
+          "dwell_ms": 342,
+          "reselect_count": 0,
+          "hover_ms": 136,
+          "scrub_px": 0
+        },
+        "tempo": {
+          "gap_prev_ms": 2078,
+          "apm_rolling": 22.8,
+          "velocity_px_s": 225.4
+        }
+      },
+      {
+        "text": "lineup to stage layout",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:26:59Z",
+        "action": "link",
+        "itemType": "text",
+        "items": ["shape:x016"],
+        "content": {
+          "text": "lineup to stage layout",
+          "imageUrls": [],
+          "tags": ["lineup", "layout"]
+        },
+        "micro": {
+          "pointer_path_px": 769,
+          "dwell_ms": 174,
+          "reselect_count": 2,
+          "hover_ms": 96,
+          "scrub_px": 40
+        },
+        "tempo": {
+          "gap_prev_ms": 1639,
+          "apm_rolling": 19.2,
+          "velocity_px_s": 181.1
+        }
+      },
+      {
+        "text": "espresso machine review comparisons",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:27:21Z",
+        "action": "add_note",
+        "itemType": "text",
+        "items": ["shape:x017"],
+        "content": {
+          "text": "espresso machine review comparisons",
+          "imageUrls": ["https://picsum.photos/seed/espresso-0/800/600"],
+          "tags": ["espresso", "review", "machines"]
+        },
+        "micro": {
+          "pointer_path_px": 793,
+          "dwell_ms": 120,
+          "reselect_count": 2,
+          "hover_ms": 102,
+          "scrub_px": 31
+        },
+        "tempo": {
+          "gap_prev_ms": 639,
+          "apm_rolling": 12.5,
+          "velocity_px_s": 265.2
+        }
+      },
+      {
+        "text": "product photo unrelated (random texture)",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:27:45Z",
+        "action": "image",
+        "itemType": "image",
+        "items": ["shape:x018"],
+        "content": {
+          "text": "product photo unrelated (random texture)",
+          "imageUrls": ["https://picsum.photos/seed/abstract-7/800/600"],
+          "tags": ["abstract", "texture"]
+        },
+        "micro": {
+          "pointer_path_px": 309,
+          "dwell_ms": 243,
+          "reselect_count": 2,
+          "hover_ms": 40,
+          "scrub_px": 5
+        },
+        "tempo": {
+          "gap_prev_ms": 2098,
+          "apm_rolling": 17.6,
+          "velocity_px_s": 147.7
+        }
+      },
+      {
+        "text": "astronomy photo list for later",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:28:13Z",
+        "action": "add_note",
+        "itemType": "text",
+        "items": ["shape:x019"],
+        "content": {
+          "text": "astronomy photo list for later",
+          "imageUrls": ["https://picsum.photos/seed/stars-0/800/600"],
+          "tags": ["astronomy", "photo", "todo"]
+        },
+        "micro": {
+          "pointer_path_px": 381,
+          "dwell_ms": 457,
+          "reselect_count": 1,
+          "hover_ms": 160,
+          "scrub_px": 10
+        },
+        "tempo": {
+          "gap_prev_ms": 1142,
+          "apm_rolling": 18.1,
+          "velocity_px_s": 362.6
+        }
+      },
+      {
+        "text": "apartment layout: flow + lighting",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:28:36Z",
+        "action": "add_note",
+        "itemType": "text",
+        "items": ["shape:x020"],
+        "content": {
+          "text": "apartment layout: flow + lighting",
+          "imageUrls": ["https://picsum.photos/seed/apartment-0/800/600"],
+          "tags": ["apartment", "layout", "lighting", "flow"]
+        },
+        "micro": {
+          "pointer_path_px": 455,
+          "dwell_ms": 485,
+          "reselect_count": 1,
+          "hover_ms": 122,
+          "scrub_px": 42
+        },
+        "tempo": {
+          "gap_prev_ms": 1930,
+          "apm_rolling": 16.0,
+          "velocity_px_s": 479.8
+        }
+      },
+      {
+        "text": "floorplan sketch",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:29:03Z",
+        "action": "image",
+        "itemType": "image",
+        "items": ["shape:x021"],
+        "content": {
+          "text": "floorplan sketch",
+          "imageUrls": ["https://picsum.photos/seed/floor-0/800/600"],
+          "tags": ["floorplan", "sketch"]
+        },
+        "micro": {
+          "pointer_path_px": 503,
+          "dwell_ms": 235,
+          "reselect_count": 0,
+          "hover_ms": 106,
+          "scrub_px": 1
+        },
+        "tempo": {
+          "gap_prev_ms": 1804,
+          "apm_rolling": 18.5,
+          "velocity_px_s": 355.4
+        }
+      },
+      {
+        "text": "color palette warm neutrals",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:29:23Z",
+        "action": "add_note",
+        "itemType": "text",
+        "items": ["shape:x022"],
+        "content": {
+          "text": "color palette warm neutrals",
+          "imageUrls": ["https://picsum.photos/seed/palette-0/800/600"],
+          "tags": ["color", "palette", "warm"]
+        },
+        "micro": {
+          "pointer_path_px": 310,
+          "dwell_ms": 237,
+          "reselect_count": 0,
+          "hover_ms": 28,
+          "scrub_px": 21
+        },
+        "tempo": {
+          "gap_prev_ms": 745,
+          "apm_rolling": 17.9,
+          "velocity_px_s": 231.4
+        }
+      },
+      {
+        "text": "living room to stage layout analogy",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:29:50Z",
+        "action": "link",
+        "itemType": "text",
+        "items": ["shape:x023"],
+        "content": {
+          "text": "living room to stage layout analogy",
+          "imageUrls": [],
+          "tags": ["living", "stage", "layout", "analogy"]
+        },
+        "micro": {
+          "pointer_path_px": 385,
+          "dwell_ms": 490,
+          "reselect_count": 2,
+          "hover_ms": 167,
+          "scrub_px": 30
+        },
+        "tempo": {
+          "gap_prev_ms": 1097,
+          "apm_rolling": 21.6,
+          "velocity_px_s": 443.0
+        }
+      },
+      {
+        "text": "hiking + campsites + budget",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:30:13Z",
+        "action": "group",
+        "itemType": "text",
+        "items": ["shape:x024"],
+        "content": {
+          "text": "hiking + campsites + budget",
+          "imageUrls": [],
+          "tags": ["hiking", "campsites", "budget"]
+        },
+        "micro": {
+          "pointer_path_px": 349,
+          "dwell_ms": 457,
+          "reselect_count": 1,
+          "hover_ms": 110,
+          "scrub_px": 27
+        },
+        "tempo": {
+          "gap_prev_ms": 1441,
+          "apm_rolling": 17.3,
+          "velocity_px_s": 411.6
+        }
+      },
+      {
+        "text": "final route: Rockies → city → beach",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:30:43Z",
+        "action": "add_note",
+        "itemType": "text",
+        "items": ["shape:x025"],
+        "content": {
+          "text": "final route: Rockies → city → beach",
+          "imageUrls": ["https://picsum.photos/seed/route-1/800/600"],
+          "tags": ["final", "route", "rockies", "city", "beach"]
+        },
+        "micro": {
+          "pointer_path_px": 350,
+          "dwell_ms": 151,
+          "reselect_count": 1,
+          "hover_ms": 206,
+          "scrub_px": 21
+        },
+        "tempo": {
+          "gap_prev_ms": 823,
+          "apm_rolling": 14.4,
+          "velocity_px_s": 196.1
+        }
+      },
+      {
+        "text": "must-have reservations",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:31:10Z",
+        "action": "highlight",
+        "itemType": "text",
+        "items": ["shape:x026"],
+        "content": {
+          "text": "must-have reservations",
+          "imageUrls": [],
+          "tags": ["reservations", "priority"]
+        },
+        "micro": {
+          "pointer_path_px": 682,
+          "dwell_ms": 213,
+          "reselect_count": 1,
+          "hover_ms": 138,
+          "scrub_px": 15
+        },
+        "tempo": {
+          "gap_prev_ms": 754,
+          "apm_rolling": 17.0,
+          "velocity_px_s": 464.5
+        }
+      },
+      {
+        "text": "route to vendors (taco stops en route)",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:31:38Z",
+        "action": "link",
+        "itemType": "text",
+        "items": ["shape:x027"],
+        "content": {
+          "text": "route to vendors (taco stops en route)",
+          "imageUrls": [],
+          "tags": ["route", "vendors", "tacos"]
+        },
+        "micro": {
+          "pointer_path_px": 301,
+          "dwell_ms": 453,
+          "reselect_count": 2,
+          "hover_ms": 234,
+          "scrub_px": 0
+        },
+        "tempo": {
+          "gap_prev_ms": 791,
+          "apm_rolling": 23.5,
+          "velocity_px_s": 459.5
+        }
+      },
+      {
+        "text": "penguins documentary watchlist",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:32:00Z",
+        "action": "add_note",
+        "itemType": "text",
+        "items": ["shape:x028"],
+        "content": {
+          "text": "penguins documentary watchlist",
+          "imageUrls": ["https://picsum.photos/seed/penguins-0/800/600"],
+          "tags": ["penguins", "doc"]
+        },
+        "micro": {
+          "pointer_path_px": 747,
+          "dwell_ms": 366,
+          "reselect_count": 0,
+          "hover_ms": 122,
+          "scrub_px": 3
+        },
+        "tempo": {
+          "gap_prev_ms": 937,
+          "apm_rolling": 16.1,
+          "velocity_px_s": 514.1
+        }
+      },
+      {
+        "text": "route + reservations + budget into plan",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:32:24Z",
+        "action": "group",
+        "itemType": "text",
+        "items": ["shape:x029"],
+        "content": {
+          "text": "route + reservations + budget into plan",
+          "imageUrls": [],
+          "tags": ["route", "reservations", "budget", "plan"]
+        },
+        "micro": {
+          "pointer_path_px": 542,
+          "dwell_ms": 336,
+          "reselect_count": 2,
+          "hover_ms": 207,
+          "scrub_px": 35
+        },
+        "tempo": {
+          "gap_prev_ms": 1955,
+          "apm_rolling": 20.7,
+          "velocity_px_s": 181.9
+        }
+      },
+      {
+        "text": "finalize packing + checklist",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:32:48Z",
+        "action": "add_note",
+        "itemType": "text",
+        "items": ["shape:x030"],
+        "content": {
+          "text": "finalize packing + checklist",
+          "imageUrls": ["https://picsum.photos/seed/pack-0/800/600"],
+          "tags": ["packing", "checklist", "final"]
+        },
+        "micro": {
+          "pointer_path_px": 309,
+          "dwell_ms": 416,
+          "reselect_count": 2,
+          "hover_ms": 158,
+          "scrub_px": 3
+        },
+        "tempo": {
+          "gap_prev_ms": 2131,
+          "apm_rolling": 15.2,
+          "velocity_px_s": 140.1
+        }
+      },
+      {
+        "text": "checklist icon",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:33:15Z",
+        "action": "image",
+        "itemType": "image",
+        "items": ["shape:x031"],
+        "content": {
+          "text": "checklist icon",
+          "imageUrls": ["https://picsum.photos/seed/icon-0/800/600"],
+          "tags": ["checklist", "icon"]
+        },
+        "micro": {
+          "pointer_path_px": 793,
+          "dwell_ms": 200,
+          "reselect_count": 0,
+          "hover_ms": 150,
+          "scrub_px": 5
+        },
+        "tempo": {
+          "gap_prev_ms": 980,
+          "apm_rolling": 11.9,
+          "velocity_px_s": 147.2
+        }
+      },
+      {
+        "text": "final plan ready to share",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:33:38Z",
+        "action": "highlight",
+        "itemType": "text",
+        "items": ["shape:x032"],
+        "content": {
+          "text": "final plan ready to share",
+          "imageUrls": [],
+          "tags": ["final", "plan", "share"]
+        },
+        "micro": {
+          "pointer_path_px": 372,
+          "dwell_ms": 411,
+          "reselect_count": 0,
+          "hover_ms": 168,
+          "scrub_px": 38
+        },
+        "tempo": {
+          "gap_prev_ms": 681,
+          "apm_rolling": 19.4,
+          "velocity_px_s": 287.7
+        }
+      }
+    ],
+    "links": {
+      "0": {},
+      "1": {
+        "0": 0.7006871700286865
+      },
+      "2": {
+        "0": 0.846053421497345,
+        "1": 0.6273661851882935
+      },
+      "3": {
+        "0": 0.9189490079879761,
+        "1": 0.7071758508682251,
+        "2": 0.8099334836006165
+      },
+      "4": {
+        "0": 0.8358420729637146,
+        "1": 0.6243349313735962,
+        "2": 0.9195818305015564,
+        "3": 0.8314830660820007
+      },
+      "5": {
+        "0": 0.8462264537811279,
+        "1": 0.5935682058334351,
+        "2": 0.8120211362838745,
+        "3": 0.8193039298057556,
+        "4": 0.8005644083023071
+      },
+      "6": {
+        "0": 0.688849687576294,
+        "1": 0.5934571027755737,
+        "2": 0.6755284667015076,
+        "3": 0.7189041972160339,
+        "4": 0.667464554309845,
+        "5": 0.6536752581596375
+      },
+      "7": {
+        "0": 0.6927766799926758,
+        "1": 0.5773712396621704,
+        "2": 0.7325682044029236,
+        "3": 0.7068944573402405,
+        "4": 0.7327951788902283,
+        "5": 0.7117727398872375,
+        "6": 0.642728865146637
+      },
+      "8": {
+        "0": 0.6622779369354248,
+        "1": 0.5782442092895508,
+        "2": 0.6985412240028381,
+        "3": 0.6731287240982056,
+        "4": 0.7144283056259155,
+        "5": 0.6597341895103455,
+        "6": 0.6399723887443542,
+        "7": 0.7487444281578064
+      },
+      "9": {
+        "0": 0.8109856843948364,
+        "1": 0.6147165894508362,
+        "2": 0.7984751462936401,
+        "3": 0.8123541474342346,
+        "4": 0.8059014678001404,
+        "5": 0.8291667103767395,
+        "6": 0.6870410442352295,
+        "7": 0.7436712384223938,
+        "8": 0.6891681551933289
+      },
+      "10": {
+        "0": 0.7691934108734131,
+        "1": 0.5864511132240295,
+        "2": 0.7765849232673645,
+        "3": 0.7800685167312622,
+        "4": 0.8009971380233765,
+        "5": 0.7556340098381042,
+        "6": 0.6703528761863708,
+        "7": 0.7885419130325317,
+        "8": 0.7007074356079102,
+        "9": 0.769223153591156
+      },
+      "11": {
+        "0": 0.7910047769546509,
+        "1": 0.6112897992134094,
+        "2": 0.7830824851989746,
+        "3": 0.7894577383995056,
+        "4": 0.7844809293746948,
+        "5": 0.7783971428871155,
+        "6": 0.6832756400108337,
+        "7": 0.7402485609054565,
+        "8": 0.7800521850585938,
+        "9": 0.8055317401885986,
+        "10": 0.7474138736724854
+      },
+      "12": {
+        "0": 0.8393259048461914,
+        "1": 0.6285519599914551,
+        "2": 0.8548956513404846,
+        "3": 0.8259924054145813,
+        "4": 0.8240077495574951,
+        "5": 0.8237127661705017,
+        "6": 0.6910440325737,
+        "7": 0.734496533870697,
+        "8": 0.6976809501647949,
+        "9": 0.8279111981391907,
+        "10": 0.7590062022209167,
+        "11": 0.8031283020973206
+      },
+      "13": {
+        "0": 0.7767931222915649,
+        "1": 0.6171708703041077,
+        "2": 0.7785906195640564,
+        "3": 0.7595677375793457,
+        "4": 0.7614614963531494,
+        "5": 0.7578046321868896,
+        "6": 0.6705500483512878,
+        "7": 0.6883732080459595,
+        "8": 0.6997821927070618,
+        "9": 0.7979962825775146,
+        "10": 0.7102912664413452,
+        "11": 0.8052734732627869,
+        "12": 0.8214425444602966
+      },
+      "14": {
+        "0": 0.7913246154785156,
+        "1": 0.6301590204238892,
+        "2": 0.8345850706100464,
+        "3": 0.8037323951721191,
+        "4": 0.8419813513755798,
+        "5": 0.7815219759941101,
+        "6": 0.6388740539550781,
+        "7": 0.7092700004577637,
+        "8": 0.6664822697639465,
+        "9": 0.7883909344673157,
+        "10": 0.7407630085945129,
+        "11": 0.7746677994728088,
+        "12": 0.8237506747245789,
+        "13": 0.7612699866294861
+      },
+      "15": {
+        "0": 0.7739097476005554,
+        "1": 0.6287029385566711,
+        "2": 0.7679745554924011,
+        "3": 0.7638990879058838,
+        "4": 0.771765947341919,
+        "5": 0.7631304860115051,
+        "6": 0.6867170929908752,
+        "7": 0.6769236922264099,
+        "8": 0.6978588104248047,
+        "9": 0.7983620166778564,
+        "10": 0.7012443542480469,
+        "11": 0.8298313617706299,
+        "12": 0.8280946016311646,
+        "13": 0.9273026585578918,
+        "14": 0.7664163708686829
+      },
+      "16": {
+        "0": 0.6949394941329956,
+        "1": 0.5868345499038696,
+        "2": 0.7428433895111084,
+        "3": 0.696124792098999,
+        "4": 0.7440405488014221,
+        "5": 0.6907495856285095,
+        "6": 0.5827800035476685,
+        "7": 0.7325894832611084,
+        "8": 0.633236289024353,
+        "9": 0.737988293170929,
+        "10": 0.7043368220329285,
+        "11": 0.6835588216781616,
+        "12": 0.7117332220077515,
+        "13": 0.7078932523727417,
+        "14": 0.797929048538208,
+        "15": 0.6730520725250244
+      },
+      "17": {
+        "0": 0.7688319087028503,
+        "1": 0.6043515205383301,
+        "2": 0.7877064347267151,
+        "3": 0.7804984450340271,
+        "4": 0.7829968333244324,
+        "5": 0.7648073434829712,
+        "6": 0.7020306587219238,
+        "7": 0.721225380897522,
+        "8": 0.7092329859733582,
+        "9": 0.7919338345527649,
+        "10": 0.7681424021720886,
+        "11": 0.8019914031028748,
+        "12": 0.7954254746437073,
+        "13": 0.7537161707878113,
+        "14": 0.7617886662483215,
+        "15": 0.7492154240608215,
+        "16": 0.6738286018371582
+      },
+      "18": {
+        "0": 0.7821207046508789,
+        "1": 0.6050021648406982,
+        "2": 0.7685684561729431,
+        "3": 0.7594799399375916,
+        "4": 0.7471438646316528,
+        "5": 0.7529087066650391,
+        "6": 0.6467822194099426,
+        "7": 0.6851732730865479,
+        "8": 0.6342045068740845,
+        "9": 0.7675169706344604,
+        "10": 0.6981260180473328,
+        "11": 0.7430477142333984,
+        "12": 0.7829065322875977,
+        "13": 0.7402786612510681,
+        "14": 0.7265391945838928,
+        "15": 0.7405686378479004,
+        "16": 0.7019008994102478,
+        "17": 0.7504530549049377
+      },
+      "19": {
+        "0": 0.7194380164146423,
+        "1": 0.6075225472450256,
+        "2": 0.7516952753067017,
+        "3": 0.714597761631012,
+        "4": 0.7147032618522644,
+        "5": 0.7031658291816711,
+        "6": 0.6627205014228821,
+        "7": 0.692474365234375,
+        "8": 0.630672037601471,
+        "9": 0.7057929039001465,
+        "10": 0.6591781973838806,
+        "11": 0.7070016860961914,
+        "12": 0.7301263213157654,
+        "13": 0.7687948942184448,
+        "14": 0.6780661940574646,
+        "15": 0.7346279621124268,
+        "16": 0.6683891415596008,
+        "17": 0.6794228553771973,
+        "18": 0.6596280932426453
+      },
+      "20": {
+        "0": 0.750123918056488,
+        "1": 0.6335336565971375,
+        "2": 0.7478193640708923,
+        "3": 0.7324665784835815,
+        "4": 0.7374864220619202,
+        "5": 0.7298994660377502,
+        "6": 0.6533271074295044,
+        "7": 0.6802449822425842,
+        "8": 0.7883084416389465,
+        "9": 0.7384371757507324,
+        "10": 0.6613367199897766,
+        "11": 0.8407565355300903,
+        "12": 0.7457457184791565,
+        "13": 0.8062097430229187,
+        "14": 0.691246509552002,
+        "15": 0.8107370734214783,
+        "16": 0.6222795844078064,
+        "17": 0.7230408191680908,
+        "18": 0.6815779805183411,
+        "19": 0.7588818669319153
+      },
+      "21": {
+        "0": 0.6917803287506104,
+        "1": 0.5242230892181396,
+        "2": 0.6606158018112183,
+        "3": 0.681307315826416,
+        "4": 0.6910299062728882,
+        "5": 0.6969226598739624,
+        "6": 0.6193315982818604,
+        "7": 0.5899209976196289,
+        "8": 0.56432044506073,
+        "9": 0.6909584999084473,
+        "10": 0.610568642616272,
+        "11": 0.7004972100257874,
+        "12": 0.7040088772773743,
+        "13": 0.7000964283943176,
+        "14": 0.6427504420280457,
+        "15": 0.7075024247169495,
+        "16": 0.6004689335823059,
+        "17": 0.6937882900238037,
+        "18": 0.6296806931495667,
+        "19": 0.6531546115875244,
+        "20": 0.6603402495384216
+      },
+      "22": {
+        "0": 0.7545834183692932,
+        "1": 0.5987753868103027,
+        "2": 0.7538937926292419,
+        "3": 0.7638595700263977,
+        "4": 0.759028434753418,
+        "5": 0.7508804798126221,
+        "6": 0.6797776818275452,
+        "7": 0.7020061016082764,
+        "8": 0.689263105392456,
+        "9": 0.783569872379303,
+        "10": 0.6901650428771973,
+        "11": 0.7849240303039551,
+        "12": 0.7849220037460327,
+        "13": 0.902769923210144,
+        "14": 0.732088565826416,
+        "15": 0.8733352422714233,
+        "16": 0.6932395696640015,
+        "17": 0.7558275461196899,
+        "18": 0.7073874473571777,
+        "19": 0.8023211359977722,
+        "20": 0.8095082640647888,
+        "21": 0.6976138353347778
+      },
+      "23": {
+        "0": 0.871328592300415,
+        "1": 0.6602968573570251,
+        "2": 0.8211885094642639,
+        "3": 0.9314209222793579,
+        "4": 0.7950434684753418,
+        "5": 0.8249661922454834,
+        "6": 0.6781438589096069,
+        "7": 0.7072370648384094,
+        "8": 0.6547151207923889,
+        "9": 0.7952077388763428,
+        "10": 0.7638639211654663,
+        "11": 0.7548619508743286,
+        "12": 0.8264642953872681,
+        "13": 0.7489177584648132,
+        "14": 0.8010920882225037,
+        "15": 0.7234690189361572,
+        "16": 0.7327740788459778,
+        "17": 0.7548402547836304,
+        "18": 0.733076810836792,
+        "19": 0.7242676615715027,
+        "20": 0.7097036838531494,
+        "21": 0.6508762836456299,
+        "22": 0.746799111366272
+      },
+      "24": {
+        "0": 0.8096426725387573,
+        "1": 0.6611578464508057,
+        "2": 0.7781850695610046,
+        "3": 0.8131102323532104,
+        "4": 0.7950544953346252,
+        "5": 0.7588436007499695,
+        "6": 0.7272481322288513,
+        "7": 0.6582549214363098,
+        "8": 0.6451214551925659,
+        "9": 0.7782138586044312,
+        "10": 0.7433471083641052,
+        "11": 0.7511653900146484,
+        "12": 0.7943994998931885,
+        "13": 0.7349216341972351,
+        "14": 0.7609381079673767,
+        "15": 0.7277973294258118,
+        "16": 0.6417839527130127,
+        "17": 0.76798415184021,
+        "18": 0.6938363313674927,
+        "19": 0.6567755341529846,
+        "20": 0.6945123672485352,
+        "21": 0.6415997743606567,
+        "22": 0.7150384187698364,
+        "23": 0.7767071723937988
+      },
+      "25": {
+        "0": 0.8141993284225464,
+        "1": 0.5803412199020386,
+        "2": 0.8154024481773376,
+        "3": 0.7959114909172058,
+        "4": 0.8053145408630371,
+        "5": 0.8039422035217285,
+        "6": 0.6264753937721252,
+        "7": 0.6882079839706421,
+        "8": 0.6597601175308228,
+        "9": 0.8090492486953735,
+        "10": 0.7638368010520935,
+        "11": 0.7936416268348694,
+        "12": 0.8030874133110046,
+        "13": 0.7872428297996521,
+        "14": 0.7862911224365234,
+        "15": 0.7914712429046631,
+        "16": 0.6707664728164673,
+        "17": 0.7763023376464844,
+        "18": 0.724142849445343,
+        "19": 0.684759259223938,
+        "20": 0.7293170094490051,
+        "21": 0.6743803024291992,
+        "22": 0.7550324201583862,
+        "23": 0.7748008966445923,
+        "24": 0.7518718242645264
+      },
+      "26": {
+        "0": 0.8027325868606567,
+        "1": 0.6213366389274597,
+        "2": 0.8183380961418152,
+        "3": 0.801080048084259,
+        "4": 0.8394671678543091,
+        "5": 0.7807033658027649,
+        "6": 0.6531871557235718,
+        "7": 0.687860906124115,
+        "8": 0.6589818596839905,
+        "9": 0.8124111890792847,
+        "10": 0.7395434975624084,
+        "11": 0.7871748208999634,
+        "12": 0.7998518943786621,
+        "13": 0.7769534587860107,
+        "14": 0.8760986924171448,
+        "15": 0.7916368246078491,
+        "16": 0.6759294867515564,
+        "17": 0.7557522058486938,
+        "18": 0.7275012135505676,
+        "19": 0.6745014190673828,
+        "20": 0.7180013656616211,
+        "21": 0.6568114757537842,
+        "22": 0.7584519982337952,
+        "23": 0.7641093134880066,
+        "24": 0.7975225448608398,
+        "25": 0.7954748868942261
+      },
+      "27": {
+        "0": 0.7227096557617188,
+        "1": 0.5402011275291443,
+        "2": 0.7347192764282227,
+        "3": 0.7165419459342957,
+        "4": 0.7188577055931091,
+        "5": 0.7241650819778442,
+        "6": 0.5928966999053955,
+        "7": 0.6429363489151001,
+        "8": 0.6193288564682007,
+        "9": 0.7443889379501343,
+        "10": 0.670168936252594,
+        "11": 0.7254806160926819,
+        "12": 0.7461490631103516,
+        "13": 0.6861372590065002,
+        "14": 0.7047604322433472,
+        "15": 0.7039242386817932,
+        "16": 0.6469966769218445,
+        "17": 0.7029792666435242,
+        "18": 0.7083911895751953,
+        "19": 0.620606005191803,
+        "20": 0.6405942440032959,
+        "21": 0.6013314127922058,
+        "22": 0.687686562538147,
+        "23": 0.7001646161079407,
+        "24": 0.700258195400238,
+        "25": 0.706077516078949,
+        "26": 0.6974080801010132
+      },
+      "28": {
+        "0": 0.8560208082199097,
+        "1": 0.6134257912635803,
+        "2": 0.8365315794944763,
+        "3": 0.8370684385299683,
+        "4": 0.8364432454109192,
+        "5": 0.8732509613037109,
+        "6": 0.6546129584312439,
+        "7": 0.7176215648651123,
+        "8": 0.6921742558479309,
+        "9": 0.8435394763946533,
+        "10": 0.7680492997169495,
+        "11": 0.8084383606910706,
+        "12": 0.83954918384552,
+        "13": 0.8013866543769836,
+        "14": 0.813647449016571,
+        "15": 0.8093660473823547,
+        "16": 0.7048783302307129,
+        "17": 0.7748892903327942,
+        "18": 0.7534705400466919,
+        "19": 0.7169078588485718,
+        "20": 0.7727586627006531,
+        "21": 0.7014601826667786,
+        "22": 0.7873454689979553,
+        "23": 0.8400391936302185,
+        "24": 0.7956976890563965,
+        "25": 0.8811283111572266,
+        "26": 0.8421207666397095,
+        "27": 0.7327736020088196
+      },
+      "29": {
+        "0": 0.8168236613273621,
+        "1": 0.6004108786582947,
+        "2": 0.8043256402015686,
+        "3": 0.8308180570602417,
+        "4": 0.8064843416213989,
+        "5": 0.7929509878158569,
+        "6": 0.6685888767242432,
+        "7": 0.6777698993682861,
+        "8": 0.6757413744926453,
+        "9": 0.8092159628868103,
+        "10": 0.7421548366546631,
+        "11": 0.8004787564277649,
+        "12": 0.8139551877975464,
+        "13": 0.7978090047836304,
+        "14": 0.7664815783500671,
+        "15": 0.7995088696479797,
+        "16": 0.6855015754699707,
+        "17": 0.7742621898651123,
+        "18": 0.7388996481895447,
+        "19": 0.7393494844436646,
+        "20": 0.7553640007972717,
+        "21": 0.6994081735610962,
+        "22": 0.7917724847793579,
+        "23": 0.8113716244697571,
+        "24": 0.7733150124549866,
+        "25": 0.7960859537124634,
+        "26": 0.7798762917518616,
+        "27": 0.7287269830703735,
+        "28": 0.8257492780685425
+      },
+      "30": {
+        "0": 0.7221351861953735,
+        "1": 0.5672361850738525,
+        "2": 0.7142816185951233,
+        "3": 0.717989981174469,
+        "4": 0.7060409784317017,
+        "5": 0.7061039805412292,
+        "6": 0.6166751980781555,
+        "7": 0.6242636442184448,
+        "8": 0.6505793333053589,
+        "9": 0.7464538216590881,
+        "10": 0.655998706817627,
+        "11": 0.7728158235549927,
+        "12": 0.7403168082237244,
+        "13": 0.7439685463905334,
+        "14": 0.6784291863441467,
+        "15": 0.7599944472312927,
+        "16": 0.5936212539672852,
+        "17": 0.7269478440284729,
+        "18": 0.6878916621208191,
+        "19": 0.6418178677558899,
+        "20": 0.712015688419342,
+        "21": 0.6426008939743042,
+        "22": 0.7035139203071594,
+        "23": 0.6680494546890259,
+        "24": 0.680101215839386,
+        "25": 0.7451810836791992,
+        "26": 0.6888409852981567,
+        "27": 0.6593741774559021,
+        "28": 0.726884663105011,
+        "29": 0.8334518671035767
+      },
+      "31": {
+        "0": 0.8144688606262207,
+        "1": 0.6061887145042419,
+        "2": 0.8118599057197571,
+        "3": 0.8107684850692749,
+        "4": 0.828707754611969,
+        "5": 0.8150877952575684,
+        "6": 0.6736859083175659,
+        "7": 0.6944894194602966,
+        "8": 0.709208071231842,
+        "9": 0.8281109929084778,
+        "10": 0.7394901514053345,
+        "11": 0.8400530219078064,
+        "12": 0.8374138474464417,
+        "13": 0.8329306840896606,
+        "14": 0.7938371896743774,
+        "15": 0.8659924864768982,
+        "16": 0.6806315183639526,
+        "17": 0.7971235513687134,
+        "18": 0.76386958360672,
+        "19": 0.6989178657531738,
+        "20": 0.8023777604103088,
+        "21": 0.717322051525116,
+        "22": 0.8208896517753601,
+        "23": 0.7818862795829773,
+        "24": 0.7806141376495361,
+        "25": 0.8406289219856262,
+        "26": 0.8278795480728149,
+        "27": 0.7443481683731079,
+        "28": 0.8929540514945984,
+        "29": 0.8508155941963196,
+        "30": 0.7896549701690674
+      }
+    },
+    "modality": [
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text"
+    ],
+    "model": "openai/clip-vit-base-patch32"
+  }
+}

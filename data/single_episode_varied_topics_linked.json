@@ -1,0 +1,2005 @@
+{
+  "TeamX": {
+    "moves": [
+      {
+        "text": "draw city, museum",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:20:00Z",
+        "action": "draw",
+        "itemType": "note",
+        "items": [
+          "shape:q9om4894zj",
+          "shape:oj7yaekctb"
+        ],
+        "content": {
+          "text": "city, museum",
+          "imageUrls": [
+            "https://picsum.photos/seed/city/800/600",
+            "https://picsum.photos/seed/museum/800/600"
+          ],
+          "tags": [
+            "city",
+            "museum"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 375,
+          "dwell_ms": 342,
+          "reselect_count": 3,
+          "hover_ms": 139,
+          "scrub_px": 25
+        },
+        "tempo": {
+          "gap_prev_ms": 1481,
+          "apm_rolling": 26.7,
+          "velocity_px_s": 524.2
+        }
+      },
+      {
+        "text": "group hiking, beach, museum",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:20:10Z",
+        "action": "group",
+        "itemType": "cluster",
+        "items": [
+          "shape:1t06yw80ov",
+          "shape:brku8gnrsh",
+          "shape:e44fwe0jbs"
+        ],
+        "content": {
+          "text": "hiking, beach, museum",
+          "imageUrls": [
+            "https://picsum.photos/seed/hiking/800/600",
+            "https://picsum.photos/seed/beach/800/600",
+            "https://picsum.photos/seed/museum/800/600"
+          ],
+          "tags": [
+            "hiking",
+            "beach",
+            "museum"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 537,
+          "dwell_ms": 493,
+          "reselect_count": 3,
+          "hover_ms": 60,
+          "scrub_px": 2
+        },
+        "tempo": {
+          "gap_prev_ms": 392,
+          "apm_rolling": 24.5,
+          "velocity_px_s": 384.6
+        }
+      },
+      {
+        "text": "move beach, alps, hiking",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:20:20Z",
+        "action": "move",
+        "itemType": "note",
+        "items": [
+          "shape:8cm0sqjcvu"
+        ],
+        "content": {
+          "text": "beach, alps, hiking",
+          "imageUrls": [
+            "https://picsum.photos/seed/beach/800/600",
+            "https://picsum.photos/seed/alps/800/600",
+            "https://picsum.photos/seed/hiking/800/600"
+          ],
+          "tags": [
+            "beach",
+            "alps",
+            "hiking"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 468,
+          "dwell_ms": 170,
+          "reselect_count": 3,
+          "hover_ms": 126,
+          "scrub_px": 29
+        },
+        "tempo": {
+          "gap_prev_ms": 1365,
+          "apm_rolling": 24.7,
+          "velocity_px_s": 496.7
+        }
+      },
+      {
+        "text": "link beach, city",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:20:30Z",
+        "action": "link",
+        "itemType": "image",
+        "items": [
+          "shape:pt1q7t9va0",
+          "shape:ubyidv3wwr",
+          "shape:5bdbxq3tul"
+        ],
+        "content": {
+          "text": "beach, city",
+          "imageUrls": [
+            "https://picsum.photos/seed/beach/800/600",
+            "https://picsum.photos/seed/city/800/600"
+          ],
+          "tags": [
+            "beach",
+            "city"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 472,
+          "dwell_ms": 194,
+          "reselect_count": 2,
+          "hover_ms": 124,
+          "scrub_px": 38
+        },
+        "tempo": {
+          "gap_prev_ms": 840,
+          "apm_rolling": 21.9,
+          "velocity_px_s": 300.9
+        }
+      },
+      {
+        "text": "move beach, alps",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:20:40Z",
+        "action": "move",
+        "itemType": "note",
+        "items": [
+          "shape:rpul1gguvo",
+          "shape:2kfvn2rohc",
+          "shape:7mulrvfwi0"
+        ],
+        "content": {
+          "text": "beach, alps",
+          "imageUrls": [
+            "https://picsum.photos/seed/beach/800/600",
+            "https://picsum.photos/seed/alps/800/600"
+          ],
+          "tags": [
+            "beach",
+            "alps"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 398,
+          "dwell_ms": 365,
+          "reselect_count": 2,
+          "hover_ms": 148,
+          "scrub_px": 22
+        },
+        "tempo": {
+          "gap_prev_ms": 1153,
+          "apm_rolling": 21.6,
+          "velocity_px_s": 377.3
+        }
+      },
+      {
+        "text": "highlight museum, alps",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:20:50Z",
+        "action": "highlight",
+        "itemType": "cluster",
+        "items": [
+          "shape:619oc37s8v",
+          "shape:oeshpcc6m1",
+          "shape:da4hk6tpb7"
+        ],
+        "content": {
+          "text": "museum, alps",
+          "imageUrls": [
+            "https://picsum.photos/seed/museum/800/600",
+            "https://picsum.photos/seed/alps/800/600"
+          ],
+          "tags": [
+            "museum",
+            "alps"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 649,
+          "dwell_ms": 311,
+          "reselect_count": 0,
+          "hover_ms": 186,
+          "scrub_px": 7
+        },
+        "tempo": {
+          "gap_prev_ms": 999,
+          "apm_rolling": 16.1,
+          "velocity_px_s": 538.8
+        }
+      },
+      {
+        "text": "highlight hiking, city, beach",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:21:00Z",
+        "action": "highlight",
+        "itemType": "image",
+        "items": [
+          "shape:kpria5zdrp"
+        ],
+        "content": {
+          "text": "hiking, city, beach",
+          "imageUrls": [
+            "https://picsum.photos/seed/hiking/800/600",
+            "https://picsum.photos/seed/city/800/600",
+            "https://picsum.photos/seed/beach/800/600"
+          ],
+          "tags": [
+            "hiking",
+            "city",
+            "beach"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 375,
+          "dwell_ms": 416,
+          "reselect_count": 3,
+          "hover_ms": 43,
+          "scrub_px": 30
+        },
+        "tempo": {
+          "gap_prev_ms": 961,
+          "apm_rolling": 37.6,
+          "velocity_px_s": 150.7
+        }
+      },
+      {
+        "text": "add_note smart-mug, prototype",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:21:10Z",
+        "action": "add_note",
+        "itemType": "cluster",
+        "items": [
+          "shape:f665ukuewy"
+        ],
+        "content": {
+          "text": "smart-mug, prototype",
+          "imageUrls": [
+            "https://picsum.photos/seed/smart-mug/800/600",
+            "https://picsum.photos/seed/prototype/800/600"
+          ],
+          "tags": [
+            "smart-mug",
+            "prototype"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 762,
+          "dwell_ms": 299,
+          "reselect_count": 2,
+          "hover_ms": 122,
+          "scrub_px": 16
+        },
+        "tempo": {
+          "gap_prev_ms": 691,
+          "apm_rolling": 44.6,
+          "velocity_px_s": 321.5
+        }
+      },
+      {
+        "text": "link prototype, smart-mug",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:21:20Z",
+        "action": "link",
+        "itemType": "image",
+        "items": [
+          "shape:cx38yc1dx5"
+        ],
+        "content": {
+          "text": "prototype, smart-mug",
+          "imageUrls": [
+            "https://picsum.photos/seed/prototype/800/600",
+            "https://picsum.photos/seed/smart-mug/800/600"
+          ],
+          "tags": [
+            "prototype",
+            "smart-mug"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 422,
+          "dwell_ms": 315,
+          "reselect_count": 3,
+          "hover_ms": 147,
+          "scrub_px": 1
+        },
+        "tempo": {
+          "gap_prev_ms": 801,
+          "apm_rolling": 19.2,
+          "velocity_px_s": 258.0
+        }
+      },
+      {
+        "text": "link bluetooth, sensor",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:21:30Z",
+        "action": "link",
+        "itemType": "note",
+        "items": [
+          "shape:x9qh3h7ygu",
+          "shape:8ga4jpyc7f"
+        ],
+        "content": {
+          "text": "bluetooth, sensor",
+          "imageUrls": [
+            "https://picsum.photos/seed/bluetooth/800/600",
+            "https://picsum.photos/seed/sensor/800/600"
+          ],
+          "tags": [
+            "bluetooth",
+            "sensor"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 677,
+          "dwell_ms": 150,
+          "reselect_count": 3,
+          "hover_ms": 75,
+          "scrub_px": 1
+        },
+        "tempo": {
+          "gap_prev_ms": 999,
+          "apm_rolling": 39.8,
+          "velocity_px_s": 198.5
+        }
+      },
+      {
+        "text": "move bluetooth, battery",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:21:40Z",
+        "action": "move",
+        "itemType": "note",
+        "items": [
+          "shape:67pg9g9d9u",
+          "shape:leplp3zqxz",
+          "shape:w90fy6p0k0"
+        ],
+        "content": {
+          "text": "bluetooth, battery",
+          "imageUrls": [
+            "https://picsum.photos/seed/bluetooth/800/600",
+            "https://picsum.photos/seed/battery/800/600"
+          ],
+          "tags": [
+            "bluetooth",
+            "battery"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 682,
+          "dwell_ms": 487,
+          "reselect_count": 3,
+          "hover_ms": 69,
+          "scrub_px": 41
+        },
+        "tempo": {
+          "gap_prev_ms": 1121,
+          "apm_rolling": 41.6,
+          "velocity_px_s": 209.7
+        }
+      },
+      {
+        "text": "group bluetooth, prototype",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:21:50Z",
+        "action": "group",
+        "itemType": "image",
+        "items": [
+          "shape:irmj6uo8s0"
+        ],
+        "content": {
+          "text": "bluetooth, prototype",
+          "imageUrls": [
+            "https://picsum.photos/seed/bluetooth/800/600",
+            "https://picsum.photos/seed/prototype/800/600"
+          ],
+          "tags": [
+            "bluetooth",
+            "prototype"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 709,
+          "dwell_ms": 399,
+          "reselect_count": 2,
+          "hover_ms": 85,
+          "scrub_px": 19
+        },
+        "tempo": {
+          "gap_prev_ms": 347,
+          "apm_rolling": 20.8,
+          "velocity_px_s": 471.6
+        }
+      },
+      {
+        "text": "highlight sensor, battery",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:22:00Z",
+        "action": "highlight",
+        "itemType": "cluster",
+        "items": [
+          "shape:04n39b4ezc"
+        ],
+        "content": {
+          "text": "sensor, battery",
+          "imageUrls": [
+            "https://picsum.photos/seed/sensor/800/600",
+            "https://picsum.photos/seed/battery/800/600"
+          ],
+          "tags": [
+            "sensor",
+            "battery"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 578,
+          "dwell_ms": 217,
+          "reselect_count": 1,
+          "hover_ms": 195,
+          "scrub_px": 45
+        },
+        "tempo": {
+          "gap_prev_ms": 441,
+          "apm_rolling": 43.6,
+          "velocity_px_s": 491.6
+        }
+      },
+      {
+        "text": "cluster marketing, dj",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:22:10Z",
+        "action": "cluster",
+        "itemType": "image",
+        "items": [
+          "shape:cqkcul1ffh",
+          "shape:fqscw2vabv",
+          "shape:v1y5en5zi8"
+        ],
+        "content": {
+          "text": "marketing, dj",
+          "imageUrls": [
+            "https://picsum.photos/seed/marketing/800/600",
+            "https://picsum.photos/seed/dj/800/600"
+          ],
+          "tags": [
+            "marketing",
+            "dj"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 426,
+          "dwell_ms": 161,
+          "reselect_count": 2,
+          "hover_ms": 49,
+          "scrub_px": 42
+        },
+        "tempo": {
+          "gap_prev_ms": 1185,
+          "apm_rolling": 15.7,
+          "velocity_px_s": 504.9
+        }
+      },
+      {
+        "text": "edit lineup, marketing, budget",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:22:20Z",
+        "action": "edit",
+        "itemType": "cluster",
+        "items": [
+          "shape:qgv87h56wd",
+          "shape:sljlx3hg9j",
+          "shape:v09tl34tle"
+        ],
+        "content": {
+          "text": "lineup, marketing, budget",
+          "imageUrls": [
+            "https://picsum.photos/seed/lineup/800/600",
+            "https://picsum.photos/seed/marketing/800/600",
+            "https://picsum.photos/seed/budget/800/600"
+          ],
+          "tags": [
+            "lineup",
+            "marketing",
+            "budget"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 209,
+          "dwell_ms": 466,
+          "reselect_count": 1,
+          "hover_ms": 171,
+          "scrub_px": 34
+        },
+        "tempo": {
+          "gap_prev_ms": 1479,
+          "apm_rolling": 36.4,
+          "velocity_px_s": 293.7
+        }
+      },
+      {
+        "text": "cluster marketing, budget, lineup",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:22:30Z",
+        "action": "cluster",
+        "itemType": "cluster",
+        "items": [
+          "shape:rp6wvz28ew",
+          "shape:5hjrghhlm0",
+          "shape:zijzm87klm"
+        ],
+        "content": {
+          "text": "marketing, budget, lineup",
+          "imageUrls": [
+            "https://picsum.photos/seed/marketing/800/600",
+            "https://picsum.photos/seed/budget/800/600",
+            "https://picsum.photos/seed/lineup/800/600"
+          ],
+          "tags": [
+            "marketing",
+            "budget",
+            "lineup"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 356,
+          "dwell_ms": 289,
+          "reselect_count": 2,
+          "hover_ms": 37,
+          "scrub_px": 28
+        },
+        "tempo": {
+          "gap_prev_ms": 1134,
+          "apm_rolling": 43.3,
+          "velocity_px_s": 303.3
+        }
+      },
+      {
+        "text": "group budget, marketing, volunteers",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:22:40Z",
+        "action": "group",
+        "itemType": "image",
+        "items": [
+          "shape:ago5l73mm7"
+        ],
+        "content": {
+          "text": "budget, marketing, volunteers",
+          "imageUrls": [
+            "https://picsum.photos/seed/budget/800/600",
+            "https://picsum.photos/seed/marketing/800/600",
+            "https://picsum.photos/seed/volunteers/800/600"
+          ],
+          "tags": [
+            "budget",
+            "marketing",
+            "volunteers"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 316,
+          "dwell_ms": 118,
+          "reselect_count": 3,
+          "hover_ms": 58,
+          "scrub_px": 36
+        },
+        "tempo": {
+          "gap_prev_ms": 880,
+          "apm_rolling": 43.6,
+          "velocity_px_s": 506.8
+        }
+      },
+      {
+        "text": "add_note budget, lineup",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:22:50Z",
+        "action": "add_note",
+        "itemType": "cluster",
+        "items": [
+          "shape:o6e58bvuvw",
+          "shape:ifcfvnem1o",
+          "shape:5ugc0emkz5"
+        ],
+        "content": {
+          "text": "budget, lineup",
+          "imageUrls": [
+            "https://picsum.photos/seed/budget/800/600",
+            "https://picsum.photos/seed/lineup/800/600"
+          ],
+          "tags": [
+            "budget",
+            "lineup"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 584,
+          "dwell_ms": 458,
+          "reselect_count": 0,
+          "hover_ms": 167,
+          "scrub_px": 27
+        },
+        "tempo": {
+          "gap_prev_ms": 726,
+          "apm_rolling": 33.4,
+          "velocity_px_s": 271.9
+        }
+      },
+      {
+        "text": "cluster budget, volunteers, dj",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:23:00Z",
+        "action": "cluster",
+        "itemType": "note",
+        "items": [
+          "shape:qxx27xzoan",
+          "shape:qxj38mknbk",
+          "shape:z6kbihk25l"
+        ],
+        "content": {
+          "text": "budget, volunteers, dj",
+          "imageUrls": [
+            "https://picsum.photos/seed/budget/800/600",
+            "https://picsum.photos/seed/volunteers/800/600",
+            "https://picsum.photos/seed/dj/800/600"
+          ],
+          "tags": [
+            "budget",
+            "volunteers",
+            "dj"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 161,
+          "dwell_ms": 111,
+          "reselect_count": 3,
+          "hover_ms": 144,
+          "scrub_px": 20
+        },
+        "tempo": {
+          "gap_prev_ms": 1135,
+          "apm_rolling": 13.1,
+          "velocity_px_s": 435.6
+        }
+      },
+      {
+        "text": "link budget, lineup",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:23:10Z",
+        "action": "link",
+        "itemType": "note",
+        "items": [
+          "shape:pgy4mkvhwh"
+        ],
+        "content": {
+          "text": "budget, lineup",
+          "imageUrls": [
+            "https://picsum.photos/seed/budget/800/600",
+            "https://picsum.photos/seed/lineup/800/600"
+          ],
+          "tags": [
+            "budget",
+            "lineup"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 708,
+          "dwell_ms": 126,
+          "reselect_count": 2,
+          "hover_ms": 100,
+          "scrub_px": 50
+        },
+        "tempo": {
+          "gap_prev_ms": 1253,
+          "apm_rolling": 38.0,
+          "velocity_px_s": 534.7
+        }
+      },
+      {
+        "text": "add_note prototype, ethics",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:23:20Z",
+        "action": "add_note",
+        "itemType": "image",
+        "items": [
+          "shape:ufd1fagbfb",
+          "shape:k6c4dm6vm4"
+        ],
+        "content": {
+          "text": "prototype, ethics",
+          "imageUrls": [
+            "https://picsum.photos/seed/prototype/800/600",
+            "https://picsum.photos/seed/ethics/800/600"
+          ],
+          "tags": [
+            "prototype",
+            "ethics"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 448,
+          "dwell_ms": 345,
+          "reselect_count": 2,
+          "hover_ms": 198,
+          "scrub_px": 2
+        },
+        "tempo": {
+          "gap_prev_ms": 1082,
+          "apm_rolling": 22.1,
+          "velocity_px_s": 392.8
+        }
+      },
+      {
+        "text": "link architecture, ethics, prototype",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:23:30Z",
+        "action": "link",
+        "itemType": "image",
+        "items": [
+          "shape:9v8zly9wlx",
+          "shape:02o24wrk6y"
+        ],
+        "content": {
+          "text": "architecture, ethics, prototype",
+          "imageUrls": [
+            "https://picsum.photos/seed/architecture/800/600",
+            "https://picsum.photos/seed/ethics/800/600",
+            "https://picsum.photos/seed/prototype/800/600"
+          ],
+          "tags": [
+            "architecture",
+            "ethics",
+            "prototype"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 598,
+          "dwell_ms": 121,
+          "reselect_count": 1,
+          "hover_ms": 73,
+          "scrub_px": 45
+        },
+        "tempo": {
+          "gap_prev_ms": 347,
+          "apm_rolling": 39.2,
+          "velocity_px_s": 186.8
+        }
+      },
+      {
+        "text": "add_note ethics, pipeline",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:23:40Z",
+        "action": "add_note",
+        "itemType": "note",
+        "items": [
+          "shape:3vxaemzgvt",
+          "shape:h2fnpdjjah"
+        ],
+        "content": {
+          "text": "ethics, pipeline",
+          "imageUrls": [
+            "https://picsum.photos/seed/ethics/800/600",
+            "https://picsum.photos/seed/pipeline/800/600"
+          ],
+          "tags": [
+            "ethics",
+            "pipeline"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 335,
+          "dwell_ms": 247,
+          "reselect_count": 1,
+          "hover_ms": 86,
+          "scrub_px": 35
+        },
+        "tempo": {
+          "gap_prev_ms": 1355,
+          "apm_rolling": 25.8,
+          "velocity_px_s": 462.5
+        }
+      },
+      {
+        "text": "cluster prototype, pipeline, irb",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:23:50Z",
+        "action": "cluster",
+        "itemType": "note",
+        "items": [
+          "shape:hbgmqfg3zo"
+        ],
+        "content": {
+          "text": "prototype, pipeline, irb",
+          "imageUrls": [
+            "https://picsum.photos/seed/prototype/800/600",
+            "https://picsum.photos/seed/pipeline/800/600",
+            "https://picsum.photos/seed/irb/800/600"
+          ],
+          "tags": [
+            "prototype",
+            "pipeline",
+            "irb"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 796,
+          "dwell_ms": 415,
+          "reselect_count": 0,
+          "hover_ms": 194,
+          "scrub_px": 31
+        },
+        "tempo": {
+          "gap_prev_ms": 1008,
+          "apm_rolling": 25.3,
+          "velocity_px_s": 414.4
+        }
+      },
+      {
+        "text": "link ethics, irb",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:24:00Z",
+        "action": "link",
+        "itemType": "note",
+        "items": [
+          "shape:a3tevwm5e9",
+          "shape:x1e7npwdvp",
+          "shape:12fqnuknn3"
+        ],
+        "content": {
+          "text": "ethics, irb",
+          "imageUrls": [
+            "https://picsum.photos/seed/ethics/800/600",
+            "https://picsum.photos/seed/irb/800/600"
+          ],
+          "tags": [
+            "ethics",
+            "irb"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 648,
+          "dwell_ms": 314,
+          "reselect_count": 2,
+          "hover_ms": 78,
+          "scrub_px": 39
+        },
+        "tempo": {
+          "gap_prev_ms": 1138,
+          "apm_rolling": 28.0,
+          "velocity_px_s": 459.4
+        }
+      },
+      {
+        "text": "add_note irb, architecture, pipeline",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:24:10Z",
+        "action": "add_note",
+        "itemType": "note",
+        "items": [
+          "shape:js67d4cmnr"
+        ],
+        "content": {
+          "text": "irb, architecture, pipeline",
+          "imageUrls": [
+            "https://picsum.photos/seed/irb/800/600",
+            "https://picsum.photos/seed/architecture/800/600",
+            "https://picsum.photos/seed/pipeline/800/600"
+          ],
+          "tags": [
+            "irb",
+            "architecture",
+            "pipeline"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 603,
+          "dwell_ms": 321,
+          "reselect_count": 0,
+          "hover_ms": 118,
+          "scrub_px": 29
+        },
+        "tempo": {
+          "gap_prev_ms": 702,
+          "apm_rolling": 36.6,
+          "velocity_px_s": 264.9
+        }
+      },
+      {
+        "text": "link irb, ethics",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:24:20Z",
+        "action": "link",
+        "itemType": "note",
+        "items": [
+          "shape:j5syxk1t34"
+        ],
+        "content": {
+          "text": "irb, ethics",
+          "imageUrls": [
+            "https://picsum.photos/seed/irb/800/600",
+            "https://picsum.photos/seed/ethics/800/600"
+          ],
+          "tags": [
+            "irb",
+            "ethics"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 638,
+          "dwell_ms": 377,
+          "reselect_count": 1,
+          "hover_ms": 122,
+          "scrub_px": 18
+        },
+        "tempo": {
+          "gap_prev_ms": 884,
+          "apm_rolling": 13.0,
+          "velocity_px_s": 299.4
+        }
+      },
+      {
+        "text": "add_note ethics, pipeline, prototype",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:24:30Z",
+        "action": "add_note",
+        "itemType": "note",
+        "items": [
+          "shape:7j8bkdan3w",
+          "shape:x9c5lpar1v",
+          "shape:d8g2tqp50q"
+        ],
+        "content": {
+          "text": "ethics, pipeline, prototype",
+          "imageUrls": [
+            "https://picsum.photos/seed/ethics/800/600",
+            "https://picsum.photos/seed/pipeline/800/600",
+            "https://picsum.photos/seed/prototype/800/600"
+          ],
+          "tags": [
+            "ethics",
+            "pipeline",
+            "prototype"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 447,
+          "dwell_ms": 122,
+          "reselect_count": 0,
+          "hover_ms": 139,
+          "scrub_px": 2
+        },
+        "tempo": {
+          "gap_prev_ms": 639,
+          "apm_rolling": 42.1,
+          "velocity_px_s": 473.4
+        }
+      },
+      {
+        "text": "edit pipeline, irb",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:24:40Z",
+        "action": "edit",
+        "itemType": "note",
+        "items": [
+          "shape:bkcb5d3376",
+          "shape:0x7kslei9g"
+        ],
+        "content": {
+          "text": "pipeline, irb",
+          "imageUrls": [
+            "https://picsum.photos/seed/pipeline/800/600",
+            "https://picsum.photos/seed/irb/800/600"
+          ],
+          "tags": [
+            "pipeline",
+            "irb"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 517,
+          "dwell_ms": 496,
+          "reselect_count": 2,
+          "hover_ms": 143,
+          "scrub_px": 29
+        },
+        "tempo": {
+          "gap_prev_ms": 870,
+          "apm_rolling": 38.5,
+          "velocity_px_s": 331.0
+        }
+      },
+      {
+        "text": "group lighting, floorplan, ergonomics",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:24:50Z",
+        "action": "group",
+        "itemType": "cluster",
+        "items": [
+          "shape:rbu9h5irrg",
+          "shape:1exc652mtw",
+          "shape:lyzudrncuu"
+        ],
+        "content": {
+          "text": "lighting, floorplan, ergonomics",
+          "imageUrls": [
+            "https://picsum.photos/seed/lighting/800/600",
+            "https://picsum.photos/seed/floorplan/800/600",
+            "https://picsum.photos/seed/ergonomics/800/600"
+          ],
+          "tags": [
+            "lighting",
+            "floorplan",
+            "ergonomics"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 725,
+          "dwell_ms": 300,
+          "reselect_count": 2,
+          "hover_ms": 39,
+          "scrub_px": 8
+        },
+        "tempo": {
+          "gap_prev_ms": 1154,
+          "apm_rolling": 20.3,
+          "velocity_px_s": 542.1
+        }
+      },
+      {
+        "text": "highlight storage, lighting",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:25:00Z",
+        "action": "highlight",
+        "itemType": "note",
+        "items": [
+          "shape:7hhase1r43",
+          "shape:rs89dlp5kj",
+          "shape:jl3zajzdll"
+        ],
+        "content": {
+          "text": "storage, lighting",
+          "imageUrls": [
+            "https://picsum.photos/seed/storage/800/600",
+            "https://picsum.photos/seed/lighting/800/600"
+          ],
+          "tags": [
+            "storage",
+            "lighting"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 418,
+          "dwell_ms": 197,
+          "reselect_count": 1,
+          "hover_ms": 67,
+          "scrub_px": 3
+        },
+        "tempo": {
+          "gap_prev_ms": 1373,
+          "apm_rolling": 43.7,
+          "velocity_px_s": 363.9
+        }
+      },
+      {
+        "text": "cluster floorplan, storage, lighting",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:25:10Z",
+        "action": "cluster",
+        "itemType": "cluster",
+        "items": [
+          "shape:ihjsiywema"
+        ],
+        "content": {
+          "text": "floorplan, storage, lighting",
+          "imageUrls": [
+            "https://picsum.photos/seed/floorplan/800/600",
+            "https://picsum.photos/seed/storage/800/600",
+            "https://picsum.photos/seed/lighting/800/600"
+          ],
+          "tags": [
+            "floorplan",
+            "storage",
+            "lighting"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 479,
+          "dwell_ms": 172,
+          "reselect_count": 3,
+          "hover_ms": 92,
+          "scrub_px": 4
+        },
+        "tempo": {
+          "gap_prev_ms": 1025,
+          "apm_rolling": 30.0,
+          "velocity_px_s": 508.0
+        }
+      },
+      {
+        "text": "add_note color, storage",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:25:20Z",
+        "action": "add_note",
+        "itemType": "cluster",
+        "items": [
+          "shape:20388t2j83",
+          "shape:ymsltkurmi",
+          "shape:dd0lhakhzx"
+        ],
+        "content": {
+          "text": "color, storage",
+          "imageUrls": [
+            "https://picsum.photos/seed/color/800/600",
+            "https://picsum.photos/seed/storage/800/600"
+          ],
+          "tags": [
+            "color",
+            "storage"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 637,
+          "dwell_ms": 456,
+          "reselect_count": 2,
+          "hover_ms": 53,
+          "scrub_px": 29
+        },
+        "tempo": {
+          "gap_prev_ms": 1406,
+          "apm_rolling": 31.2,
+          "velocity_px_s": 280.3
+        }
+      },
+      {
+        "text": "edit color, storage",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:25:30Z",
+        "action": "edit",
+        "itemType": "cluster",
+        "items": [
+          "shape:wwvstrlh6o",
+          "shape:vps1r2i4v8",
+          "shape:l772de019s"
+        ],
+        "content": {
+          "text": "color, storage",
+          "imageUrls": [
+            "https://picsum.photos/seed/color/800/600",
+            "https://picsum.photos/seed/storage/800/600"
+          ],
+          "tags": [
+            "color",
+            "storage"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 160,
+          "dwell_ms": 221,
+          "reselect_count": 3,
+          "hover_ms": 128,
+          "scrub_px": 13
+        },
+        "tempo": {
+          "gap_prev_ms": 453,
+          "apm_rolling": 24.1,
+          "velocity_px_s": 235.9
+        }
+      },
+      {
+        "text": "link floorplan, storage, color",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:25:40Z",
+        "action": "link",
+        "itemType": "image",
+        "items": [
+          "shape:atx6xz2xg5",
+          "shape:juoaxeaifn"
+        ],
+        "content": {
+          "text": "floorplan, storage, color",
+          "imageUrls": [
+            "https://picsum.photos/seed/floorplan/800/600",
+            "https://picsum.photos/seed/storage/800/600",
+            "https://picsum.photos/seed/color/800/600"
+          ],
+          "tags": [
+            "floorplan",
+            "storage",
+            "color"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 428,
+          "dwell_ms": 322,
+          "reselect_count": 2,
+          "hover_ms": 80,
+          "scrub_px": 1
+        },
+        "tempo": {
+          "gap_prev_ms": 358,
+          "apm_rolling": 29.8,
+          "velocity_px_s": 518.5
+        }
+      },
+      {
+        "text": "edit color, lighting, storage",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:25:50Z",
+        "action": "edit",
+        "itemType": "image",
+        "items": [
+          "shape:6yo4its9mh"
+        ],
+        "content": {
+          "text": "color, lighting, storage",
+          "imageUrls": [
+            "https://picsum.photos/seed/color/800/600",
+            "https://picsum.photos/seed/lighting/800/600",
+            "https://picsum.photos/seed/storage/800/600"
+          ],
+          "tags": [
+            "color",
+            "lighting",
+            "storage"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 277,
+          "dwell_ms": 406,
+          "reselect_count": 0,
+          "hover_ms": 140,
+          "scrub_px": 1
+        },
+        "tempo": {
+          "gap_prev_ms": 1019,
+          "apm_rolling": 24.6,
+          "velocity_px_s": 346.1
+        }
+      }
+    ],
+    "links": {
+      "0": {},
+      "1": {
+        "0": 0.7966472506523132
+      },
+      "2": {
+        "0": 0.6408381462097168,
+        "1": 0.7680435180664062
+      },
+      "3": {
+        "0": 0.7611149549484253,
+        "1": 0.8042576909065247,
+        "2": 0.7351996302604675
+      },
+      "4": {
+        "0": 0.6669450402259827,
+        "1": 0.720234215259552,
+        "2": 0.9580378532409668,
+        "3": 0.7623302936553955
+      },
+      "5": {
+        "0": 0.7389300465583801,
+        "1": 0.7756021022796631,
+        "2": 0.7711000442504883,
+        "3": 0.6942033767700195,
+        "4": 0.7892439365386963
+      },
+      "6": {
+        "0": 0.7325399518013,
+        "1": 0.8685142993927002,
+        "2": 0.7591113448143005,
+        "3": 0.8269079923629761,
+        "4": 0.712590754032135,
+        "5": 0.7271685600280762
+      },
+      "7": {
+        "0": 0.7016758322715759,
+        "1": 0.6911288499832153,
+        "2": 0.6541610360145569,
+        "3": 0.7096047401428223,
+        "4": 0.6639825701713562,
+        "5": 0.6489264965057373,
+        "6": 0.6821922659873962
+      },
+      "8": {
+        "0": 0.6202610731124878,
+        "1": 0.6351734399795532,
+        "2": 0.5951574444770813,
+        "3": 0.7152579426765442,
+        "4": 0.5942975878715515,
+        "5": 0.5965514183044434,
+        "6": 0.6142466068267822,
+        "7": 0.8768318891525269
+      },
+      "9": {
+        "0": 0.720441997051239,
+        "1": 0.7362388372421265,
+        "2": 0.6585884094238281,
+        "3": 0.8081901669502258,
+        "4": 0.6771007776260376,
+        "5": 0.6745741367340088,
+        "6": 0.7332896590232849,
+        "7": 0.7482985854148865,
+        "8": 0.7414529323577881
+      },
+      "10": {
+        "0": 0.759398341178894,
+        "1": 0.7537118792533875,
+        "2": 0.6904855370521545,
+        "3": 0.7807565927505493,
+        "4": 0.7214581966400146,
+        "5": 0.6899998188018799,
+        "6": 0.7607207894325256,
+        "7": 0.7580759525299072,
+        "8": 0.6731127500534058,
+        "9": 0.9154287576675415
+      },
+      "11": {
+        "0": 0.7097979784011841,
+        "1": 0.7385237216949463,
+        "2": 0.6542201042175293,
+        "3": 0.7519716620445251,
+        "4": 0.6849385499954224,
+        "5": 0.678176999092102,
+        "6": 0.6977388262748718,
+        "7": 0.7862251400947571,
+        "8": 0.7129361629486084,
+        "9": 0.8811427354812622,
+        "10": 0.879596471786499
+      },
+      "12": {
+        "0": 0.7351949214935303,
+        "1": 0.7372688055038452,
+        "2": 0.6558157205581665,
+        "3": 0.7617703676223755,
+        "4": 0.6822498440742493,
+        "5": 0.7414965033531189,
+        "6": 0.78536057472229,
+        "7": 0.7360027432441711,
+        "8": 0.6624927520751953,
+        "9": 0.8803380131721497,
+        "10": 0.8752543926239014,
+        "11": 0.812175452709198
+      },
+      "13": {
+        "0": 0.7661584615707397,
+        "1": 0.7538371086120605,
+        "2": 0.6570755839347839,
+        "3": 0.7701951861381531,
+        "4": 0.6873358488082886,
+        "5": 0.6922345161437988,
+        "6": 0.7302285432815552,
+        "7": 0.7027233242988586,
+        "8": 0.6273008584976196,
+        "9": 0.7809023857116699,
+        "10": 0.8227289319038391,
+        "11": 0.7600838541984558,
+        "12": 0.7664822340011597
+      },
+      "14": {
+        "0": 0.7290360331535339,
+        "1": 0.7510766386985779,
+        "2": 0.6358444094657898,
+        "3": 0.7830301523208618,
+        "4": 0.6645975708961487,
+        "5": 0.6846640110015869,
+        "6": 0.7602348327636719,
+        "7": 0.7257691621780396,
+        "8": 0.6603739261627197,
+        "9": 0.7711601853370667,
+        "10": 0.7943511605262756,
+        "11": 0.762903094291687,
+        "12": 0.7839352488517761,
+        "13": 0.8261664509773254
+      },
+      "15": {
+        "0": 0.7062808275222778,
+        "1": 0.7261439561843872,
+        "2": 0.5988374948501587,
+        "3": 0.7504938840866089,
+        "4": 0.6348344683647156,
+        "5": 0.6531246900558472,
+        "6": 0.7279011011123657,
+        "7": 0.6954424977302551,
+        "8": 0.6168543696403503,
+        "9": 0.7595346570014954,
+        "10": 0.7895278334617615,
+        "11": 0.7442078590393066,
+        "12": 0.7577176094055176,
+        "13": 0.8814551830291748,
+        "14": 0.9117868542671204
+      },
+      "16": {
+        "0": 0.7684209942817688,
+        "1": 0.8182584643363953,
+        "2": 0.6689314842224121,
+        "3": 0.7869310975074768,
+        "4": 0.6838135719299316,
+        "5": 0.7054274678230286,
+        "6": 0.7762112617492676,
+        "7": 0.7535811066627502,
+        "8": 0.6631917357444763,
+        "9": 0.8028720021247864,
+        "10": 0.8281646370887756,
+        "11": 0.8045566082000732,
+        "12": 0.8030999302864075,
+        "13": 0.857852041721344,
+        "14": 0.8997395038604736,
+        "15": 0.8971649408340454
+      },
+      "17": {
+        "0": 0.7352676391601562,
+        "1": 0.7375039458274841,
+        "2": 0.6310120224952698,
+        "3": 0.7829225063323975,
+        "4": 0.6710081696510315,
+        "5": 0.6837460398674011,
+        "6": 0.7484157085418701,
+        "7": 0.775170087814331,
+        "8": 0.6593659520149231,
+        "9": 0.7781752943992615,
+        "10": 0.8115001916885376,
+        "11": 0.7676634192466736,
+        "12": 0.790057897567749,
+        "13": 0.8005127906799316,
+        "14": 0.9114201068878174,
+        "15": 0.9201269149780273,
+        "16": 0.8830380439758301
+      },
+      "18": {
+        "0": 0.7518788576126099,
+        "1": 0.7619133591651917,
+        "2": 0.6334280967712402,
+        "3": 0.7563980221748352,
+        "4": 0.6598247289657593,
+        "5": 0.6824429631233215,
+        "6": 0.7365655303001404,
+        "7": 0.7151276469230652,
+        "8": 0.6164548397064209,
+        "9": 0.7727510929107666,
+        "10": 0.8101081848144531,
+        "11": 0.755836009979248,
+        "12": 0.7567837238311768,
+        "13": 0.9028490781784058,
+        "14": 0.8273916244506836,
+        "15": 0.884310245513916,
+        "16": 0.9108529090881348,
+        "17": 0.8506056070327759
+      },
+      "19": {
+        "0": 0.7107327580451965,
+        "1": 0.728508472442627,
+        "2": 0.6147244572639465,
+        "3": 0.8005736470222473,
+        "4": 0.6483889222145081,
+        "5": 0.6641243696212769,
+        "6": 0.727813720703125,
+        "7": 0.7063121795654297,
+        "8": 0.7031732797622681,
+        "9": 0.7947967052459717,
+        "10": 0.7813183069229126,
+        "11": 0.7493043541908264,
+        "12": 0.7686876654624939,
+        "13": 0.7767096757888794,
+        "14": 0.9158080816268921,
+        "15": 0.9117350578308105,
+        "16": 0.8718334436416626,
+        "17": 0.943392813205719,
+        "18": 0.8230416774749756
+      },
+      "20": {
+        "0": 0.750403106212616,
+        "1": 0.7549159526824951,
+        "2": 0.6815372109413147,
+        "3": 0.7972165942192078,
+        "4": 0.7129743695259094,
+        "5": 0.7200735807418823,
+        "6": 0.7718223333358765,
+        "7": 0.8620548248291016,
+        "8": 0.7219153046607971,
+        "9": 0.7912291884422302,
+        "10": 0.8245702981948853,
+        "11": 0.8033086061477661,
+        "12": 0.7914170026779175,
+        "13": 0.7870303392410278,
+        "14": 0.8172707557678223,
+        "15": 0.7809358835220337,
+        "16": 0.8336365222930908,
+        "17": 0.8715562224388123,
+        "18": 0.7985408902168274,
+        "19": 0.7921340465545654
+      },
+      "21": {
+        "0": 0.7239137887954712,
+        "1": 0.7447344660758972,
+        "2": 0.6490306854248047,
+        "3": 0.8086239695549011,
+        "4": 0.6643022894859314,
+        "5": 0.676197350025177,
+        "6": 0.7373164296150208,
+        "7": 0.7653951048851013,
+        "8": 0.7551442384719849,
+        "9": 0.8016394972801208,
+        "10": 0.7842683792114258,
+        "11": 0.7798812389373779,
+        "12": 0.7464720010757446,
+        "13": 0.7752681970596313,
+        "14": 0.8114904761314392,
+        "15": 0.7656130194664001,
+        "16": 0.8088168501853943,
+        "17": 0.7812590003013611,
+        "18": 0.7530453205108643,
+        "19": 0.8035696744918823,
+        "20": 0.8878272771835327
+      },
+      "22": {
+        "0": 0.718944787979126,
+        "1": 0.7348805069923401,
+        "2": 0.6550614833831787,
+        "3": 0.7703036665916443,
+        "4": 0.6845352649688721,
+        "5": 0.6889248490333557,
+        "6": 0.7489162683486938,
+        "7": 0.8033612370491028,
+        "8": 0.6858111619949341,
+        "9": 0.7587632536888123,
+        "10": 0.7805715799331665,
+        "11": 0.7381226420402527,
+        "12": 0.7523112893104553,
+        "13": 0.7544249892234802,
+        "14": 0.7989009022712708,
+        "15": 0.7651166915893555,
+        "16": 0.810325026512146,
+        "17": 0.8387986421585083,
+        "18": 0.7671166658401489,
+        "19": 0.781466543674469,
+        "20": 0.9212605953216553,
+        "21": 0.8513458967208862
+      },
+      "23": {
+        "0": 0.7240228056907654,
+        "1": 0.7400452494621277,
+        "2": 0.6428176760673523,
+        "3": 0.7638078331947327,
+        "4": 0.6680706739425659,
+        "5": 0.6680054068565369,
+        "6": 0.7132718563079834,
+        "7": 0.7537670135498047,
+        "8": 0.683845579624176,
+        "9": 0.7817853689193726,
+        "10": 0.7942116856575012,
+        "11": 0.7956036925315857,
+        "12": 0.7512274980545044,
+        "13": 0.8250501155853271,
+        "14": 0.7950450778007507,
+        "15": 0.8335766792297363,
+        "16": 0.8170864582061768,
+        "17": 0.8013289570808411,
+        "18": 0.8226571083068848,
+        "19": 0.7877799868583679,
+        "20": 0.8341353535652161,
+        "21": 0.8490365147590637,
+        "22": 0.832663893699646
+      },
+      "24": {
+        "0": 0.7201826572418213,
+        "1": 0.7529472708702087,
+        "2": 0.6387603282928467,
+        "3": 0.8291107416152954,
+        "4": 0.6648930311203003,
+        "5": 0.6849725246429443,
+        "6": 0.7555095553398132,
+        "7": 0.6873492002487183,
+        "8": 0.7034130096435547,
+        "9": 0.8258965015411377,
+        "10": 0.7870563268661499,
+        "11": 0.7361935973167419,
+        "12": 0.768380343914032,
+        "13": 0.7803075909614563,
+        "14": 0.7917162775993347,
+        "15": 0.7616041898727417,
+        "16": 0.8247211575508118,
+        "17": 0.7847632765769958,
+        "18": 0.7852243781089783,
+        "19": 0.8164896368980408,
+        "20": 0.8294754028320312,
+        "21": 0.8632131218910217,
+        "22": 0.8373773097991943,
+        "23": 0.8229217529296875
+      },
+      "25": {
+        "0": 0.740968644618988,
+        "1": 0.7474611401557922,
+        "2": 0.6594716310501099,
+        "3": 0.7752816081047058,
+        "4": 0.6806068420410156,
+        "5": 0.6734759211540222,
+        "6": 0.751401424407959,
+        "7": 0.7862483263015747,
+        "8": 0.6815937161445618,
+        "9": 0.7701161503791809,
+        "10": 0.7758388519287109,
+        "11": 0.7470505237579346,
+        "12": 0.748337984085083,
+        "13": 0.7521670460700989,
+        "14": 0.7846635580062866,
+        "15": 0.758590579032898,
+        "16": 0.7961710691452026,
+        "17": 0.810372531414032,
+        "18": 0.7660578489303589,
+        "19": 0.7701050639152527,
+        "20": 0.860146164894104,
+        "21": 0.8286932110786438,
+        "22": 0.9165134429931641,
+        "23": 0.8756664395332336,
+        "24": 0.832670271396637
+      },
+      "26": {
+        "0": 0.7336803078651428,
+        "1": 0.7637661099433899,
+        "2": 0.6479030847549438,
+        "3": 0.835641086101532,
+        "4": 0.6772699952125549,
+        "5": 0.7024888396263123,
+        "6": 0.765968382358551,
+        "7": 0.7001621127128601,
+        "8": 0.7149903774261475,
+        "9": 0.8318462371826172,
+        "10": 0.7996224164962769,
+        "11": 0.7444891929626465,
+        "12": 0.7820597887039185,
+        "13": 0.7984293699264526,
+        "14": 0.8121213316917419,
+        "15": 0.7798435091972351,
+        "16": 0.8352072238922119,
+        "17": 0.8012871146202087,
+        "18": 0.7977408170700073,
+        "19": 0.830443799495697,
+        "20": 0.8438107967376709,
+        "21": 0.872187614440918,
+        "22": 0.8432603478431702,
+        "23": 0.8225151300430298,
+        "24": 0.9891262054443359,
+        "25": 0.8311168551445007
+      },
+      "27": {
+        "0": 0.73395836353302,
+        "1": 0.7476598024368286,
+        "2": 0.6705058217048645,
+        "3": 0.7737177610397339,
+        "4": 0.6915869116783142,
+        "5": 0.7004010677337646,
+        "6": 0.756615936756134,
+        "7": 0.8444811105728149,
+        "8": 0.7156347036361694,
+        "9": 0.7703917026519775,
+        "10": 0.7945991158485413,
+        "11": 0.7747473120689392,
+        "12": 0.7587637901306152,
+        "13": 0.7644274234771729,
+        "14": 0.8091127276420593,
+        "15": 0.7701709866523743,
+        "16": 0.825979471206665,
+        "17": 0.8481407761573792,
+        "18": 0.7801500558853149,
+        "19": 0.7856165766716003,
+        "20": 0.9652619361877441,
+        "21": 0.8975663781166077,
+        "22": 0.9623081684112549,
+        "23": 0.8561694622039795,
+        "24": 0.815673828125,
+        "25": 0.8910456299781799,
+        "26": 0.8244950175285339
+      },
+      "28": {
+        "0": 0.722390353679657,
+        "1": 0.74836665391922,
+        "2": 0.6420562863349915,
+        "3": 0.7756765484809875,
+        "4": 0.6734123229980469,
+        "5": 0.6833235621452332,
+        "6": 0.7402122616767883,
+        "7": 0.710400402545929,
+        "8": 0.6586578488349915,
+        "9": 0.769291877746582,
+        "10": 0.7723397612571716,
+        "11": 0.7321062684059143,
+        "12": 0.764772355556488,
+        "13": 0.7804371118545532,
+        "14": 0.8371303081512451,
+        "15": 0.7697021961212158,
+        "16": 0.8124914765357971,
+        "17": 0.7960879802703857,
+        "18": 0.7793710827827454,
+        "19": 0.7979999780654907,
+        "20": 0.8147400617599487,
+        "21": 0.8057541251182556,
+        "22": 0.8578532338142395,
+        "23": 0.8783212900161743,
+        "24": 0.8801546692848206,
+        "25": 0.8820599913597107,
+        "26": 0.8812726736068726,
+        "27": 0.8302401304244995
+      },
+      "29": {
+        "0": 0.7065721154212952,
+        "1": 0.7070186734199524,
+        "2": 0.6062396764755249,
+        "3": 0.7010645270347595,
+        "4": 0.6247823238372803,
+        "5": 0.6638544797897339,
+        "6": 0.6980206966400146,
+        "7": 0.6686740517616272,
+        "8": 0.595589280128479,
+        "9": 0.7200955748558044,
+        "10": 0.7257136106491089,
+        "11": 0.7509583830833435,
+        "12": 0.7703863382339478,
+        "13": 0.7399988770484924,
+        "14": 0.7770595550537109,
+        "15": 0.74056077003479,
+        "16": 0.7829817533493042,
+        "17": 0.733629584312439,
+        "18": 0.7349796295166016,
+        "19": 0.7332130074501038,
+        "20": 0.7294147610664368,
+        "21": 0.7427898645401001,
+        "22": 0.7054272294044495,
+        "23": 0.7358273267745972,
+        "24": 0.7100580930709839,
+        "25": 0.7341756820678711,
+        "26": 0.7213083505630493,
+        "27": 0.7198463082313538,
+        "28": 0.7339428663253784
+      },
+      "30": {
+        "0": 0.6924824118614197,
+        "1": 0.7245511412620544,
+        "2": 0.636150598526001,
+        "3": 0.7211346626281738,
+        "4": 0.6690216064453125,
+        "5": 0.7435946464538574,
+        "6": 0.793323278427124,
+        "7": 0.6893488764762878,
+        "8": 0.6150665879249573,
+        "9": 0.7461915016174316,
+        "10": 0.7824208736419678,
+        "11": 0.7208958864212036,
+        "12": 0.843167781829834,
+        "13": 0.7284942269325256,
+        "14": 0.7779293060302734,
+        "15": 0.7567404508590698,
+        "16": 0.7757748961448669,
+        "17": 0.7841188907623291,
+        "18": 0.7305645942687988,
+        "19": 0.7688261270523071,
+        "20": 0.7638646960258484,
+        "21": 0.7240327596664429,
+        "22": 0.737636387348175,
+        "23": 0.7170595526695251,
+        "24": 0.7290040254592896,
+        "25": 0.7257991433143616,
+        "26": 0.7417002320289612,
+        "27": 0.7404787540435791,
+        "28": 0.7379027605056763,
+        "29": 0.7865992784500122
+      },
+      "31": {
+        "0": 0.7241348624229431,
+        "1": 0.7146037817001343,
+        "2": 0.6352847814559937,
+        "3": 0.7213749289512634,
+        "4": 0.6544164419174194,
+        "5": 0.6662381291389465,
+        "6": 0.6994628310203552,
+        "7": 0.6984300017356873,
+        "8": 0.6099498867988586,
+        "9": 0.7231314182281494,
+        "10": 0.74583899974823,
+        "11": 0.7258445024490356,
+        "12": 0.7471827864646912,
+        "13": 0.7747095823287964,
+        "14": 0.7592544555664062,
+        "15": 0.7999038100242615,
+        "16": 0.7760049700737,
+        "17": 0.765892744064331,
+        "18": 0.78931725025177,
+        "19": 0.7524111270904541,
+        "20": 0.7353290319442749,
+        "21": 0.7140560150146484,
+        "22": 0.7074266076087952,
+        "23": 0.782294511795044,
+        "24": 0.684461772441864,
+        "25": 0.7392204403877258,
+        "26": 0.6974601149559021,
+        "27": 0.7244148254394531,
+        "28": 0.7031337022781372,
+        "29": 0.8765735626220703,
+        "30": 0.8155688047409058
+      },
+      "32": {
+        "0": 0.7482858896255493,
+        "1": 0.7501572966575623,
+        "2": 0.6843783259391785,
+        "3": 0.758577823638916,
+        "4": 0.7069863080978394,
+        "5": 0.7006349563598633,
+        "6": 0.7515535354614258,
+        "7": 0.8140570521354675,
+        "8": 0.6652112007141113,
+        "9": 0.7718283534049988,
+        "10": 0.8231674432754517,
+        "11": 0.7514239549636841,
+        "12": 0.7933856844902039,
+        "13": 0.7613546252250671,
+        "14": 0.7768599390983582,
+        "15": 0.7539409399032593,
+        "16": 0.8077141046524048,
+        "17": 0.845199465751648,
+        "18": 0.7744036912918091,
+        "19": 0.7680501937866211,
+        "20": 0.8834611177444458,
+        "21": 0.7658288478851318,
+        "22": 0.8353017568588257,
+        "23": 0.7781425714492798,
+        "24": 0.7522093057632446,
+        "25": 0.8255621194839478,
+        "26": 0.7612006664276123,
+        "27": 0.8562206029891968,
+        "28": 0.7683150768280029,
+        "29": 0.70587158203125,
+        "30": 0.8020467758178711,
+        "31": 0.7753300666809082
+      },
+      "33": {
+        "0": 0.7585153579711914,
+        "1": 0.767829418182373,
+        "2": 0.6823587417602539,
+        "3": 0.7874630689620972,
+        "4": 0.7149398326873779,
+        "5": 0.7195713520050049,
+        "6": 0.763642430305481,
+        "7": 0.7658495903015137,
+        "8": 0.6846129894256592,
+        "9": 0.8006736636161804,
+        "10": 0.8473210334777832,
+        "11": 0.7659366130828857,
+        "12": 0.828416109085083,
+        "13": 0.7974743843078613,
+        "14": 0.8444207310676575,
+        "15": 0.7885327935218811,
+        "16": 0.8397012948989868,
+        "17": 0.8296949863433838,
+        "18": 0.7971608638763428,
+        "19": 0.8058297634124756,
+        "20": 0.8478146195411682,
+        "21": 0.8035287857055664,
+        "22": 0.817024827003479,
+        "23": 0.803442120552063,
+        "24": 0.8038355708122253,
+        "25": 0.8100408315658569,
+        "26": 0.8141218423843384,
+        "27": 0.8252174854278564,
+        "28": 0.840895414352417,
+        "29": 0.7472622990608215,
+        "30": 0.8365606069564819,
+        "31": 0.7824643850326538,
+        "32": 0.9322558045387268
+      },
+      "34": {
+        "0": 0.711743175983429,
+        "1": 0.7079677581787109,
+        "2": 0.6256687641143799,
+        "3": 0.7443346381187439,
+        "4": 0.6412242650985718,
+        "5": 0.6448397636413574,
+        "6": 0.671018123626709,
+        "7": 0.7041251063346863,
+        "8": 0.6723085045814514,
+        "9": 0.7461521625518799,
+        "10": 0.7278907299041748,
+        "11": 0.7124682664871216,
+        "12": 0.7221261262893677,
+        "13": 0.7067251205444336,
+        "14": 0.7465192079544067,
+        "15": 0.7295306921005249,
+        "16": 0.7625830769538879,
+        "17": 0.7500926852226257,
+        "18": 0.7248905897140503,
+        "19": 0.7720823287963867,
+        "20": 0.7272224426269531,
+        "21": 0.7477961778640747,
+        "22": 0.7251615524291992,
+        "23": 0.7440534830093384,
+        "24": 0.7382885217666626,
+        "25": 0.7630009651184082,
+        "26": 0.7404932975769043,
+        "27": 0.7329730987548828,
+        "28": 0.7289621233940125,
+        "29": 0.8158458471298218,
+        "30": 0.7664958834648132,
+        "31": 0.9049646854400635,
+        "32": 0.8104637861251831,
+        "33": 0.8181318640708923
+      },
+      "35": {
+        "0": 0.7324734330177307,
+        "1": 0.7459276914596558,
+        "2": 0.6679078340530396,
+        "3": 0.7618509531021118,
+        "4": 0.6986688375473022,
+        "5": 0.7191340327262878,
+        "6": 0.7592525482177734,
+        "7": 0.7310299873352051,
+        "8": 0.6447591781616211,
+        "9": 0.7635130286216736,
+        "10": 0.7986077070236206,
+        "11": 0.724503755569458,
+        "12": 0.7998790740966797,
+        "13": 0.774702787399292,
+        "14": 0.8117824196815491,
+        "15": 0.7723679542541504,
+        "16": 0.8114796876907349,
+        "17": 0.7971900701522827,
+        "18": 0.7801645994186401,
+        "19": 0.7746107578277588,
+        "20": 0.8056219816207886,
+        "21": 0.7588841915130615,
+        "22": 0.7883831262588501,
+        "23": 0.7621246576309204,
+        "24": 0.7732687592506409,
+        "25": 0.7890973091125488,
+        "26": 0.7808185815811157,
+        "27": 0.7852201461791992,
+        "28": 0.7860181331634521,
+        "29": 0.7768425941467285,
+        "30": 0.8725119233131409,
+        "31": 0.8234227895736694,
+        "32": 0.8807165622711182,
+        "33": 0.9369280338287354,
+        "34": 0.8170965909957886
+      }
+    },
+    "modality": [
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text"
+    ],
+    "model": "openai/clip-vit-base-patch32"
+  }
+}

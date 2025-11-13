@@ -1,0 +1,281 @@
+{
+  "Team1": [
+    {
+      "text": "Let's brainstorm ideas for our cultural night theme.",
+      "actor": 0,
+      "timestamp": "2025-10-26T10:00:05Z",
+      "action": "create",
+      "itemType": "note",
+      "items": [
+        "shape_1"
+      ],
+      "content": {
+        "text": "Cultural night theme brainstorming",
+        "imageUrls": [],
+        "tags": [
+          "brainstorm",
+          "theme",
+          "planning"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 102,
+        "dwell_ms": 800
+      },
+      "tempo": {
+        "gap_prev_ms": null,
+        "apm_rolling": 2.5,
+        "velocity_px_s": 0.2
+      }
+    },
+    {
+      "text": "We could go with a fusion of music and art from different countries.",
+      "actor": 1,
+      "timestamp": "2025-10-26T10:00:22Z",
+      "action": "add",
+      "itemType": "text",
+      "items": [
+        "shape_2"
+      ],
+      "content": {
+        "text": "Fusion music and art night",
+        "imageUrls": [],
+        "tags": [
+          "idea",
+          "music",
+          "art"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 230,
+        "dwell_ms": 1200
+      },
+      "tempo": {
+        "gap_prev_ms": 17000,
+        "apm_rolling": 4.8,
+        "velocity_px_s": 0.7
+      }
+    },
+    {
+      "text": "Let's shortlist top three themes to discuss.",
+      "actor": 2,
+      "timestamp": "2025-10-26T10:01:02Z",
+      "action": "group",
+      "itemType": "group",
+      "items": [
+        "shape_3",
+        "shape_4"
+      ],
+      "content": {
+        "text": "Shortlist top 3",
+        "imageUrls": [],
+        "tags": [
+          "decision",
+          "selection",
+          "prioritize"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 120,
+        "dwell_ms": 600
+      },
+      "tempo": {
+        "gap_prev_ms": 40000,
+        "apm_rolling": 3.2,
+        "velocity_px_s": 0.3
+      }
+    },
+    {
+      "text": "What about food stalls representing each continent?",
+      "actor": 0,
+      "timestamp": "2025-10-26T10:02:10Z",
+      "action": "add",
+      "itemType": "note",
+      "items": [
+        "shape_5"
+      ],
+      "content": {
+        "text": "Food stalls by continent",
+        "imageUrls": [],
+        "tags": [
+          "food",
+          "culture",
+          "interactive"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 95,
+        "dwell_ms": 500
+      },
+      "tempo": {
+        "gap_prev_ms": 68000,
+        "apm_rolling": 3.5,
+        "velocity_px_s": 0.5
+      }
+    },
+    {
+      "text": "Adding a live band for intermissions might keep energy high.",
+      "actor": 1,
+      "timestamp": "2025-10-26T10:03:40Z",
+      "action": "add",
+      "itemType": "note",
+      "items": [
+        "shape_6"
+      ],
+      "content": {
+        "text": "Live band for intermissions",
+        "imageUrls": [],
+        "tags": [
+          "music",
+          "energy",
+          "engagement"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 160,
+        "dwell_ms": 950
+      },
+      "tempo": {
+        "gap_prev_ms": 90000,
+        "apm_rolling": 2.9,
+        "velocity_px_s": 0.8
+      }
+    },
+    {
+      "text": "We need to check venue acoustics and layout next.",
+      "actor": 2,
+      "timestamp": "2025-10-26T10:05:05Z",
+      "action": "note",
+      "itemType": "task",
+      "items": [
+        "shape_7"
+      ],
+      "content": {
+        "text": "Check venue acoustics and layout",
+        "imageUrls": [],
+        "tags": [
+          "task",
+          "venue",
+          "logistics"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 70,
+        "dwell_ms": 400
+      },
+      "tempo": {
+        "gap_prev_ms": 85000,
+        "apm_rolling": 2.1,
+        "velocity_px_s": 0.2
+      }
+    },
+    {
+      "text": "I\u2019ll handle the design posters and ticket mockups.",
+      "actor": 0,
+      "timestamp": "2025-10-26T10:06:22Z",
+      "action": "assign",
+      "itemType": "task",
+      "items": [
+        "shape_8"
+      ],
+      "content": {
+        "text": "Poster and ticket design task",
+        "imageUrls": [],
+        "tags": [
+          "design",
+          "assignment"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 150,
+        "dwell_ms": 700
+      },
+      "tempo": {
+        "gap_prev_ms": 77000,
+        "apm_rolling": 2.0,
+        "velocity_px_s": 0.3
+      }
+    },
+    {
+      "text": "Let's color-code ideas: green for confirmed, yellow for maybe, red for dropped.",
+      "actor": 1,
+      "timestamp": "2025-10-26T10:07:50Z",
+      "action": "edit",
+      "itemType": "annotation",
+      "items": [
+        "shape_9"
+      ],
+      "content": {
+        "text": "Color-coded idea tagging system",
+        "imageUrls": [],
+        "tags": [
+          "organization",
+          "visual",
+          "annotation"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 310,
+        "dwell_ms": 1300
+      },
+      "tempo": {
+        "gap_prev_ms": 88000,
+        "apm_rolling": 2.7,
+        "velocity_px_s": 0.4
+      }
+    },
+    {
+      "text": "Summarizing decisions so far and locking in next steps.",
+      "actor": 2,
+      "timestamp": "2025-10-26T10:09:15Z",
+      "action": "summarize",
+      "itemType": "summary",
+      "items": [
+        "shape_10"
+      ],
+      "content": {
+        "text": "Summary and next steps",
+        "imageUrls": [],
+        "tags": [
+          "summary",
+          "reflection"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 180,
+        "dwell_ms": 850
+      },
+      "tempo": {
+        "gap_prev_ms": 85000,
+        "apm_rolling": 2.1,
+        "velocity_px_s": 0.6
+      }
+    },
+    {
+      "text": "Meeting wrap-up: export moves for review and link analysis.",
+      "actor": 0,
+      "timestamp": "2025-10-26T10:10:40Z",
+      "action": "export",
+      "itemType": "system",
+      "items": [],
+      "content": {
+        "text": "Session exported for linkograph generation",
+        "imageUrls": [],
+        "tags": [
+          "system",
+          "export",
+          "analysis"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 40,
+        "dwell_ms": 200
+      },
+      "tempo": {
+        "gap_prev_ms": 85000,
+        "apm_rolling": 1.8,
+        "velocity_px_s": 0.1
+      }
+    }
+  ]
+}

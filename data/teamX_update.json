@@ -1,0 +1,25 @@
+{
+  "TeamX": [
+    {
+      "text": "cluster hiking ideas near Alps",
+      "actor": 1,
+      "timestamp": "2025-10-30T20:15:12.437Z",
+      "action": "cluster",
+      "itemType": "note",
+      "items": ["shape:52t78ejhd923", "shape:hsbidu7e2yeiu"],
+      "content": {
+        "text": "hiking, Alps, cluster",
+        "imageUrls": [],
+        "tags": ["hiking", "Alps"]
+      },
+      "micro": {
+        "pointer_path_px": 612,
+        "dwell_ms": 140,
+        "reselect_count": 1,
+        "hover_ms": 80,
+        "scrub_px": 0
+      },
+      "tempo": { "gap_prev_ms": 820, "apm_rolling": 24.6, "velocity_px_s": 390 }
+    }
+  ]
+}

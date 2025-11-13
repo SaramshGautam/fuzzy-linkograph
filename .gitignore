@@ -1,0 +1,81 @@
+# ============================
+# OS & IDE files
+# ============================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.log
+*.tmp
+*.bak
+*.old
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ============================
+# Python virtual environment
+# ============================
+venv/
+env/
+ENV/
+.venv/
+
+# ============================
+# Node / Web build files
+# ============================
+node_modules/
+dist/
+build/
+*.cache
+*.lock
+
+# ============================
+# Data and output files
+# ============================
+# data/*.json
+# outputs*/
+# *.csv
+# *.tsv
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+
+# ============================
+# Python notebooks
+# ============================
+*.ipynb_checkpoints/
+
+# ============================
+# Logs and system files
+# ============================
+nohup.out
+*.log
+
+# ============================
+# Temporary & misc
+# ============================
+*.zip
+*.tar
+*.gz
+*.bak
+*.orig
+
+# ============================
+# Local server files
+# ============================
+*.pid
+*.sock
+*.coverage
+
+# ============================
+# MacOS metadata
+# ============================
+.AppleDouble
+.LSOverride
+.Trashes
+Icon?

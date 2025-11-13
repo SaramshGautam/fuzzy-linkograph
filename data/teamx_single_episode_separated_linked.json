@@ -1,0 +1,38 @@
+{
+  "TeamX": {
+    "moves": [
+      {
+        "text": "add_note hiking routes alps",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:20:39.797018Z",
+        "action": "add-note",
+        "itemType": "note",
+        "items": [
+          "shape:hike1",
+          "shape:alps1"
+        ],
+        "content": {
+          "text": "hiking routes, Alps",
+          "imageUrls": [
+            "https://picsum.photos/seed/alps-hike-0/800/600",
+            "https://picsum.photos/seed/alps-hike-1/800/600"
+          ],
+          "tags": [
+            "hiking",
+            "routes",
+            "alps"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 308,
+          "dwell_ms": 332,
+          "reselect_count": 2,
+          "hover_ms": 55,
+          "scrub_px": 24
+        },
+        "tempo": {
+          "gap_prev_ms": 717,
+          "apm_rolling": 30.4,
+          "velocity_px_s": 327.5
+        },
+        "_t": 

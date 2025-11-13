@@ -1,0 +1,166 @@
+{
+  "TeamX_With_Images": {
+    "moves": [
+      {
+        "text": "edit hiking city adventure",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:20:39.797018Z",
+        "action": "edit",
+        "itemType": "cluster",
+        "items": ["shape:czegj32zbr", "shape:paqlpc14mw", "shape:815bzjbr55"],
+        "content": {
+          "text": "hiking, city, adventure",
+          "imageUrls": [
+            "https://picsum.photos/seed/hiking-0/800/600",
+            "https://picsum.photos/seed/city-1/800/600"
+          ],
+          "tags": ["hiking", "city", "adventure"]
+        },
+        "micro": {
+          "pointer_path_px": 346,
+          "dwell_ms": 267,
+          "reselect_count": 0,
+          "hover_ms": 68,
+          "scrub_px": 4
+        },
+        "tempo": {
+          "gap_prev_ms": 1299,
+          "apm_rolling": 25.1,
+          "velocity_px_s": 448.9
+        }
+      },
+      {
+        "text": "edit relax Alps",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:20:49.797018Z",
+        "action": "edit",
+        "itemType": "image",
+        "items": ["shape:0i4kcb1kg7", "shape:kaxp833knw", "shape:9nvaqogxk2"],
+        "content": {
+          "text": "relax, Alps",
+          "imageUrls": [
+            "https://picsum.photos/seed/alps-0/800/600",
+            "https://picsum.photos/seed/relax-1/800/600"
+          ],
+          "tags": ["relax", "Alps"]
+        },
+        "micro": {
+          "pointer_path_px": 475,
+          "dwell_ms": 208,
+          "reselect_count": 2,
+          "hover_ms": 32,
+          "scrub_px": 28
+        },
+        "tempo": {
+          "gap_prev_ms": 1404,
+          "apm_rolling": 43.0,
+          "velocity_px_s": 264.7
+        }
+      },
+      {
+        "text": "cluster museum food hiking",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:20:59.797018Z",
+        "action": "cluster",
+        "itemType": "image",
+        "items": ["shape:dvwtz4k3hh", "shape:m2kxs7pp2x", "shape:mnfjzo8iwt"],
+        "content": {
+          "text": "museum, food, hiking",
+          "imageUrls": [
+            "https://picsum.photos/seed/hiking-0/800/600",
+            "https://picsum.photos/seed/museum-1/800/600"
+          ],
+          "tags": ["museum", "food", "hiking"]
+        },
+        "micro": {
+          "pointer_path_px": 624,
+          "dwell_ms": 403,
+          "reselect_count": 1,
+          "hover_ms": 92,
+          "scrub_px": 39
+        },
+        "tempo": {
+          "gap_prev_ms": 1109,
+          "apm_rolling": 43.5,
+          "velocity_px_s": 122.7
+        }
+      },
+      {
+        "text": "highlight hiking",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:21:09.797018Z",
+        "action": "highlight",
+        "itemType": "image",
+        "items": ["shape:dptb5y2k8g", "shape:aq2x91ga1y"],
+        "content": {
+          "text": "hiking",
+          "imageUrls": ["https://picsum.photos/seed/hiking-0/800/600"],
+          "tags": ["hiking"]
+        },
+        "micro": {
+          "pointer_path_px": 689,
+          "dwell_ms": 181,
+          "reselect_count": 1,
+          "hover_ms": 180,
+          "scrub_px": 6
+        },
+        "tempo": {
+          "gap_prev_ms": 858,
+          "apm_rolling": 11.3,
+          "velocity_px_s": 395.3
+        }
+      },
+      {
+        "text": "cluster relax beach",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:21:19.797018Z",
+        "action": "cluster",
+        "itemType": "image",
+        "items": ["shape:7jo2p927mg"],
+        "content": {
+          "text": "relax, beach",
+          "imageUrls": [
+            "https://picsum.photos/seed/beach-0/800/600",
+            "https://picsum.photos/seed/relax-1/800/600"
+          ],
+          "tags": ["relax", "beach"]
+        },
+        "micro": {
+          "pointer_path_px": 581,
+          "dwell_ms": 95,
+          "reselect_count": 0,
+          "hover_ms": 180,
+          "scrub_px": 12
+        },
+        "tempo": {
+          "gap_prev_ms": 1417,
+          "apm_rolling": 39.3,
+          "velocity_px_s": 394.9
+        }
+      }
+    ],
+    "links": {
+      "0": {},
+      "1": {
+        "0": 0.7835148572921753
+      },
+      "2": {
+        "0": 0.7925708293914795,
+        "1": 0.7074667811393738
+      },
+      "3": {
+        "0": 0.8582937121391296,
+        "1": 0.7279790639877319,
+        "2": 0.7468936443328857
+      },
+      "4": {
+        "0": 0.7348417043685913,
+        "1": 0.8050872683525085,
+        "2": 0.751945972442627,
+        "3": 0.7239139676094055
+      }
+    },
+    "modality": ["text", "text", "text", "text", "text"],
+    "model": "openai/clip-vit-base-patch32"
+  }
+}

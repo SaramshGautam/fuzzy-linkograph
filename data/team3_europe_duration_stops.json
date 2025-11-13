@@ -1,0 +1,59 @@
+{
+  "team_brainstorm_session_team3": [
+    {
+      "text": "mapping a two\u2011week europe plan",
+      "timestamp": "2025-04-16T11:15:05Z",
+      "actor": 0
+    },
+    {
+      "text": "stops: rome, paris, budapest, madrid, london, athens, norway, switzerland, germany",
+      "timestamp": "2025-04-16T11:15:25Z",
+      "actor": 1
+    },
+    {
+      "text": "allocate 3 days for rome\u2014colosseum, vatican, gelato crawl",
+      "timestamp": "2025-04-16T11:15:50Z",
+      "actor": 2
+    },
+    {
+      "text": "paris: 2 days\u2014eiffel at dusk, local bistros, seine walk",
+      "timestamp": "2025-04-16T11:16:20Z",
+      "actor": 0
+    },
+    {
+      "text": "budapest: 3 days\u2014thermal baths and ruin bars",
+      "timestamp": "2025-04-16T11:16:50Z",
+      "actor": 1
+    },
+    {
+      "text": "madrid: 4 days\u2014museums and tapas nights",
+      "timestamp": "2025-04-16T11:17:20Z",
+      "actor": 2
+    },
+    {
+      "text": "london: 2 days\u2014west end show if tickets fit budget",
+      "timestamp": "2025-04-16T11:17:50Z",
+      "actor": 0
+    },
+    {
+      "text": "athens: 3 days\u2014acropolis and island day\u2011trip",
+      "timestamp": "2025-04-16T11:18:20Z",
+      "actor": 1
+    },
+    {
+      "text": "norway: 2 days\u2014fjord lookouts, weather\u2011permitting",
+      "timestamp": "2025-04-16T11:18:50Z",
+      "actor": 2
+    },
+    {
+      "text": "switzerland: 4 days\u2014lakes + alpine train",
+      "timestamp": "2025-04-16T11:19:20Z",
+      "actor": 0
+    },
+    {
+      "text": "germany: 2 days\u2014local breweries and old towns",
+      "timestamp": "2025-04-16T11:19:50Z",
+      "actor": 1
+    }
+  ]
+}

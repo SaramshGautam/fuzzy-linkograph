@@ -1,0 +1,1852 @@
+{
+  "TeamX": [
+    {
+      "text": "edit hiking city adventure",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:20:39.797018Z",
+      "action": "edit",
+      "itemType": "cluster",
+      "items": [
+        "shape:czegj32zbr",
+        "shape:paqlpc14mw",
+        "shape:815bzjbr55"
+      ],
+      "content": {
+        "text": "hiking, city, adventure",
+        "imageUrls": [],
+        "tags": [
+          "hiking",
+          "city",
+          "adventure"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 346,
+        "dwell_ms": 267,
+        "reselect_count": 0,
+        "hover_ms": 68,
+        "scrub_px": 4
+      },
+      "tempo": {
+        "gap_prev_ms": 1299,
+        "apm_rolling": 25.1,
+        "velocity_px_s": 448.9
+      }
+    },
+    {
+      "text": "edit relax Alps",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:20:49.797018Z",
+      "action": "edit",
+      "itemType": "image",
+      "items": [
+        "shape:0i4kcb1kg7",
+        "shape:kaxp833knw",
+        "shape:9nvaqogxk2"
+      ],
+      "content": {
+        "text": "relax, Alps",
+        "imageUrls": [],
+        "tags": [
+          "relax",
+          "Alps"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 475,
+        "dwell_ms": 208,
+        "reselect_count": 2,
+        "hover_ms": 32,
+        "scrub_px": 28
+      },
+      "tempo": {
+        "gap_prev_ms": 1404,
+        "apm_rolling": 43.0,
+        "velocity_px_s": 264.7
+      }
+    },
+    {
+      "text": "cluster museum food hiking",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:20:59.797018Z",
+      "action": "cluster",
+      "itemType": "image",
+      "items": [
+        "shape:dvwtz4k3hh",
+        "shape:m2kxs7pp2x",
+        "shape:mnfjzo8iwt"
+      ],
+      "content": {
+        "text": "museum, food, hiking",
+        "imageUrls": [],
+        "tags": [
+          "museum",
+          "food",
+          "hiking"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 624,
+        "dwell_ms": 403,
+        "reselect_count": 1,
+        "hover_ms": 92,
+        "scrub_px": 39
+      },
+      "tempo": {
+        "gap_prev_ms": 1109,
+        "apm_rolling": 43.5,
+        "velocity_px_s": 122.7
+      }
+    },
+    {
+      "text": "highlight hiking",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:21:09.797018Z",
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:dptb5y2k8g",
+        "shape:aq2x91ga1y"
+      ],
+      "content": {
+        "text": "hiking",
+        "imageUrls": [],
+        "tags": [
+          "hiking"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 689,
+        "dwell_ms": 181,
+        "reselect_count": 1,
+        "hover_ms": 180,
+        "scrub_px": 6
+      },
+      "tempo": {
+        "gap_prev_ms": 858,
+        "apm_rolling": 11.3,
+        "velocity_px_s": 395.3
+      }
+    },
+    {
+      "text": "cluster relax beach",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:21:19.797018Z",
+      "action": "cluster",
+      "itemType": "image",
+      "items": [
+        "shape:7jo2p927mg"
+      ],
+      "content": {
+        "text": "relax, beach",
+        "imageUrls": [],
+        "tags": [
+          "relax",
+          "beach"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 581,
+        "dwell_ms": 95,
+        "reselect_count": 0,
+        "hover_ms": 180,
+        "scrub_px": 12
+      },
+      "tempo": {
+        "gap_prev_ms": 1417,
+        "apm_rolling": 39.3,
+        "velocity_px_s": 394.9
+      }
+    },
+    {
+      "text": "group hiking nature city",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:21:29.797018Z",
+      "action": "group",
+      "itemType": "cluster",
+      "items": [
+        "shape:k2kusvte82",
+        "shape:i2wdfhg8r9"
+      ],
+      "content": {
+        "text": "hiking, nature, city",
+        "imageUrls": [],
+        "tags": [
+          "hiking",
+          "nature",
+          "city"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 714,
+        "dwell_ms": 221,
+        "reselect_count": 2,
+        "hover_ms": 42,
+        "scrub_px": 46
+      },
+      "tempo": {
+        "gap_prev_ms": 748,
+        "apm_rolling": 42.5,
+        "velocity_px_s": 191.2
+      }
+    },
+    {
+      "text": "add_note art adventure museum",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:21:39.797018Z",
+      "action": "add_note",
+      "itemType": "cluster",
+      "items": [
+        "shape:4im1eg90j5",
+        "shape:zbnt9numfk"
+      ],
+      "content": {
+        "text": "art, adventure, museum",
+        "imageUrls": [],
+        "tags": [
+          "art",
+          "adventure",
+          "museum"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 681,
+        "dwell_ms": 365,
+        "reselect_count": 0,
+        "hover_ms": 28,
+        "scrub_px": 39
+      },
+      "tempo": {
+        "gap_prev_ms": 469,
+        "apm_rolling": 34.4,
+        "velocity_px_s": 121.5
+      }
+    },
+    {
+      "text": "cluster food museum",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:21:49.797018Z",
+      "action": "cluster",
+      "itemType": "cluster",
+      "items": [
+        "shape:d6o2aawepi"
+      ],
+      "content": {
+        "text": "food, museum",
+        "imageUrls": [],
+        "tags": [
+          "food",
+          "museum"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 382,
+        "dwell_ms": 348,
+        "reselect_count": 1,
+        "hover_ms": 93,
+        "scrub_px": 0
+      },
+      "tempo": {
+        "gap_prev_ms": 905,
+        "apm_rolling": 34.2,
+        "velocity_px_s": 576.7
+      }
+    },
+    {
+      "text": "highlight hiking",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:21:59.797018Z",
+      "action": "highlight",
+      "itemType": "cluster",
+      "items": [
+        "shape:mqyyz9p304",
+        "shape:v375bhxx64",
+        "shape:pin4uk7yy8"
+      ],
+      "content": {
+        "text": "hiking",
+        "imageUrls": [],
+        "tags": [
+          "hiking"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 123,
+        "dwell_ms": 374,
+        "reselect_count": 0,
+        "hover_ms": 117,
+        "scrub_px": 48
+      },
+      "tempo": {
+        "gap_prev_ms": 1359,
+        "apm_rolling": 24.8,
+        "velocity_px_s": 152.1
+      }
+    },
+    {
+      "text": "cluster art food adventure",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:22:09.797018Z",
+      "action": "cluster",
+      "itemType": "cluster",
+      "items": [
+        "shape:rn20tk94mz"
+      ],
+      "content": {
+        "text": "art, food, adventure",
+        "imageUrls": [],
+        "tags": [
+          "art",
+          "food",
+          "adventure"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 560,
+        "dwell_ms": 57,
+        "reselect_count": 0,
+        "hover_ms": 42,
+        "scrub_px": 35
+      },
+      "tempo": {
+        "gap_prev_ms": 854,
+        "apm_rolling": 31.4,
+        "velocity_px_s": 308.7
+      }
+    },
+    {
+      "text": "add_note museum food",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:22:19.797018Z",
+      "action": "add_note",
+      "itemType": "image",
+      "items": [
+        "shape:cr2nds79cf",
+        "shape:kfyy0p8p3l",
+        "shape:sm0my31xan"
+      ],
+      "content": {
+        "text": "museum, food",
+        "imageUrls": [],
+        "tags": [
+          "museum",
+          "food"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 213,
+        "dwell_ms": 146,
+        "reselect_count": 3,
+        "hover_ms": 135,
+        "scrub_px": 22
+      },
+      "tempo": {
+        "gap_prev_ms": 915,
+        "apm_rolling": 47.2,
+        "velocity_px_s": 460.4
+      }
+    },
+    {
+      "text": "delete relax",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:22:29.797018Z",
+      "action": "delete",
+      "itemType": "image",
+      "items": [
+        "shape:jlsp6uxlqm"
+      ],
+      "content": {
+        "text": "relax",
+        "imageUrls": [],
+        "tags": [
+          "relax"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 579,
+        "dwell_ms": 398,
+        "reselect_count": 0,
+        "hover_ms": 192,
+        "scrub_px": 10
+      },
+      "tempo": {
+        "gap_prev_ms": 456,
+        "apm_rolling": 43.8,
+        "velocity_px_s": 418.0
+      }
+    },
+    {
+      "text": "draw hiking adventure",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:22:39.797018Z",
+      "action": "draw",
+      "itemType": "note",
+      "items": [
+        "shape:zcja9im06i",
+        "shape:raqfwnw15c"
+      ],
+      "content": {
+        "text": "hiking, adventure",
+        "imageUrls": [],
+        "tags": [
+          "hiking",
+          "adventure"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 194,
+        "dwell_ms": 254,
+        "reselect_count": 2,
+        "hover_ms": 73,
+        "scrub_px": 21
+      },
+      "tempo": {
+        "gap_prev_ms": 894,
+        "apm_rolling": 16.5,
+        "velocity_px_s": 253.7
+      }
+    },
+    {
+      "text": "move relax nature",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:22:49.797018Z",
+      "action": "move",
+      "itemType": "image",
+      "items": [
+        "shape:uq1g6jb2zf"
+      ],
+      "content": {
+        "text": "relax, nature",
+        "imageUrls": [],
+        "tags": [
+          "relax",
+          "nature"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 379,
+        "dwell_ms": 85,
+        "reselect_count": 1,
+        "hover_ms": 56,
+        "scrub_px": 1
+      },
+      "tempo": {
+        "gap_prev_ms": 396,
+        "apm_rolling": 31.9,
+        "velocity_px_s": 374.8
+      }
+    },
+    {
+      "text": "link relax beach",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:22:59.797018Z",
+      "action": "link",
+      "itemType": "note",
+      "items": [
+        "shape:v2b0c0ayvl"
+      ],
+      "content": {
+        "text": "relax, beach",
+        "imageUrls": [],
+        "tags": [
+          "relax",
+          "beach"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 728,
+        "dwell_ms": 228,
+        "reselect_count": 0,
+        "hover_ms": 153,
+        "scrub_px": 40
+      },
+      "tempo": {
+        "gap_prev_ms": 1617,
+        "apm_rolling": 33.9,
+        "velocity_px_s": 144.6
+      }
+    },
+    {
+      "text": "add_note museum",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:23:09.797018Z",
+      "action": "add_note",
+      "itemType": "cluster",
+      "items": [
+        "shape:usqvy5j3qo",
+        "shape:i5uch217f1",
+        "shape:gs9xsqbk9c"
+      ],
+      "content": {
+        "text": "museum",
+        "imageUrls": [],
+        "tags": [
+          "museum"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 676,
+        "dwell_ms": 259,
+        "reselect_count": 3,
+        "hover_ms": 165,
+        "scrub_px": 49
+      },
+      "tempo": {
+        "gap_prev_ms": 1846,
+        "apm_rolling": 26.7,
+        "velocity_px_s": 589.2
+      }
+    },
+    {
+      "text": "ungroup city Alps nature",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:23:19.797018Z",
+      "action": "ungroup",
+      "itemType": "note",
+      "items": [
+        "shape:u0m31dvzzg",
+        "shape:j9t8ft3r70"
+      ],
+      "content": {
+        "text": "city, Alps, nature",
+        "imageUrls": [],
+        "tags": [
+          "city",
+          "Alps",
+          "nature"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 611,
+        "dwell_ms": 148,
+        "reselect_count": 1,
+        "hover_ms": 49,
+        "scrub_px": 36
+      },
+      "tempo": {
+        "gap_prev_ms": 868,
+        "apm_rolling": 20.2,
+        "velocity_px_s": 438.9
+      }
+    },
+    {
+      "text": "move nature",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:23:29.797018Z",
+      "action": "move",
+      "itemType": "cluster",
+      "items": [
+        "shape:25uekbq020"
+      ],
+      "content": {
+        "text": "nature",
+        "imageUrls": [],
+        "tags": [
+          "nature"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 383,
+        "dwell_ms": 366,
+        "reselect_count": 0,
+        "hover_ms": 92,
+        "scrub_px": 13
+      },
+      "tempo": {
+        "gap_prev_ms": 1468,
+        "apm_rolling": 11.5,
+        "velocity_px_s": 354.9
+      }
+    },
+    {
+      "text": "add_note city art nature",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:23:39.797018Z",
+      "action": "add_note",
+      "itemType": "note",
+      "items": [
+        "shape:o4mkboo0x9",
+        "shape:ud54fpcsjb"
+      ],
+      "content": {
+        "text": "city, art, nature",
+        "imageUrls": [],
+        "tags": [
+          "city",
+          "art",
+          "nature"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 421,
+        "dwell_ms": 235,
+        "reselect_count": 1,
+        "hover_ms": 182,
+        "scrub_px": 29
+      },
+      "tempo": {
+        "gap_prev_ms": 1239,
+        "apm_rolling": 44.3,
+        "velocity_px_s": 297.7
+      }
+    },
+    {
+      "text": "delete beach",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:23:49.797018Z",
+      "action": "delete",
+      "itemType": "image",
+      "items": [
+        "shape:vet2hg4pf9"
+      ],
+      "content": {
+        "text": "beach",
+        "imageUrls": [],
+        "tags": [
+          "beach"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 274,
+        "dwell_ms": 364,
+        "reselect_count": 1,
+        "hover_ms": 40,
+        "scrub_px": 3
+      },
+      "tempo": {
+        "gap_prev_ms": 219,
+        "apm_rolling": 36.1,
+        "velocity_px_s": 434.9
+      }
+    },
+    {
+      "text": "draw beach art food",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:23:59.797018Z",
+      "action": "draw",
+      "itemType": "cluster",
+      "items": [
+        "shape:p8y8rv967x",
+        "shape:nfxrs52p65",
+        "shape:pje1u1ea5v"
+      ],
+      "content": {
+        "text": "beach, art, food",
+        "imageUrls": [],
+        "tags": [
+          "beach",
+          "art",
+          "food"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 274,
+        "dwell_ms": 114,
+        "reselect_count": 0,
+        "hover_ms": 53,
+        "scrub_px": 40
+      },
+      "tempo": {
+        "gap_prev_ms": 1927,
+        "apm_rolling": 31.2,
+        "velocity_px_s": 273.9
+      }
+    },
+    {
+      "text": "ungroup nature",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:24:09.797018Z",
+      "action": "ungroup",
+      "itemType": "image",
+      "items": [
+        "shape:pjctb0w1tc"
+      ],
+      "content": {
+        "text": "nature",
+        "imageUrls": [],
+        "tags": [
+          "nature"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 239,
+        "dwell_ms": 442,
+        "reselect_count": 3,
+        "hover_ms": 126,
+        "scrub_px": 4
+      },
+      "tempo": {
+        "gap_prev_ms": 761,
+        "apm_rolling": 28.3,
+        "velocity_px_s": 268.7
+      }
+    },
+    {
+      "text": "move city",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:24:19.797018Z",
+      "action": "move",
+      "itemType": "image",
+      "items": [
+        "shape:o4opro9luz"
+      ],
+      "content": {
+        "text": "city",
+        "imageUrls": [],
+        "tags": [
+          "city"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 636,
+        "dwell_ms": 482,
+        "reselect_count": 3,
+        "hover_ms": 162,
+        "scrub_px": 28
+      },
+      "tempo": {
+        "gap_prev_ms": 1122,
+        "apm_rolling": 23.9,
+        "velocity_px_s": 174.7
+      }
+    },
+    {
+      "text": "highlight Alps",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:24:29.797018Z",
+      "action": "highlight",
+      "itemType": "cluster",
+      "items": [
+        "shape:dve4m5m0dx"
+      ],
+      "content": {
+        "text": "Alps",
+        "imageUrls": [],
+        "tags": [
+          "Alps"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 434,
+        "dwell_ms": 148,
+        "reselect_count": 0,
+        "hover_ms": 33,
+        "scrub_px": 44
+      },
+      "tempo": {
+        "gap_prev_ms": 1528,
+        "apm_rolling": 30.7,
+        "velocity_px_s": 156.7
+      }
+    },
+    {
+      "text": "add_note adventure",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:24:39.797018Z",
+      "action": "add_note",
+      "itemType": "image",
+      "items": [
+        "shape:a6m4idk9n6"
+      ],
+      "content": {
+        "text": "adventure",
+        "imageUrls": [],
+        "tags": [
+          "adventure"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 109,
+        "dwell_ms": 495,
+        "reselect_count": 3,
+        "hover_ms": 35,
+        "scrub_px": 7
+      },
+      "tempo": {
+        "gap_prev_ms": 1900,
+        "apm_rolling": 32.2,
+        "velocity_px_s": 394.5
+      }
+    },
+    {
+      "text": "draw city",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:24:49.797018Z",
+      "action": "draw",
+      "itemType": "note",
+      "items": [
+        "shape:pl0ztmkaq9",
+        "shape:f770xwor5f"
+      ],
+      "content": {
+        "text": "city",
+        "imageUrls": [],
+        "tags": [
+          "city"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 592,
+        "dwell_ms": 435,
+        "reselect_count": 3,
+        "hover_ms": 157,
+        "scrub_px": 45
+      },
+      "tempo": {
+        "gap_prev_ms": 1997,
+        "apm_rolling": 25.1,
+        "velocity_px_s": 590.5
+      }
+    },
+    {
+      "text": "highlight food adventure",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:24:59.797018Z",
+      "action": "highlight",
+      "itemType": "cluster",
+      "items": [
+        "shape:lah1bqkue3",
+        "shape:e3floia2tz"
+      ],
+      "content": {
+        "text": "food, adventure",
+        "imageUrls": [],
+        "tags": [
+          "food",
+          "adventure"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 689,
+        "dwell_ms": 452,
+        "reselect_count": 0,
+        "hover_ms": 65,
+        "scrub_px": 2
+      },
+      "tempo": {
+        "gap_prev_ms": 472,
+        "apm_rolling": 19.8,
+        "velocity_px_s": 381.8
+      }
+    },
+    {
+      "text": "cluster relax hiking",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:25:09.797018Z",
+      "action": "cluster",
+      "itemType": "note",
+      "items": [
+        "shape:1lyb73xtsw"
+      ],
+      "content": {
+        "text": "relax, hiking",
+        "imageUrls": [],
+        "tags": [
+          "relax",
+          "hiking"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 665,
+        "dwell_ms": 339,
+        "reselect_count": 2,
+        "hover_ms": 165,
+        "scrub_px": 38
+      },
+      "tempo": {
+        "gap_prev_ms": 492,
+        "apm_rolling": 31.5,
+        "velocity_px_s": 400.5
+      }
+    },
+    {
+      "text": "move adventure",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:25:19.797018Z",
+      "action": "move",
+      "itemType": "note",
+      "items": [
+        "shape:ev6dsrxtda",
+        "shape:ivu41f3fjr",
+        "shape:a1dln3abof"
+      ],
+      "content": {
+        "text": "adventure",
+        "imageUrls": [],
+        "tags": [
+          "adventure"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 480,
+        "dwell_ms": 57,
+        "reselect_count": 1,
+        "hover_ms": 143,
+        "scrub_px": 40
+      },
+      "tempo": {
+        "gap_prev_ms": 1837,
+        "apm_rolling": 30.0,
+        "velocity_px_s": 520.3
+      }
+    },
+    {
+      "text": "group nature adventure",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:25:29.797018Z",
+      "action": "group",
+      "itemType": "image",
+      "items": [
+        "shape:wy2em22hay",
+        "shape:39x290rsqj"
+      ],
+      "content": {
+        "text": "nature, adventure",
+        "imageUrls": [],
+        "tags": [
+          "nature",
+          "adventure"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 588,
+        "dwell_ms": 223,
+        "reselect_count": 2,
+        "hover_ms": 85,
+        "scrub_px": 45
+      },
+      "tempo": {
+        "gap_prev_ms": 855,
+        "apm_rolling": 42.9,
+        "velocity_px_s": 148.3
+      }
+    },
+    {
+      "text": "group food nature",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:25:39.797018Z",
+      "action": "group",
+      "itemType": "image",
+      "items": [
+        "shape:8brd9clvqt",
+        "shape:m35i3o4g0o"
+      ],
+      "content": {
+        "text": "food, nature",
+        "imageUrls": [],
+        "tags": [
+          "food",
+          "nature"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 322,
+        "dwell_ms": 383,
+        "reselect_count": 0,
+        "hover_ms": 106,
+        "scrub_px": 39
+      },
+      "tempo": {
+        "gap_prev_ms": 423,
+        "apm_rolling": 13.2,
+        "velocity_px_s": 466.0
+      }
+    },
+    {
+      "text": "highlight city museum food",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:25:49.797018Z",
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:6l2pcfppxr"
+      ],
+      "content": {
+        "text": "city, museum, food",
+        "imageUrls": [],
+        "tags": [
+          "city",
+          "museum",
+          "food"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 294,
+        "dwell_ms": 122,
+        "reselect_count": 3,
+        "hover_ms": 161,
+        "scrub_px": 16
+      },
+      "tempo": {
+        "gap_prev_ms": 475,
+        "apm_rolling": 33.1,
+        "velocity_px_s": 586.8
+      }
+    },
+    {
+      "text": "highlight relax beach",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:25:59.797018Z",
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:p04cup8s2q",
+        "shape:ao5wqs0suv",
+        "shape:2jms0n28og"
+      ],
+      "content": {
+        "text": "relax, beach",
+        "imageUrls": [],
+        "tags": [
+          "relax",
+          "beach"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 661,
+        "dwell_ms": 188,
+        "reselect_count": 0,
+        "hover_ms": 39,
+        "scrub_px": 21
+      },
+      "tempo": {
+        "gap_prev_ms": 642,
+        "apm_rolling": 13.3,
+        "velocity_px_s": 313.4
+      }
+    },
+    {
+      "text": "group Alps city art",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:26:09.797018Z",
+      "action": "group",
+      "itemType": "cluster",
+      "items": [
+        "shape:g80zajiulr",
+        "shape:2sucttiv8n",
+        "shape:p57s263ko2"
+      ],
+      "content": {
+        "text": "Alps, city, art",
+        "imageUrls": [],
+        "tags": [
+          "Alps",
+          "city",
+          "art"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 504,
+        "dwell_ms": 492,
+        "reselect_count": 0,
+        "hover_ms": 103,
+        "scrub_px": 37
+      },
+      "tempo": {
+        "gap_prev_ms": 514,
+        "apm_rolling": 13.9,
+        "velocity_px_s": 591.6
+      }
+    },
+    {
+      "text": "move food nature",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:26:19.797018Z",
+      "action": "move",
+      "itemType": "note",
+      "items": [
+        "shape:1y734bwf3a",
+        "shape:5hx4mj3y40"
+      ],
+      "content": {
+        "text": "food, nature",
+        "imageUrls": [],
+        "tags": [
+          "food",
+          "nature"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 511,
+        "dwell_ms": 318,
+        "reselect_count": 3,
+        "hover_ms": 99,
+        "scrub_px": 12
+      },
+      "tempo": {
+        "gap_prev_ms": 1528,
+        "apm_rolling": 29.8,
+        "velocity_px_s": 422.3
+      }
+    },
+    {
+      "text": "cluster relax nature hiking",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:26:29.797018Z",
+      "action": "cluster",
+      "itemType": "cluster",
+      "items": [
+        "shape:hhzon86ilc"
+      ],
+      "content": {
+        "text": "relax, nature, hiking",
+        "imageUrls": [],
+        "tags": [
+          "relax",
+          "nature",
+          "hiking"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 185,
+        "dwell_ms": 422,
+        "reselect_count": 3,
+        "hover_ms": 89,
+        "scrub_px": 37
+      },
+      "tempo": {
+        "gap_prev_ms": 1510,
+        "apm_rolling": 42.3,
+        "velocity_px_s": 583.2
+      }
+    },
+    {
+      "text": "edit city food art",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:26:39.797018Z",
+      "action": "edit",
+      "itemType": "image",
+      "items": [
+        "shape:2bk8d4ld17"
+      ],
+      "content": {
+        "text": "city, food, art",
+        "imageUrls": [],
+        "tags": [
+          "city",
+          "food",
+          "art"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 240,
+        "dwell_ms": 223,
+        "reselect_count": 1,
+        "hover_ms": 111,
+        "scrub_px": 44
+      },
+      "tempo": {
+        "gap_prev_ms": 489,
+        "apm_rolling": 11.2,
+        "velocity_px_s": 377.9
+      }
+    },
+    {
+      "text": "highlight beach",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:26:49.797018Z",
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:uynvx5hijh"
+      ],
+      "content": {
+        "text": "beach",
+        "imageUrls": [],
+        "tags": [
+          "beach"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 415,
+        "dwell_ms": 92,
+        "reselect_count": 0,
+        "hover_ms": 104,
+        "scrub_px": 42
+      },
+      "tempo": {
+        "gap_prev_ms": 602,
+        "apm_rolling": 29.4,
+        "velocity_px_s": 528.9
+      }
+    },
+    {
+      "text": "draw nature hiking",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:26:59.797018Z",
+      "action": "draw",
+      "itemType": "cluster",
+      "items": [
+        "shape:xulcdno27y",
+        "shape:ka03pdk4x6"
+      ],
+      "content": {
+        "text": "nature, hiking",
+        "imageUrls": [],
+        "tags": [
+          "nature",
+          "hiking"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 420,
+        "dwell_ms": 429,
+        "reselect_count": 1,
+        "hover_ms": 113,
+        "scrub_px": 2
+      },
+      "tempo": {
+        "gap_prev_ms": 327,
+        "apm_rolling": 47.9,
+        "velocity_px_s": 374.0
+      }
+    },
+    {
+      "text": "move beach",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:27:09.797018Z",
+      "action": "move",
+      "itemType": "note",
+      "items": [
+        "shape:q3d7ucocbj",
+        "shape:xa7b43jc0t"
+      ],
+      "content": {
+        "text": "beach",
+        "imageUrls": [],
+        "tags": [
+          "beach"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 609,
+        "dwell_ms": 142,
+        "reselect_count": 1,
+        "hover_ms": 200,
+        "scrub_px": 36
+      },
+      "tempo": {
+        "gap_prev_ms": 1522,
+        "apm_rolling": 36.0,
+        "velocity_px_s": 244.2
+      }
+    },
+    {
+      "text": "delete city relax beach",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:27:19.797018Z",
+      "action": "delete",
+      "itemType": "image",
+      "items": [
+        "shape:gwn6zpd12j"
+      ],
+      "content": {
+        "text": "city, relax, beach",
+        "imageUrls": [],
+        "tags": [
+          "city",
+          "relax",
+          "beach"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 305,
+        "dwell_ms": 486,
+        "reselect_count": 0,
+        "hover_ms": 41,
+        "scrub_px": 37
+      },
+      "tempo": {
+        "gap_prev_ms": 1537,
+        "apm_rolling": 12.7,
+        "velocity_px_s": 411.6
+      }
+    },
+    {
+      "text": "highlight hiking",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:27:29.797018Z",
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:ix8f48oqmp"
+      ],
+      "content": {
+        "text": "hiking",
+        "imageUrls": [],
+        "tags": [
+          "hiking"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 733,
+        "dwell_ms": 270,
+        "reselect_count": 0,
+        "hover_ms": 58,
+        "scrub_px": 5
+      },
+      "tempo": {
+        "gap_prev_ms": 1249,
+        "apm_rolling": 48.0,
+        "velocity_px_s": 574.2
+      }
+    },
+    {
+      "text": "move adventure hiking",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:27:39.797018Z",
+      "action": "move",
+      "itemType": "image",
+      "items": [
+        "shape:ngejjnlckk",
+        "shape:9yxas3b0jy"
+      ],
+      "content": {
+        "text": "adventure, hiking",
+        "imageUrls": [],
+        "tags": [
+          "adventure",
+          "hiking"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 780,
+        "dwell_ms": 223,
+        "reselect_count": 0,
+        "hover_ms": 88,
+        "scrub_px": 14
+      },
+      "tempo": {
+        "gap_prev_ms": 1685,
+        "apm_rolling": 37.1,
+        "velocity_px_s": 282.1
+      }
+    },
+    {
+      "text": "draw food",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:27:49.797018Z",
+      "action": "draw",
+      "itemType": "cluster",
+      "items": [
+        "shape:m2dtcd1k4b",
+        "shape:zc9dkhw8vh",
+        "shape:12vz0u8gxt"
+      ],
+      "content": {
+        "text": "food",
+        "imageUrls": [],
+        "tags": [
+          "food"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 729,
+        "dwell_ms": 391,
+        "reselect_count": 2,
+        "hover_ms": 161,
+        "scrub_px": 6
+      },
+      "tempo": {
+        "gap_prev_ms": 1275,
+        "apm_rolling": 34.4,
+        "velocity_px_s": 398.4
+      }
+    },
+    {
+      "text": "group art museum",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:27:59.797018Z",
+      "action": "group",
+      "itemType": "cluster",
+      "items": [
+        "shape:c6n5wfe82x",
+        "shape:if2vkzc4ck"
+      ],
+      "content": {
+        "text": "art, museum",
+        "imageUrls": [],
+        "tags": [
+          "art",
+          "museum"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 479,
+        "dwell_ms": 379,
+        "reselect_count": 2,
+        "hover_ms": 51,
+        "scrub_px": 3
+      },
+      "tempo": {
+        "gap_prev_ms": 1075,
+        "apm_rolling": 14.2,
+        "velocity_px_s": 317.6
+      }
+    },
+    {
+      "text": "group hiking Alps",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:28:09.797018Z",
+      "action": "group",
+      "itemType": "cluster",
+      "items": [
+        "shape:b7bwfc8emg"
+      ],
+      "content": {
+        "text": "hiking, Alps",
+        "imageUrls": [],
+        "tags": [
+          "hiking",
+          "Alps"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 520,
+        "dwell_ms": 445,
+        "reselect_count": 3,
+        "hover_ms": 77,
+        "scrub_px": 11
+      },
+      "tempo": {
+        "gap_prev_ms": 1908,
+        "apm_rolling": 48.1,
+        "velocity_px_s": 147.6
+      }
+    },
+    {
+      "text": "delete beach relax city",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:28:19.797018Z",
+      "action": "delete",
+      "itemType": "image",
+      "items": [
+        "shape:2zrxppq44v",
+        "shape:oxavfsq3pl",
+        "shape:qdj6g4j2gd"
+      ],
+      "content": {
+        "text": "beach, relax, city",
+        "imageUrls": [],
+        "tags": [
+          "beach",
+          "relax",
+          "city"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 755,
+        "dwell_ms": 297,
+        "reselect_count": 2,
+        "hover_ms": 51,
+        "scrub_px": 19
+      },
+      "tempo": {
+        "gap_prev_ms": 1279,
+        "apm_rolling": 40.2,
+        "velocity_px_s": 170.1
+      }
+    },
+    {
+      "text": "add_note adventure art beach",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:28:29.797018Z",
+      "action": "add_note",
+      "itemType": "cluster",
+      "items": [
+        "shape:ojn3stykqn",
+        "shape:rdpearvh26"
+      ],
+      "content": {
+        "text": "adventure, art, beach",
+        "imageUrls": [],
+        "tags": [
+          "adventure",
+          "art",
+          "beach"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 120,
+        "dwell_ms": 200,
+        "reselect_count": 3,
+        "hover_ms": 132,
+        "scrub_px": 34
+      },
+      "tempo": {
+        "gap_prev_ms": 363,
+        "apm_rolling": 31.4,
+        "velocity_px_s": 384.9
+      }
+    },
+    {
+      "text": "draw museum relax",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:28:39.797018Z",
+      "action": "draw",
+      "itemType": "image",
+      "items": [
+        "shape:abylv9n8x1"
+      ],
+      "content": {
+        "text": "museum, relax",
+        "imageUrls": [],
+        "tags": [
+          "museum",
+          "relax"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 480,
+        "dwell_ms": 232,
+        "reselect_count": 1,
+        "hover_ms": 44,
+        "scrub_px": 37
+      },
+      "tempo": {
+        "gap_prev_ms": 208,
+        "apm_rolling": 24.2,
+        "velocity_px_s": 390.4
+      }
+    },
+    {
+      "text": "group adventure museum",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:28:49.797018Z",
+      "action": "group",
+      "itemType": "image",
+      "items": [
+        "shape:t0jekn22r1",
+        "shape:o37yb5geqe",
+        "shape:o28nbh0nwu"
+      ],
+      "content": {
+        "text": "adventure, museum",
+        "imageUrls": [],
+        "tags": [
+          "adventure",
+          "museum"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 389,
+        "dwell_ms": 449,
+        "reselect_count": 1,
+        "hover_ms": 74,
+        "scrub_px": 40
+      },
+      "tempo": {
+        "gap_prev_ms": 1671,
+        "apm_rolling": 35.7,
+        "velocity_px_s": 229.0
+      }
+    },
+    {
+      "text": "ungroup city beach",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:28:59.797018Z",
+      "action": "ungroup",
+      "itemType": "cluster",
+      "items": [
+        "shape:hrwevpd3s0"
+      ],
+      "content": {
+        "text": "city, beach",
+        "imageUrls": [],
+        "tags": [
+          "city",
+          "beach"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 521,
+        "dwell_ms": 392,
+        "reselect_count": 0,
+        "hover_ms": 153,
+        "scrub_px": 28
+      },
+      "tempo": {
+        "gap_prev_ms": 585,
+        "apm_rolling": 14.7,
+        "velocity_px_s": 514.8
+      }
+    },
+    {
+      "text": "add_note hiking food museum",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:29:09.797018Z",
+      "action": "add_note",
+      "itemType": "cluster",
+      "items": [
+        "shape:sj4tyho63h",
+        "shape:pa2zv5jp3c"
+      ],
+      "content": {
+        "text": "hiking, food, museum",
+        "imageUrls": [],
+        "tags": [
+          "hiking",
+          "food",
+          "museum"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 166,
+        "dwell_ms": 282,
+        "reselect_count": 1,
+        "hover_ms": 91,
+        "scrub_px": 8
+      },
+      "tempo": {
+        "gap_prev_ms": 1011,
+        "apm_rolling": 27.4,
+        "velocity_px_s": 181.1
+      }
+    },
+    {
+      "text": "highlight art",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:29:19.797018Z",
+      "action": "highlight",
+      "itemType": "cluster",
+      "items": [
+        "shape:2yp4gj1afk",
+        "shape:keyvbnkf4n",
+        "shape:dteuydoygs"
+      ],
+      "content": {
+        "text": "art",
+        "imageUrls": [],
+        "tags": [
+          "art"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 296,
+        "dwell_ms": 285,
+        "reselect_count": 0,
+        "hover_ms": 144,
+        "scrub_px": 23
+      },
+      "tempo": {
+        "gap_prev_ms": 1193,
+        "apm_rolling": 17.3,
+        "velocity_px_s": 143.0
+      }
+    },
+    {
+      "text": "draw adventure art beach",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:29:29.797018Z",
+      "action": "draw",
+      "itemType": "cluster",
+      "items": [
+        "shape:zw8cp40yxc",
+        "shape:td1a6ipyye"
+      ],
+      "content": {
+        "text": "adventure, art, beach",
+        "imageUrls": [],
+        "tags": [
+          "adventure",
+          "art",
+          "beach"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 546,
+        "dwell_ms": 223,
+        "reselect_count": 3,
+        "hover_ms": 191,
+        "scrub_px": 14
+      },
+      "tempo": {
+        "gap_prev_ms": 1280,
+        "apm_rolling": 19.1,
+        "velocity_px_s": 594.5
+      }
+    },
+    {
+      "text": "link food",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:29:39.797018Z",
+      "action": "link",
+      "itemType": "cluster",
+      "items": [
+        "shape:l9yjb57k78",
+        "shape:ajcbh9rafi",
+        "shape:edqd4p9mpo"
+      ],
+      "content": {
+        "text": "food",
+        "imageUrls": [],
+        "tags": [
+          "food"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 186,
+        "dwell_ms": 150,
+        "reselect_count": 1,
+        "hover_ms": 65,
+        "scrub_px": 40
+      },
+      "tempo": {
+        "gap_prev_ms": 354,
+        "apm_rolling": 11.8,
+        "velocity_px_s": 509.4
+      }
+    },
+    {
+      "text": "add_note adventure Alps",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:29:49.797018Z",
+      "action": "add_note",
+      "itemType": "cluster",
+      "items": [
+        "shape:l6lh3kdidx",
+        "shape:le3dg9xizi"
+      ],
+      "content": {
+        "text": "adventure, Alps",
+        "imageUrls": [],
+        "tags": [
+          "adventure",
+          "Alps"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 770,
+        "dwell_ms": 337,
+        "reselect_count": 1,
+        "hover_ms": 139,
+        "scrub_px": 26
+      },
+      "tempo": {
+        "gap_prev_ms": 1982,
+        "apm_rolling": 41.4,
+        "velocity_px_s": 591.3
+      }
+    },
+    {
+      "text": "group adventure",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:29:59.797018Z",
+      "action": "group",
+      "itemType": "image",
+      "items": [
+        "shape:7r8mfx4792",
+        "shape:6x30sqsqfj"
+      ],
+      "content": {
+        "text": "adventure",
+        "imageUrls": [],
+        "tags": [
+          "adventure"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 245,
+        "dwell_ms": 381,
+        "reselect_count": 1,
+        "hover_ms": 166,
+        "scrub_px": 46
+      },
+      "tempo": {
+        "gap_prev_ms": 1956,
+        "apm_rolling": 32.0,
+        "velocity_px_s": 189.5
+      }
+    },
+    {
+      "text": "cluster nature beach",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:30:09.797018Z",
+      "action": "cluster",
+      "itemType": "cluster",
+      "items": [
+        "shape:26hgqnbju8"
+      ],
+      "content": {
+        "text": "nature, beach",
+        "imageUrls": [],
+        "tags": [
+          "nature",
+          "beach"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 171,
+        "dwell_ms": 444,
+        "reselect_count": 2,
+        "hover_ms": 97,
+        "scrub_px": 3
+      },
+      "tempo": {
+        "gap_prev_ms": 1441,
+        "apm_rolling": 12.1,
+        "velocity_px_s": 428.7
+      }
+    },
+    {
+      "text": "add_note Alps",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:30:19.797018Z",
+      "action": "add_note",
+      "itemType": "note",
+      "items": [
+        "shape:5l1pwusrw7",
+        "shape:jjrcq3nz3v",
+        "shape:mmpgtqh1r5"
+      ],
+      "content": {
+        "text": "Alps",
+        "imageUrls": [],
+        "tags": [
+          "Alps"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 535,
+        "dwell_ms": 100,
+        "reselect_count": 1,
+        "hover_ms": 83,
+        "scrub_px": 5
+      },
+      "tempo": {
+        "gap_prev_ms": 1449,
+        "apm_rolling": 19.7,
+        "velocity_px_s": 511.6
+      }
+    },
+    {
+      "text": "highlight art",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:30:29.797018Z",
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:jb87rv27f7"
+      ],
+      "content": {
+        "text": "art",
+        "imageUrls": [],
+        "tags": [
+          "art"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 713,
+        "dwell_ms": 315,
+        "reselect_count": 2,
+        "hover_ms": 195,
+        "scrub_px": 0
+      },
+      "tempo": {
+        "gap_prev_ms": 1207,
+        "apm_rolling": 26.7,
+        "velocity_px_s": 287.7
+      }
+    }
+  ]
+}

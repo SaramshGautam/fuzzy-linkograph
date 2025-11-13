@@ -1,0 +1,373 @@
+{
+  "TeamX": {
+    "moves": [
+      {
+        "text": "add_note hiking food nature",
+        "actor": 2,
+        "timestamp": "2025-11-04T10:00:00Z",
+        "action": "highlight",
+        "itemType": "note",
+        "content": {
+          "text": "hiking, food, nature",
+          "imageUrls": [
+            "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+          ],
+          "tags": [
+            "hiking",
+            "food",
+            "nature"
+          ]
+        }
+      },
+      {
+        "text": "highlight Alps city relax",
+        "actor": 0,
+        "timestamp": "2025-11-04T10:00:30Z",
+        "action": "edit",
+        "itemType": "note",
+        "content": {
+          "text": "Alps, city, relax",
+          "imageUrls": [
+            "https://images.unsplash.com/photo-1470770841072-f978cf4d019e"
+          ],
+          "tags": [
+            "Alps",
+            "city",
+            "relax"
+          ]
+        }
+      },
+      {
+        "text": "highlight city food beach",
+        "actor": 1,
+        "timestamp": "2025-11-04T10:01:00Z",
+        "action": "edit",
+        "itemType": "image",
+        "content": {
+          "text": "city, food, beach",
+          "imageUrls": [],
+          "tags": [
+            "city",
+            "food",
+            "beach"
+          ]
+        }
+      },
+      {
+        "text": "add_note museum art food",
+        "actor": 0,
+        "timestamp": "2025-11-04T10:01:30Z",
+        "action": "cluster",
+        "itemType": "cluster",
+        "content": {
+          "text": "museum, art, food",
+          "imageUrls": [
+            "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+          ],
+          "tags": [
+            "museum",
+            "art",
+            "food"
+          ]
+        }
+      },
+      {
+        "text": "draw food hiking museum",
+        "actor": 1,
+        "timestamp": "2025-11-04T10:02:00Z",
+        "action": "add_note",
+        "itemType": "cluster",
+        "content": {
+          "text": "food, hiking, museum",
+          "imageUrls": [
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+          ],
+          "tags": [
+            "food",
+            "hiking",
+            "museum"
+          ]
+        }
+      },
+      {
+        "text": "highlight relax adventure art",
+        "actor": 1,
+        "timestamp": "2025-11-04T10:02:30Z",
+        "action": "highlight",
+        "itemType": "cluster",
+        "content": {
+          "text": "relax, adventure, art",
+          "imageUrls": [
+            "https://images.unsplash.com/photo-1491553895911-0055eca6402d"
+          ],
+          "tags": [
+            "relax",
+            "adventure",
+            "art"
+          ]
+        }
+      },
+      {
+        "text": "highlight nature beach hiking",
+        "actor": 2,
+        "timestamp": "2025-11-04T10:03:00Z",
+        "action": "edit",
+        "itemType": "cluster",
+        "content": {
+          "text": "nature, beach, hiking",
+          "imageUrls": [
+            "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+          ],
+          "tags": [
+            "nature",
+            "beach",
+            "hiking"
+          ]
+        }
+      },
+      {
+        "text": "edit museum adventure city",
+        "actor": 2,
+        "timestamp": "2025-11-04T10:03:30Z",
+        "action": "highlight",
+        "itemType": "image",
+        "content": {
+          "text": "museum, adventure, city",
+          "imageUrls": [
+            "https://images.unsplash.com/photo-1491553895911-0055eca6402d",
+            "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+          ],
+          "tags": [
+            "museum",
+            "adventure",
+            "city"
+          ]
+        }
+      },
+      {
+        "text": "add_note hiking food art",
+        "actor": 0,
+        "timestamp": "2025-11-04T10:04:00Z",
+        "action": "add_note",
+        "itemType": "cluster",
+        "content": {
+          "text": "hiking, food, art",
+          "imageUrls": [
+            "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+          ],
+          "tags": [
+            "hiking",
+            "food",
+            "art"
+          ]
+        }
+      },
+      {
+        "text": "add_note hiking adventure Alps",
+        "actor": 0,
+        "timestamp": "2025-11-04T10:04:30Z",
+        "action": "add_note",
+        "itemType": "image",
+        "content": {
+          "text": "hiking, adventure, Alps",
+          "imageUrls": [
+            "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+            "https://images.unsplash.com/photo-1491553895911-0055eca6402d"
+          ],
+          "tags": [
+            "hiking",
+            "adventure",
+            "Alps"
+          ]
+        }
+      },
+      {
+        "text": "add_note Alps art adventure",
+        "actor": 2,
+        "timestamp": "2025-11-04T10:05:00Z",
+        "action": "draw",
+        "itemType": "note",
+        "content": {
+          "text": "Alps, art, adventure",
+          "imageUrls": [
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+            "https://images.unsplash.com/photo-1491553895911-0055eca6402d"
+          ],
+          "tags": [
+            "Alps",
+            "art",
+            "adventure"
+          ]
+        }
+      },
+      {
+        "text": "edit art food city",
+        "actor": 2,
+        "timestamp": "2025-11-04T10:05:30Z",
+        "action": "edit",
+        "itemType": "note",
+        "content": {
+          "text": "art, food, city",
+          "imageUrls": [],
+          "tags": [
+            "art",
+            "food",
+            "city"
+          ]
+        }
+      },
+      {
+        "text": "edit nature hiking art",
+        "actor": 0,
+        "timestamp": "2025-11-04T10:06:00Z",
+        "action": "edit",
+        "itemType": "note",
+        "content": {
+          "text": "nature, hiking, art",
+          "imageUrls": [],
+          "tags": [
+            "nature",
+            "hiking",
+            "art"
+          ]
+        }
+      },
+      {
+        "text": "draw relax food beach",
+        "actor": 0,
+        "timestamp": "2025-11-04T10:06:30Z",
+        "action": "edit",
+        "itemType": "image",
+        "content": {
+          "text": "relax, food, beach",
+          "imageUrls": [
+            "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+          ],
+          "tags": [
+            "relax",
+            "food",
+            "beach"
+          ]
+        }
+      },
+      {
+        "text": "add_note beach museum adventure",
+        "actor": 0,
+        "timestamp": "2025-11-04T10:07:00Z",
+        "action": "draw",
+        "itemType": "image",
+        "content": {
+          "text": "beach, museum, adventure",
+          "imageUrls": [
+            "https://images.unsplash.com/photo-1491553895911-0055eca6402d"
+          ],
+          "tags": [
+            "beach",
+            "museum",
+            "adventure"
+          ]
+        }
+      }
+    ],
+    "links": {
+      "0": {},
+      "1": {
+        "0": 0.7880248427391052
+      },
+      "2": {},
+      "3": {
+        "0": 0.7513507008552551,
+        "1": 0.9034271240234375
+      },
+      "4": {
+        "0": 0.7074875831604004,
+        "1": 0.7157902717590332,
+        "3": 0.7509318590164185
+      },
+      "5": {
+        "0": 0.4309849739074707,
+        "1": 0.40025433897972107,
+        "3": 0.4195573925971985,
+        "4": 0.46929028630256653
+      },
+      "6": {
+        "0": 0.7513507008552551,
+        "1": 0.9034271240234375,
+        "3": 1.0,
+        "4": 0.7509318590164185,
+        "5": 0.4195573925971985
+      },
+      "7": {
+        "0": 0.701696515083313,
+        "1": 0.7737130522727966,
+        "3": 0.842483639717102,
+        "4": 0.7241815328598022,
+        "5": 0.8424837589263916,
+        "6": 0.842483639717102
+      },
+      "8": {
+        "0": 1.0000001192092896,
+        "1": 0.7880248427391052,
+        "3": 0.7513507008552551,
+        "4": 0.7074875831604004,
+        "5": 0.4309849739074707,
+        "6": 0.7513507008552551,
+        "7": 0.701696515083313
+      },
+      "9": {
+        "0": 0.7016964554786682,
+        "1": 0.7737137079238892,
+        "3": 0.8424838185310364,
+        "4": 0.7241817116737366,
+        "5": 0.842483639717102,
+        "6": 0.8424838185310364,
+        "7": 1.000000238418579,
+        "8": 0.7016964554786682
+      },
+      "10": {
+        "0": 0.664131224155426,
+        "1": 0.6510471701622009,
+        "3": 0.6828078627586365,
+        "4": 0.8571144938468933,
+        "5": 0.8571144342422485,
+        "6": 0.6828078627586365,
+        "7": 0.9139182567596436,
+        "8": 0.664131224155426,
+        "9": 0.9139181971549988
+      },
+      "11": {},
+      "12": {},
+      "13": {
+        "0": 1.0000004768371582,
+        "1": 0.7880246043205261,
+        "3": 0.7513507008552551,
+        "4": 0.7074877023696899,
+        "5": 0.4309850037097931,
+        "6": 0.7513507008552551,
+        "7": 0.7016964554786682,
+        "8": 1.0000004768371582,
+        "9": 0.701696515083313,
+        "10": 0.6641311049461365
+      },
+      "14": {
+        "0": 0.4309850037097931,
+        "1": 0.4002545177936554,
+        "3": 0.41955745220184326,
+        "4": 0.46929025650024414,
+        "5": 1.0000001192092896,
+        "6": 0.41955745220184326,
+        "7": 0.842483639717102,
+        "8": 0.4309850037097931,
+        "9": 0.8424837589263916,
+        "10": 0.8571144342422485,
+        "13": 0.4309849143028259
+      }
+    },
+    "meta": {
+      "model": "openai/clip-vit-base-patch32",
+      "device": "cpu",
+      "moves_with_images": 12,
+      "total_moves": 15
+    }
+  }
+}

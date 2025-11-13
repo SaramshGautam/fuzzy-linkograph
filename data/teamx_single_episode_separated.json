@@ -1,0 +1,1152 @@
+{
+  "TeamX": [
+    {
+      "text": "add_note hiking routes alps",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:20:39.797018Z",
+      "action": "add-note",
+      "itemType": "note",
+      "items": [
+        "shape:hike1",
+        "shape:alps1"
+      ],
+      "content": {
+        "text": "hiking routes, Alps",
+        "imageUrls": [
+          "https://picsum.photos/seed/alps-hike-0/800/600",
+          "https://picsum.photos/seed/alps-hike-1/800/600"
+        ],
+        "tags": [
+          "hiking",
+          "routes",
+          "alps"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 308,
+        "dwell_ms": 332,
+        "reselect_count": 2,
+        "hover_ms": 55,
+        "scrub_px": 24
+      },
+      "tempo": {
+        "gap_prev_ms": 717,
+        "apm_rolling": 30.4,
+        "velocity_px_s": 327.5
+      }
+    },
+    {
+      "text": "link passport booking hostel",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:20:49.797018Z",
+      "action": "link",
+      "itemType": "note",
+      "items": [
+        "shape:doc1"
+      ],
+      "content": {
+        "text": "passport, booking, hostel",
+        "imageUrls": [
+          "https://picsum.photos/seed/passport-0/800/600"
+        ],
+        "tags": [
+          "passport",
+          "booking",
+          "hostel"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 763,
+        "dwell_ms": 427,
+        "reselect_count": 2,
+        "hover_ms": 131,
+        "scrub_px": 18
+      },
+      "tempo": {
+        "gap_prev_ms": 498,
+        "apm_rolling": 35.1,
+        "velocity_px_s": 477.9
+      }
+    },
+    {
+      "text": "group gear boots poles",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:20:59.797018Z",
+      "action": "group",
+      "itemType": "cluster",
+      "items": [
+        "shape:gear1",
+        "shape:gear2",
+        "shape:gear3"
+      ],
+      "content": {
+        "text": "gear, boots, poles",
+        "imageUrls": [
+          "https://picsum.photos/seed/gear-0/800/600"
+        ],
+        "tags": [
+          "gear",
+          "boots",
+          "poles"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 205,
+        "dwell_ms": 122,
+        "reselect_count": 3,
+        "hover_ms": 102,
+        "scrub_px": 4
+      },
+      "tempo": {
+        "gap_prev_ms": 319,
+        "apm_rolling": 23.7,
+        "velocity_px_s": 558.1
+      }
+    },
+    {
+      "text": "highlight trail difficulty map",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:21:09.797018Z",
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:map1"
+      ],
+      "content": {
+        "text": "trail difficulty, map",
+        "imageUrls": [
+          "https://picsum.photos/seed/trail-map-0/800/600"
+        ],
+        "tags": [
+          "trail",
+          "difficulty",
+          "map"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 766,
+        "dwell_ms": 138,
+        "reselect_count": 2,
+        "hover_ms": 184,
+        "scrub_px": 26
+      },
+      "tempo": {
+        "gap_prev_ms": 1493,
+        "apm_rolling": 20.1,
+        "velocity_px_s": 274.9
+      }
+    },
+    {
+      "text": "move budget flights",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:21:19.797018Z",
+      "action": "move",
+      "itemType": "note",
+      "items": [
+        "shape:budget1"
+      ],
+      "content": {
+        "text": "budget, flights",
+        "imageUrls": [
+          "https://picsum.photos/seed/flights-0/800/600"
+        ],
+        "tags": [
+          "budget",
+          "flights"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 521,
+        "dwell_ms": 135,
+        "reselect_count": 0,
+        "hover_ms": 184,
+        "scrub_px": 33
+      },
+      "tempo": {
+        "gap_prev_ms": 354,
+        "apm_rolling": 44.5,
+        "velocity_px_s": 364.3
+      }
+    },
+    {
+      "text": "edit train pass itinerary",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:21:29.797018Z",
+      "action": "edit",
+      "itemType": "note",
+      "items": [
+        "shape:rail1"
+      ],
+      "content": {
+        "text": "train pass, itinerary",
+        "imageUrls": [
+          "https://picsum.photos/seed/train-0/800/600"
+        ],
+        "tags": [
+          "train",
+          "pass",
+          "itinerary"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 365,
+        "dwell_ms": 383,
+        "reselect_count": 0,
+        "hover_ms": 66,
+        "scrub_px": 14
+      },
+      "tempo": {
+        "gap_prev_ms": 1981,
+        "apm_rolling": 28.9,
+        "velocity_px_s": 531.5
+      }
+    },
+    {
+      "text": "cluster safety weather avalanche",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:21:39.797018Z",
+      "action": "cluster",
+      "itemType": "cluster",
+      "items": [
+        "shape:safety1",
+        "shape:weather1"
+      ],
+      "content": {
+        "text": "safety, weather, avalanche",
+        "imageUrls": [
+          "https://picsum.photos/seed/snow-0/800/600"
+        ],
+        "tags": [
+          "safety",
+          "weather",
+          "avalanche"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 671,
+        "dwell_ms": 292,
+        "reselect_count": 2,
+        "hover_ms": 108,
+        "scrub_px": 29
+      },
+      "tempo": {
+        "gap_prev_ms": 1654,
+        "apm_rolling": 46.6,
+        "velocity_px_s": 228.8
+      }
+    },
+    {
+      "text": "draw city day zurich",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:21:49.797018Z",
+      "action": "draw",
+      "itemType": "note",
+      "items": [
+        "shape:city1"
+      ],
+      "content": {
+        "text": "city day, Zurich",
+        "imageUrls": [
+          "https://picsum.photos/seed/zurich-0/800/600"
+        ],
+        "tags": [
+          "city",
+          "zurich"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 706,
+        "dwell_ms": 242,
+        "reselect_count": 2,
+        "hover_ms": 170,
+        "scrub_px": 8
+      },
+      "tempo": {
+        "gap_prev_ms": 1491,
+        "apm_rolling": 31.1,
+        "velocity_px_s": 417.6
+      }
+    },
+    {
+      "text": "add_note smart mug thermistor",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:21:59.797018Z",
+      "action": "add-note",
+      "itemType": "note",
+      "items": [
+        "shape:mug1"
+      ],
+      "content": {
+        "text": "smart mug, thermistor",
+        "imageUrls": [
+          "https://picsum.photos/seed/mug-0/800/600"
+        ],
+        "tags": [
+          "smart",
+          "mug",
+          "thermistor"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 483,
+        "dwell_ms": 251,
+        "reselect_count": 1,
+        "hover_ms": 134,
+        "scrub_px": 3
+      },
+      "tempo": {
+        "gap_prev_ms": 1777,
+        "apm_rolling": 27.6,
+        "velocity_px_s": 269.8
+      }
+    },
+    {
+      "text": "group pcb layout battery",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:22:09.797018Z",
+      "action": "group",
+      "itemType": "cluster",
+      "items": [
+        "shape:pcb1",
+        "shape:bat1"
+      ],
+      "content": {
+        "text": "PCB layout, battery",
+        "imageUrls": [
+          "https://picsum.photos/seed/pcb-0/800/600"
+        ],
+        "tags": [
+          "pcb",
+          "battery"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 318,
+        "dwell_ms": 342,
+        "reselect_count": 1,
+        "hover_ms": 67,
+        "scrub_px": 6
+      },
+      "tempo": {
+        "gap_prev_ms": 1235,
+        "apm_rolling": 16.3,
+        "velocity_px_s": 558.5
+      }
+    },
+    {
+      "text": "link firmware update usb",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:22:19.797018Z",
+      "action": "link",
+      "itemType": "note",
+      "items": [
+        "shape:fw1"
+      ],
+      "content": {
+        "text": "firmware update, USB",
+        "imageUrls": [
+          "https://picsum.photos/seed/usb-0/800/600"
+        ],
+        "tags": [
+          "firmware",
+          "usb"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 526,
+        "dwell_ms": 198,
+        "reselect_count": 2,
+        "hover_ms": 67,
+        "scrub_px": 48
+      },
+      "tempo": {
+        "gap_prev_ms": 377,
+        "apm_rolling": 23.8,
+        "velocity_px_s": 238.5
+      }
+    },
+    {
+      "text": "edit 3d print handle",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:22:29.797018Z",
+      "action": "edit",
+      "itemType": "image",
+      "items": [
+        "shape:cad1"
+      ],
+      "content": {
+        "text": "3D print, handle",
+        "imageUrls": [
+          "https://picsum.photos/seed/3dprint-0/800/600"
+        ],
+        "tags": [
+          "3d",
+          "print",
+          "handle"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 178,
+        "dwell_ms": 211,
+        "reselect_count": 3,
+        "hover_ms": 113,
+        "scrub_px": 24
+      },
+      "tempo": {
+        "gap_prev_ms": 757,
+        "apm_rolling": 18.4,
+        "velocity_px_s": 240.3
+      }
+    },
+    {
+      "text": "highlight calibration curve",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:22:39.797018Z",
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:cal1"
+      ],
+      "content": {
+        "text": "calibration curve",
+        "imageUrls": [
+          "https://picsum.photos/seed/chart-0/800/600"
+        ],
+        "tags": [
+          "calibration"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 389,
+        "dwell_ms": 117,
+        "reselect_count": 2,
+        "hover_ms": 48,
+        "scrub_px": 13
+      },
+      "tempo": {
+        "gap_prev_ms": 751,
+        "apm_rolling": 22.9,
+        "velocity_px_s": 203.0
+      }
+    },
+    {
+      "text": "move test bench logs",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:22:49.797018Z",
+      "action": "move",
+      "itemType": "note",
+      "items": [
+        "shape:log1"
+      ],
+      "content": {
+        "text": "test bench, logs",
+        "imageUrls": [
+          "https://picsum.photos/seed/bench-0/800/600"
+        ],
+        "tags": [
+          "test",
+          "logs"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 292,
+        "dwell_ms": 215,
+        "reselect_count": 3,
+        "hover_ms": 199,
+        "scrub_px": 13
+      },
+      "tempo": {
+        "gap_prev_ms": 741,
+        "apm_rolling": 41.2,
+        "velocity_px_s": 295.1
+      }
+    },
+    {
+      "text": "cluster packaging lid seal",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:22:59.797018Z",
+      "action": "cluster",
+      "itemType": "cluster",
+      "items": [
+        "shape:pkg1",
+        "shape:lid1"
+      ],
+      "content": {
+        "text": "packaging, lid seal",
+        "imageUrls": [
+          "https://picsum.photos/seed/pack-0/800/600"
+        ],
+        "tags": [
+          "packaging",
+          "seal"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 357,
+        "dwell_ms": 179,
+        "reselect_count": 3,
+        "hover_ms": 173,
+        "scrub_px": 34
+      },
+      "tempo": {
+        "gap_prev_ms": 1169,
+        "apm_rolling": 33.5,
+        "velocity_px_s": 421.5
+      }
+    },
+    {
+      "text": "add_note retail price margin",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:23:09.797018Z",
+      "action": "add-note",
+      "itemType": "note",
+      "items": [
+        "shape:biz1"
+      ],
+      "content": {
+        "text": "retail price, margin",
+        "imageUrls": [
+          "https://picsum.photos/seed/price-0/800/600"
+        ],
+        "tags": [
+          "retail",
+          "price",
+          "margin"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 572,
+        "dwell_ms": 281,
+        "reselect_count": 0,
+        "hover_ms": 40,
+        "scrub_px": 50
+      },
+      "tempo": {
+        "gap_prev_ms": 1398,
+        "apm_rolling": 42.9,
+        "velocity_px_s": 355.3
+      }
+    },
+    {
+      "text": "link travel powerbank for prototype",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:23:19.797018Z",
+      "action": "link",
+      "itemType": "note",
+      "items": [
+        "shape:bridge1"
+      ],
+      "content": {
+        "text": "power bank for prototype while traveling",
+        "imageUrls": [
+          "https://picsum.photos/seed/powerbank-0/800/600"
+        ],
+        "tags": [
+          "power",
+          "bank",
+          "travel",
+          "prototype"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 712,
+        "dwell_ms": 180,
+        "reselect_count": 2,
+        "hover_ms": 153,
+        "scrub_px": 26
+      },
+      "tempo": {
+        "gap_prev_ms": 1704,
+        "apm_rolling": 29.8,
+        "velocity_px_s": 306.8
+      }
+    },
+    {
+      "text": "add_note lineup headliner dj",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:23:29.797018Z",
+      "action": "add-note",
+      "itemType": "note",
+      "items": [
+        "shape:line1"
+      ],
+      "content": {
+        "text": "lineup, headliner, DJ",
+        "imageUrls": [
+          "https://picsum.photos/seed/stage-0/800/600"
+        ],
+        "tags": [
+          "lineup",
+          "headliner",
+          "dj"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 632,
+        "dwell_ms": 338,
+        "reselect_count": 2,
+        "hover_ms": 123,
+        "scrub_px": 39
+      },
+      "tempo": {
+        "gap_prev_ms": 1289,
+        "apm_rolling": 39.3,
+        "velocity_px_s": 175.1
+      }
+    },
+    {
+      "text": "group volunteers booths",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:23:39.797018Z",
+      "action": "group",
+      "itemType": "cluster",
+      "items": [
+        "shape:vol1",
+        "shape:booth1"
+      ],
+      "content": {
+        "text": "volunteers, booths",
+        "imageUrls": [
+          "https://picsum.photos/seed/booth-0/800/600"
+        ],
+        "tags": [
+          "volunteers",
+          "booths"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 549,
+        "dwell_ms": 263,
+        "reselect_count": 1,
+        "hover_ms": 169,
+        "scrub_px": 20
+      },
+      "tempo": {
+        "gap_prev_ms": 520,
+        "apm_rolling": 24.6,
+        "velocity_px_s": 190.4
+      }
+    },
+    {
+      "text": "edit ticket tiers budget",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:23:49.797018Z",
+      "action": "edit",
+      "itemType": "note",
+      "items": [
+        "shape:tix1"
+      ],
+      "content": {
+        "text": "ticket tiers, budget",
+        "imageUrls": [
+          "https://picsum.photos/seed/tickets-0/800/600"
+        ],
+        "tags": [
+          "ticket",
+          "budget"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 425,
+        "dwell_ms": 334,
+        "reselect_count": 1,
+        "hover_ms": 134,
+        "scrub_px": 23
+      },
+      "tempo": {
+        "gap_prev_ms": 1309,
+        "apm_rolling": 13.5,
+        "velocity_px_s": 286.7
+      }
+    },
+    {
+      "text": "move security crowd flow",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:23:59.797018Z",
+      "action": "move",
+      "itemType": "note",
+      "items": [
+        "shape:sec1"
+      ],
+      "content": {
+        "text": "security, crowd flow",
+        "imageUrls": [
+          "https://picsum.photos/seed/crowd-0/800/600"
+        ],
+        "tags": [
+          "security",
+          "crowd"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 769,
+        "dwell_ms": 193,
+        "reselect_count": 0,
+        "hover_ms": 199,
+        "scrub_px": 48
+      },
+      "tempo": {
+        "gap_prev_ms": 1431,
+        "apm_rolling": 33.3,
+        "velocity_px_s": 400.4
+      }
+    },
+    {
+      "text": "highlight rain plan canopy",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:24:09.797018Z",
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:rain1"
+      ],
+      "content": {
+        "text": "rain plan, canopy",
+        "imageUrls": [
+          "https://picsum.photos/seed/canopy-0/800/600"
+        ],
+        "tags": [
+          "rain",
+          "canopy"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 415,
+        "dwell_ms": 367,
+        "reselect_count": 2,
+        "hover_ms": 125,
+        "scrub_px": 47
+      },
+      "tempo": {
+        "gap_prev_ms": 1633,
+        "apm_rolling": 22.5,
+        "velocity_px_s": 125.2
+      }
+    },
+    {
+      "text": "cluster marketing poster socials",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:24:19.797018Z",
+      "action": "cluster",
+      "itemType": "cluster",
+      "items": [
+        "shape:mkt1",
+        "shape:poster1"
+      ],
+      "content": {
+        "text": "marketing, poster, socials",
+        "imageUrls": [
+          "https://picsum.photos/seed/poster-0/800/600"
+        ],
+        "tags": [
+          "marketing",
+          "poster",
+          "socials"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 692,
+        "dwell_ms": 466,
+        "reselect_count": 2,
+        "hover_ms": 128,
+        "scrub_px": 30
+      },
+      "tempo": {
+        "gap_prev_ms": 1057,
+        "apm_rolling": 32.4,
+        "velocity_px_s": 239.9
+      }
+    },
+    {
+      "text": "add_note permits city liaison",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:24:29.797018Z",
+      "action": "add-note",
+      "itemType": "note",
+      "items": [
+        "shape:perm1"
+      ],
+      "content": {
+        "text": "permits, city liaison",
+        "imageUrls": [
+          "https://picsum.photos/seed/permit-0/800/600"
+        ],
+        "tags": [
+          "permits",
+          "city"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 313,
+        "dwell_ms": 378,
+        "reselect_count": 3,
+        "hover_ms": 48,
+        "scrub_px": 20
+      },
+      "tempo": {
+        "gap_prev_ms": 1434,
+        "apm_rolling": 17.8,
+        "velocity_px_s": 559.3
+      }
+    },
+    {
+      "text": "link food trucks vendors",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:24:39.797018Z",
+      "action": "link",
+      "itemType": "note",
+      "items": [
+        "shape:food1"
+      ],
+      "content": {
+        "text": "food trucks, vendors",
+        "imageUrls": [
+          "https://picsum.photos/seed/foodtruck-0/800/600"
+        ],
+        "tags": [
+          "food",
+          "vendors"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 617,
+        "dwell_ms": 178,
+        "reselect_count": 3,
+        "hover_ms": 139,
+        "scrub_px": 12
+      },
+      "tempo": {
+        "gap_prev_ms": 1136,
+        "apm_rolling": 31.9,
+        "velocity_px_s": 295.5
+      }
+    },
+    {
+      "text": "edit poster color palette like studio theme",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:24:49.797018Z",
+      "action": "edit",
+      "itemType": "note",
+      "items": [
+        "shape:bridge2"
+      ],
+      "content": {
+        "text": "poster color palette like studio theme",
+        "imageUrls": [
+          "https://picsum.photos/seed/palette-0/800/600"
+        ],
+        "tags": [
+          "palette",
+          "color",
+          "theme"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 176,
+        "dwell_ms": 400,
+        "reselect_count": 3,
+        "hover_ms": 199,
+        "scrub_px": 12
+      },
+      "tempo": {
+        "gap_prev_ms": 639,
+        "apm_rolling": 30.2,
+        "velocity_px_s": 200.2
+      }
+    },
+    {
+      "text": "add_note desk height ergonomics",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:24:59.797018Z",
+      "action": "add-note",
+      "itemType": "note",
+      "items": [
+        "shape:desk1"
+      ],
+      "content": {
+        "text": "desk height, ergonomics",
+        "imageUrls": [
+          "https://picsum.photos/seed/desk-0/800/600"
+        ],
+        "tags": [
+          "desk",
+          "ergonomics"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 223,
+        "dwell_ms": 372,
+        "reselect_count": 0,
+        "hover_ms": 119,
+        "scrub_px": 35
+      },
+      "tempo": {
+        "gap_prev_ms": 1355,
+        "apm_rolling": 23.4,
+        "velocity_px_s": 251.6
+      }
+    },
+    {
+      "text": "group softbox key fill",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:25:09.797018Z",
+      "action": "group",
+      "itemType": "cluster",
+      "items": [
+        "shape:soft1",
+        "shape:fill1",
+        "shape:key1"
+      ],
+      "content": {
+        "text": "softbox, key, fill",
+        "imageUrls": [
+          "https://picsum.photos/seed/softbox-0/800/600"
+        ],
+        "tags": [
+          "softbox",
+          "key",
+          "fill"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 611,
+        "dwell_ms": 231,
+        "reselect_count": 2,
+        "hover_ms": 78,
+        "scrub_px": 16
+      },
+      "tempo": {
+        "gap_prev_ms": 540,
+        "apm_rolling": 19.6,
+        "velocity_px_s": 172.8
+      }
+    },
+    {
+      "text": "move cable management tray",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:25:19.797018Z",
+      "action": "move",
+      "itemType": "note",
+      "items": [
+        "shape:cable1"
+      ],
+      "content": {
+        "text": "cable management, tray",
+        "imageUrls": [
+          "https://picsum.photos/seed/cable-0/800/600"
+        ],
+        "tags": [
+          "cable",
+          "management"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 500,
+        "dwell_ms": 312,
+        "reselect_count": 1,
+        "hover_ms": 87,
+        "scrub_px": 23
+      },
+      "tempo": {
+        "gap_prev_ms": 1695,
+        "apm_rolling": 18.7,
+        "velocity_px_s": 394.2
+      }
+    },
+    {
+      "text": "highlight acoustic panels reverb",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:25:29.797018Z",
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:acou1"
+      ],
+      "content": {
+        "text": "acoustic panels, reverb",
+        "imageUrls": [
+          "https://picsum.photos/seed/acoustic-0/800/600"
+        ],
+        "tags": [
+          "acoustic",
+          "reverb"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 643,
+        "dwell_ms": 192,
+        "reselect_count": 1,
+        "hover_ms": 83,
+        "scrub_px": 16
+      },
+      "tempo": {
+        "gap_prev_ms": 1919,
+        "apm_rolling": 24.5,
+        "velocity_px_s": 284.7
+      }
+    },
+    {
+      "text": "edit storage shelving bins",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:25:39.797018Z",
+      "action": "edit",
+      "itemType": "note",
+      "items": [
+        "shape:stor1"
+      ],
+      "content": {
+        "text": "storage, shelving, bins",
+        "imageUrls": [
+          "https://picsum.photos/seed/shelf-0/800/600"
+        ],
+        "tags": [
+          "storage",
+          "shelving",
+          "bins"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 229,
+        "dwell_ms": 140,
+        "reselect_count": 1,
+        "hover_ms": 41,
+        "scrub_px": 14
+      },
+      "tempo": {
+        "gap_prev_ms": 1236,
+        "apm_rolling": 24.0,
+        "velocity_px_s": 175.1
+      }
+    },
+    {
+      "text": "cluster color temperature 5600k",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:25:49.797018Z",
+      "action": "cluster",
+      "itemType": "cluster",
+      "items": [
+        "shape:ctemp1"
+      ],
+      "content": {
+        "text": "color temperature 5600K",
+        "imageUrls": [
+          "https://picsum.photos/seed/ctemp-0/800/600"
+        ],
+        "tags": [
+          "color",
+          "temperature",
+          "5600k"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 265,
+        "dwell_ms": 174,
+        "reselect_count": 0,
+        "hover_ms": 190,
+        "scrub_px": 31
+      },
+      "tempo": {
+        "gap_prev_ms": 851,
+        "apm_rolling": 47.8,
+        "velocity_px_s": 183.8
+      }
+    },
+    {
+      "text": "add_note power outlets circuit load",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:25:59.797018Z",
+      "action": "add-note",
+      "itemType": "note",
+      "items": [
+        "shape:elec1"
+      ],
+      "content": {
+        "text": "power outlets, circuit load",
+        "imageUrls": [
+          "https://picsum.photos/seed/outlet-0/800/600"
+        ],
+        "tags": [
+          "power",
+          "circuit"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 571,
+        "dwell_ms": 471,
+        "reselect_count": 3,
+        "hover_ms": 149,
+        "scrub_px": 36
+      },
+      "tempo": {
+        "gap_prev_ms": 1707,
+        "apm_rolling": 32.7,
+        "velocity_px_s": 589.4
+      }
+    },
+    {
+      "text": "link camera tripod footprint",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:26:09.797018Z",
+      "action": "link",
+      "itemType": "note",
+      "items": [
+        "shape:trip1"
+      ],
+      "content": {
+        "text": "camera tripod, footprint",
+        "imageUrls": [
+          "https://picsum.photos/seed/tripod-0/800/600"
+        ],
+        "tags": [
+          "camera",
+          "tripod"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 560,
+        "dwell_ms": 221,
+        "reselect_count": 2,
+        "hover_ms": 159,
+        "scrub_px": 17
+      },
+      "tempo": {
+        "gap_prev_ms": 1499,
+        "apm_rolling": 44.4,
+        "velocity_px_s": 193.8
+      }
+    },
+    {
+      "text": "compare weekend alps vs festival duties",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:26:19.797018Z",
+      "action": "compare",
+      "itemType": "note",
+      "items": [
+        "shape:wrap1"
+      ],
+      "content": {
+        "text": "compare weekend: Alps vs festival duties",
+        "imageUrls": [
+          "https://picsum.photos/seed/compare-0/800/600"
+        ],
+        "tags": [
+          "compare",
+          "alps",
+          "festival"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 152,
+        "dwell_ms": 177,
+        "reselect_count": 3,
+        "hover_ms": 183,
+        "scrub_px": 0
+      },
+      "tempo": {
+        "gap_prev_ms": 732,
+        "apm_rolling": 40.5,
+        "velocity_px_s": 182.9
+      }
+    }
+  ]
+}

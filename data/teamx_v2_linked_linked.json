@@ -1,0 +1,36 @@
+{
+  "TeamX": {
+    "moves": [
+      {
+        "text": "add_note hiking routes, scenic overlooks",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:20:30Z",
+        "action": "add_note",
+        "itemType": "text",
+        "items": [
+          "shape:x001"
+        ],
+        "content": {
+          "text": "add_note hiking routes, scenic overlooks",
+          "imageUrls": [
+            "https://picsum.photos/seed/hiking-1/800/600"
+          ],
+          "tags": [
+            "hiking",
+            "routes",
+            "overlooks"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 275,
+          "dwell_ms": 499,
+          "reselect_count": 1,
+          "hover_ms": 82,
+          "scrub_px": 14
+        },
+        "tempo": {
+          "gap_prev_ms": 885,
+          "apm_rolling": 20.9,
+          "velocity_px_s": 390.7
+        },
+        "_t": 

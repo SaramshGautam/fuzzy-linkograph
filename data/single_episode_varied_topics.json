@@ -1,0 +1,1261 @@
+{
+  "TeamX": [
+    {
+      "text": "draw city, museum",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:20:00Z",
+      "action": "draw",
+      "itemType": "note",
+      "items": [
+        "shape:q9om4894zj",
+        "shape:oj7yaekctb"
+      ],
+      "content": {
+        "text": "city, museum",
+        "imageUrls": [
+          "https://picsum.photos/seed/city/800/600",
+          "https://picsum.photos/seed/museum/800/600"
+        ],
+        "tags": [
+          "city",
+          "museum"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 375,
+        "dwell_ms": 342,
+        "reselect_count": 3,
+        "hover_ms": 139,
+        "scrub_px": 25
+      },
+      "tempo": {
+        "gap_prev_ms": 1481,
+        "apm_rolling": 26.7,
+        "velocity_px_s": 524.2
+      }
+    },
+    {
+      "text": "group hiking, beach, museum",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:20:10Z",
+      "action": "group",
+      "itemType": "cluster",
+      "items": [
+        "shape:1t06yw80ov",
+        "shape:brku8gnrsh",
+        "shape:e44fwe0jbs"
+      ],
+      "content": {
+        "text": "hiking, beach, museum",
+        "imageUrls": [
+          "https://picsum.photos/seed/hiking/800/600",
+          "https://picsum.photos/seed/beach/800/600",
+          "https://picsum.photos/seed/museum/800/600"
+        ],
+        "tags": [
+          "hiking",
+          "beach",
+          "museum"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 537,
+        "dwell_ms": 493,
+        "reselect_count": 3,
+        "hover_ms": 60,
+        "scrub_px": 2
+      },
+      "tempo": {
+        "gap_prev_ms": 392,
+        "apm_rolling": 24.5,
+        "velocity_px_s": 384.6
+      }
+    },
+    {
+      "text": "move beach, alps, hiking",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:20:20Z",
+      "action": "move",
+      "itemType": "note",
+      "items": [
+        "shape:8cm0sqjcvu"
+      ],
+      "content": {
+        "text": "beach, alps, hiking",
+        "imageUrls": [
+          "https://picsum.photos/seed/beach/800/600",
+          "https://picsum.photos/seed/alps/800/600",
+          "https://picsum.photos/seed/hiking/800/600"
+        ],
+        "tags": [
+          "beach",
+          "alps",
+          "hiking"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 468,
+        "dwell_ms": 170,
+        "reselect_count": 3,
+        "hover_ms": 126,
+        "scrub_px": 29
+      },
+      "tempo": {
+        "gap_prev_ms": 1365,
+        "apm_rolling": 24.7,
+        "velocity_px_s": 496.7
+      }
+    },
+    {
+      "text": "link beach, city",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:20:30Z",
+      "action": "link",
+      "itemType": "image",
+      "items": [
+        "shape:pt1q7t9va0",
+        "shape:ubyidv3wwr",
+        "shape:5bdbxq3tul"
+      ],
+      "content": {
+        "text": "beach, city",
+        "imageUrls": [
+          "https://picsum.photos/seed/beach/800/600",
+          "https://picsum.photos/seed/city/800/600"
+        ],
+        "tags": [
+          "beach",
+          "city"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 472,
+        "dwell_ms": 194,
+        "reselect_count": 2,
+        "hover_ms": 124,
+        "scrub_px": 38
+      },
+      "tempo": {
+        "gap_prev_ms": 840,
+        "apm_rolling": 21.9,
+        "velocity_px_s": 300.9
+      }
+    },
+    {
+      "text": "move beach, alps",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:20:40Z",
+      "action": "move",
+      "itemType": "note",
+      "items": [
+        "shape:rpul1gguvo",
+        "shape:2kfvn2rohc",
+        "shape:7mulrvfwi0"
+      ],
+      "content": {
+        "text": "beach, alps",
+        "imageUrls": [
+          "https://picsum.photos/seed/beach/800/600",
+          "https://picsum.photos/seed/alps/800/600"
+        ],
+        "tags": [
+          "beach",
+          "alps"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 398,
+        "dwell_ms": 365,
+        "reselect_count": 2,
+        "hover_ms": 148,
+        "scrub_px": 22
+      },
+      "tempo": {
+        "gap_prev_ms": 1153,
+        "apm_rolling": 21.6,
+        "velocity_px_s": 377.3
+      }
+    },
+    {
+      "text": "highlight museum, alps",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:20:50Z",
+      "action": "highlight",
+      "itemType": "cluster",
+      "items": [
+        "shape:619oc37s8v",
+        "shape:oeshpcc6m1",
+        "shape:da4hk6tpb7"
+      ],
+      "content": {
+        "text": "museum, alps",
+        "imageUrls": [
+          "https://picsum.photos/seed/museum/800/600",
+          "https://picsum.photos/seed/alps/800/600"
+        ],
+        "tags": [
+          "museum",
+          "alps"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 649,
+        "dwell_ms": 311,
+        "reselect_count": 0,
+        "hover_ms": 186,
+        "scrub_px": 7
+      },
+      "tempo": {
+        "gap_prev_ms": 999,
+        "apm_rolling": 16.1,
+        "velocity_px_s": 538.8
+      }
+    },
+    {
+      "text": "highlight hiking, city, beach",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:21:00Z",
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:kpria5zdrp"
+      ],
+      "content": {
+        "text": "hiking, city, beach",
+        "imageUrls": [
+          "https://picsum.photos/seed/hiking/800/600",
+          "https://picsum.photos/seed/city/800/600",
+          "https://picsum.photos/seed/beach/800/600"
+        ],
+        "tags": [
+          "hiking",
+          "city",
+          "beach"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 375,
+        "dwell_ms": 416,
+        "reselect_count": 3,
+        "hover_ms": 43,
+        "scrub_px": 30
+      },
+      "tempo": {
+        "gap_prev_ms": 961,
+        "apm_rolling": 37.6,
+        "velocity_px_s": 150.7
+      }
+    },
+    {
+      "text": "add_note smart-mug, prototype",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:21:10Z",
+      "action": "add_note",
+      "itemType": "cluster",
+      "items": [
+        "shape:f665ukuewy"
+      ],
+      "content": {
+        "text": "smart-mug, prototype",
+        "imageUrls": [
+          "https://picsum.photos/seed/smart-mug/800/600",
+          "https://picsum.photos/seed/prototype/800/600"
+        ],
+        "tags": [
+          "smart-mug",
+          "prototype"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 762,
+        "dwell_ms": 299,
+        "reselect_count": 2,
+        "hover_ms": 122,
+        "scrub_px": 16
+      },
+      "tempo": {
+        "gap_prev_ms": 691,
+        "apm_rolling": 44.6,
+        "velocity_px_s": 321.5
+      }
+    },
+    {
+      "text": "link prototype, smart-mug",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:21:20Z",
+      "action": "link",
+      "itemType": "image",
+      "items": [
+        "shape:cx38yc1dx5"
+      ],
+      "content": {
+        "text": "prototype, smart-mug",
+        "imageUrls": [
+          "https://picsum.photos/seed/prototype/800/600",
+          "https://picsum.photos/seed/smart-mug/800/600"
+        ],
+        "tags": [
+          "prototype",
+          "smart-mug"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 422,
+        "dwell_ms": 315,
+        "reselect_count": 3,
+        "hover_ms": 147,
+        "scrub_px": 1
+      },
+      "tempo": {
+        "gap_prev_ms": 801,
+        "apm_rolling": 19.2,
+        "velocity_px_s": 258.0
+      }
+    },
+    {
+      "text": "link bluetooth, sensor",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:21:30Z",
+      "action": "link",
+      "itemType": "note",
+      "items": [
+        "shape:x9qh3h7ygu",
+        "shape:8ga4jpyc7f"
+      ],
+      "content": {
+        "text": "bluetooth, sensor",
+        "imageUrls": [
+          "https://picsum.photos/seed/bluetooth/800/600",
+          "https://picsum.photos/seed/sensor/800/600"
+        ],
+        "tags": [
+          "bluetooth",
+          "sensor"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 677,
+        "dwell_ms": 150,
+        "reselect_count": 3,
+        "hover_ms": 75,
+        "scrub_px": 1
+      },
+      "tempo": {
+        "gap_prev_ms": 999,
+        "apm_rolling": 39.8,
+        "velocity_px_s": 198.5
+      }
+    },
+    {
+      "text": "move bluetooth, battery",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:21:40Z",
+      "action": "move",
+      "itemType": "note",
+      "items": [
+        "shape:67pg9g9d9u",
+        "shape:leplp3zqxz",
+        "shape:w90fy6p0k0"
+      ],
+      "content": {
+        "text": "bluetooth, battery",
+        "imageUrls": [
+          "https://picsum.photos/seed/bluetooth/800/600",
+          "https://picsum.photos/seed/battery/800/600"
+        ],
+        "tags": [
+          "bluetooth",
+          "battery"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 682,
+        "dwell_ms": 487,
+        "reselect_count": 3,
+        "hover_ms": 69,
+        "scrub_px": 41
+      },
+      "tempo": {
+        "gap_prev_ms": 1121,
+        "apm_rolling": 41.6,
+        "velocity_px_s": 209.7
+      }
+    },
+    {
+      "text": "group bluetooth, prototype",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:21:50Z",
+      "action": "group",
+      "itemType": "image",
+      "items": [
+        "shape:irmj6uo8s0"
+      ],
+      "content": {
+        "text": "bluetooth, prototype",
+        "imageUrls": [
+          "https://picsum.photos/seed/bluetooth/800/600",
+          "https://picsum.photos/seed/prototype/800/600"
+        ],
+        "tags": [
+          "bluetooth",
+          "prototype"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 709,
+        "dwell_ms": 399,
+        "reselect_count": 2,
+        "hover_ms": 85,
+        "scrub_px": 19
+      },
+      "tempo": {
+        "gap_prev_ms": 347,
+        "apm_rolling": 20.8,
+        "velocity_px_s": 471.6
+      }
+    },
+    {
+      "text": "highlight sensor, battery",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:22:00Z",
+      "action": "highlight",
+      "itemType": "cluster",
+      "items": [
+        "shape:04n39b4ezc"
+      ],
+      "content": {
+        "text": "sensor, battery",
+        "imageUrls": [
+          "https://picsum.photos/seed/sensor/800/600",
+          "https://picsum.photos/seed/battery/800/600"
+        ],
+        "tags": [
+          "sensor",
+          "battery"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 578,
+        "dwell_ms": 217,
+        "reselect_count": 1,
+        "hover_ms": 195,
+        "scrub_px": 45
+      },
+      "tempo": {
+        "gap_prev_ms": 441,
+        "apm_rolling": 43.6,
+        "velocity_px_s": 491.6
+      }
+    },
+    {
+      "text": "cluster marketing, dj",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:22:10Z",
+      "action": "cluster",
+      "itemType": "image",
+      "items": [
+        "shape:cqkcul1ffh",
+        "shape:fqscw2vabv",
+        "shape:v1y5en5zi8"
+      ],
+      "content": {
+        "text": "marketing, dj",
+        "imageUrls": [
+          "https://picsum.photos/seed/marketing/800/600",
+          "https://picsum.photos/seed/dj/800/600"
+        ],
+        "tags": [
+          "marketing",
+          "dj"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 426,
+        "dwell_ms": 161,
+        "reselect_count": 2,
+        "hover_ms": 49,
+        "scrub_px": 42
+      },
+      "tempo": {
+        "gap_prev_ms": 1185,
+        "apm_rolling": 15.7,
+        "velocity_px_s": 504.9
+      }
+    },
+    {
+      "text": "edit lineup, marketing, budget",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:22:20Z",
+      "action": "edit",
+      "itemType": "cluster",
+      "items": [
+        "shape:qgv87h56wd",
+        "shape:sljlx3hg9j",
+        "shape:v09tl34tle"
+      ],
+      "content": {
+        "text": "lineup, marketing, budget",
+        "imageUrls": [
+          "https://picsum.photos/seed/lineup/800/600",
+          "https://picsum.photos/seed/marketing/800/600",
+          "https://picsum.photos/seed/budget/800/600"
+        ],
+        "tags": [
+          "lineup",
+          "marketing",
+          "budget"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 209,
+        "dwell_ms": 466,
+        "reselect_count": 1,
+        "hover_ms": 171,
+        "scrub_px": 34
+      },
+      "tempo": {
+        "gap_prev_ms": 1479,
+        "apm_rolling": 36.4,
+        "velocity_px_s": 293.7
+      }
+    },
+    {
+      "text": "cluster marketing, budget, lineup",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:22:30Z",
+      "action": "cluster",
+      "itemType": "cluster",
+      "items": [
+        "shape:rp6wvz28ew",
+        "shape:5hjrghhlm0",
+        "shape:zijzm87klm"
+      ],
+      "content": {
+        "text": "marketing, budget, lineup",
+        "imageUrls": [
+          "https://picsum.photos/seed/marketing/800/600",
+          "https://picsum.photos/seed/budget/800/600",
+          "https://picsum.photos/seed/lineup/800/600"
+        ],
+        "tags": [
+          "marketing",
+          "budget",
+          "lineup"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 356,
+        "dwell_ms": 289,
+        "reselect_count": 2,
+        "hover_ms": 37,
+        "scrub_px": 28
+      },
+      "tempo": {
+        "gap_prev_ms": 1134,
+        "apm_rolling": 43.3,
+        "velocity_px_s": 303.3
+      }
+    },
+    {
+      "text": "group budget, marketing, volunteers",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:22:40Z",
+      "action": "group",
+      "itemType": "image",
+      "items": [
+        "shape:ago5l73mm7"
+      ],
+      "content": {
+        "text": "budget, marketing, volunteers",
+        "imageUrls": [
+          "https://picsum.photos/seed/budget/800/600",
+          "https://picsum.photos/seed/marketing/800/600",
+          "https://picsum.photos/seed/volunteers/800/600"
+        ],
+        "tags": [
+          "budget",
+          "marketing",
+          "volunteers"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 316,
+        "dwell_ms": 118,
+        "reselect_count": 3,
+        "hover_ms": 58,
+        "scrub_px": 36
+      },
+      "tempo": {
+        "gap_prev_ms": 880,
+        "apm_rolling": 43.6,
+        "velocity_px_s": 506.8
+      }
+    },
+    {
+      "text": "add_note budget, lineup",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:22:50Z",
+      "action": "add_note",
+      "itemType": "cluster",
+      "items": [
+        "shape:o6e58bvuvw",
+        "shape:ifcfvnem1o",
+        "shape:5ugc0emkz5"
+      ],
+      "content": {
+        "text": "budget, lineup",
+        "imageUrls": [
+          "https://picsum.photos/seed/budget/800/600",
+          "https://picsum.photos/seed/lineup/800/600"
+        ],
+        "tags": [
+          "budget",
+          "lineup"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 584,
+        "dwell_ms": 458,
+        "reselect_count": 0,
+        "hover_ms": 167,
+        "scrub_px": 27
+      },
+      "tempo": {
+        "gap_prev_ms": 726,
+        "apm_rolling": 33.4,
+        "velocity_px_s": 271.9
+      }
+    },
+    {
+      "text": "cluster budget, volunteers, dj",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:23:00Z",
+      "action": "cluster",
+      "itemType": "note",
+      "items": [
+        "shape:qxx27xzoan",
+        "shape:qxj38mknbk",
+        "shape:z6kbihk25l"
+      ],
+      "content": {
+        "text": "budget, volunteers, dj",
+        "imageUrls": [
+          "https://picsum.photos/seed/budget/800/600",
+          "https://picsum.photos/seed/volunteers/800/600",
+          "https://picsum.photos/seed/dj/800/600"
+        ],
+        "tags": [
+          "budget",
+          "volunteers",
+          "dj"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 161,
+        "dwell_ms": 111,
+        "reselect_count": 3,
+        "hover_ms": 144,
+        "scrub_px": 20
+      },
+      "tempo": {
+        "gap_prev_ms": 1135,
+        "apm_rolling": 13.1,
+        "velocity_px_s": 435.6
+      }
+    },
+    {
+      "text": "link budget, lineup",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:23:10Z",
+      "action": "link",
+      "itemType": "note",
+      "items": [
+        "shape:pgy4mkvhwh"
+      ],
+      "content": {
+        "text": "budget, lineup",
+        "imageUrls": [
+          "https://picsum.photos/seed/budget/800/600",
+          "https://picsum.photos/seed/lineup/800/600"
+        ],
+        "tags": [
+          "budget",
+          "lineup"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 708,
+        "dwell_ms": 126,
+        "reselect_count": 2,
+        "hover_ms": 100,
+        "scrub_px": 50
+      },
+      "tempo": {
+        "gap_prev_ms": 1253,
+        "apm_rolling": 38.0,
+        "velocity_px_s": 534.7
+      }
+    },
+    {
+      "text": "add_note prototype, ethics",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:23:20Z",
+      "action": "add_note",
+      "itemType": "image",
+      "items": [
+        "shape:ufd1fagbfb",
+        "shape:k6c4dm6vm4"
+      ],
+      "content": {
+        "text": "prototype, ethics",
+        "imageUrls": [
+          "https://picsum.photos/seed/prototype/800/600",
+          "https://picsum.photos/seed/ethics/800/600"
+        ],
+        "tags": [
+          "prototype",
+          "ethics"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 448,
+        "dwell_ms": 345,
+        "reselect_count": 2,
+        "hover_ms": 198,
+        "scrub_px": 2
+      },
+      "tempo": {
+        "gap_prev_ms": 1082,
+        "apm_rolling": 22.1,
+        "velocity_px_s": 392.8
+      }
+    },
+    {
+      "text": "link architecture, ethics, prototype",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:23:30Z",
+      "action": "link",
+      "itemType": "image",
+      "items": [
+        "shape:9v8zly9wlx",
+        "shape:02o24wrk6y"
+      ],
+      "content": {
+        "text": "architecture, ethics, prototype",
+        "imageUrls": [
+          "https://picsum.photos/seed/architecture/800/600",
+          "https://picsum.photos/seed/ethics/800/600",
+          "https://picsum.photos/seed/prototype/800/600"
+        ],
+        "tags": [
+          "architecture",
+          "ethics",
+          "prototype"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 598,
+        "dwell_ms": 121,
+        "reselect_count": 1,
+        "hover_ms": 73,
+        "scrub_px": 45
+      },
+      "tempo": {
+        "gap_prev_ms": 347,
+        "apm_rolling": 39.2,
+        "velocity_px_s": 186.8
+      }
+    },
+    {
+      "text": "add_note ethics, pipeline",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:23:40Z",
+      "action": "add_note",
+      "itemType": "note",
+      "items": [
+        "shape:3vxaemzgvt",
+        "shape:h2fnpdjjah"
+      ],
+      "content": {
+        "text": "ethics, pipeline",
+        "imageUrls": [
+          "https://picsum.photos/seed/ethics/800/600",
+          "https://picsum.photos/seed/pipeline/800/600"
+        ],
+        "tags": [
+          "ethics",
+          "pipeline"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 335,
+        "dwell_ms": 247,
+        "reselect_count": 1,
+        "hover_ms": 86,
+        "scrub_px": 35
+      },
+      "tempo": {
+        "gap_prev_ms": 1355,
+        "apm_rolling": 25.8,
+        "velocity_px_s": 462.5
+      }
+    },
+    {
+      "text": "cluster prototype, pipeline, irb",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:23:50Z",
+      "action": "cluster",
+      "itemType": "note",
+      "items": [
+        "shape:hbgmqfg3zo"
+      ],
+      "content": {
+        "text": "prototype, pipeline, irb",
+        "imageUrls": [
+          "https://picsum.photos/seed/prototype/800/600",
+          "https://picsum.photos/seed/pipeline/800/600",
+          "https://picsum.photos/seed/irb/800/600"
+        ],
+        "tags": [
+          "prototype",
+          "pipeline",
+          "irb"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 796,
+        "dwell_ms": 415,
+        "reselect_count": 0,
+        "hover_ms": 194,
+        "scrub_px": 31
+      },
+      "tempo": {
+        "gap_prev_ms": 1008,
+        "apm_rolling": 25.3,
+        "velocity_px_s": 414.4
+      }
+    },
+    {
+      "text": "link ethics, irb",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:24:00Z",
+      "action": "link",
+      "itemType": "note",
+      "items": [
+        "shape:a3tevwm5e9",
+        "shape:x1e7npwdvp",
+        "shape:12fqnuknn3"
+      ],
+      "content": {
+        "text": "ethics, irb",
+        "imageUrls": [
+          "https://picsum.photos/seed/ethics/800/600",
+          "https://picsum.photos/seed/irb/800/600"
+        ],
+        "tags": [
+          "ethics",
+          "irb"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 648,
+        "dwell_ms": 314,
+        "reselect_count": 2,
+        "hover_ms": 78,
+        "scrub_px": 39
+      },
+      "tempo": {
+        "gap_prev_ms": 1138,
+        "apm_rolling": 28.0,
+        "velocity_px_s": 459.4
+      }
+    },
+    {
+      "text": "add_note irb, architecture, pipeline",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:24:10Z",
+      "action": "add_note",
+      "itemType": "note",
+      "items": [
+        "shape:js67d4cmnr"
+      ],
+      "content": {
+        "text": "irb, architecture, pipeline",
+        "imageUrls": [
+          "https://picsum.photos/seed/irb/800/600",
+          "https://picsum.photos/seed/architecture/800/600",
+          "https://picsum.photos/seed/pipeline/800/600"
+        ],
+        "tags": [
+          "irb",
+          "architecture",
+          "pipeline"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 603,
+        "dwell_ms": 321,
+        "reselect_count": 0,
+        "hover_ms": 118,
+        "scrub_px": 29
+      },
+      "tempo": {
+        "gap_prev_ms": 702,
+        "apm_rolling": 36.6,
+        "velocity_px_s": 264.9
+      }
+    },
+    {
+      "text": "link irb, ethics",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:24:20Z",
+      "action": "link",
+      "itemType": "note",
+      "items": [
+        "shape:j5syxk1t34"
+      ],
+      "content": {
+        "text": "irb, ethics",
+        "imageUrls": [
+          "https://picsum.photos/seed/irb/800/600",
+          "https://picsum.photos/seed/ethics/800/600"
+        ],
+        "tags": [
+          "irb",
+          "ethics"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 638,
+        "dwell_ms": 377,
+        "reselect_count": 1,
+        "hover_ms": 122,
+        "scrub_px": 18
+      },
+      "tempo": {
+        "gap_prev_ms": 884,
+        "apm_rolling": 13.0,
+        "velocity_px_s": 299.4
+      }
+    },
+    {
+      "text": "add_note ethics, pipeline, prototype",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:24:30Z",
+      "action": "add_note",
+      "itemType": "note",
+      "items": [
+        "shape:7j8bkdan3w",
+        "shape:x9c5lpar1v",
+        "shape:d8g2tqp50q"
+      ],
+      "content": {
+        "text": "ethics, pipeline, prototype",
+        "imageUrls": [
+          "https://picsum.photos/seed/ethics/800/600",
+          "https://picsum.photos/seed/pipeline/800/600",
+          "https://picsum.photos/seed/prototype/800/600"
+        ],
+        "tags": [
+          "ethics",
+          "pipeline",
+          "prototype"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 447,
+        "dwell_ms": 122,
+        "reselect_count": 0,
+        "hover_ms": 139,
+        "scrub_px": 2
+      },
+      "tempo": {
+        "gap_prev_ms": 639,
+        "apm_rolling": 42.1,
+        "velocity_px_s": 473.4
+      }
+    },
+    {
+      "text": "edit pipeline, irb",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:24:40Z",
+      "action": "edit",
+      "itemType": "note",
+      "items": [
+        "shape:bkcb5d3376",
+        "shape:0x7kslei9g"
+      ],
+      "content": {
+        "text": "pipeline, irb",
+        "imageUrls": [
+          "https://picsum.photos/seed/pipeline/800/600",
+          "https://picsum.photos/seed/irb/800/600"
+        ],
+        "tags": [
+          "pipeline",
+          "irb"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 517,
+        "dwell_ms": 496,
+        "reselect_count": 2,
+        "hover_ms": 143,
+        "scrub_px": 29
+      },
+      "tempo": {
+        "gap_prev_ms": 870,
+        "apm_rolling": 38.5,
+        "velocity_px_s": 331.0
+      }
+    },
+    {
+      "text": "group lighting, floorplan, ergonomics",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:24:50Z",
+      "action": "group",
+      "itemType": "cluster",
+      "items": [
+        "shape:rbu9h5irrg",
+        "shape:1exc652mtw",
+        "shape:lyzudrncuu"
+      ],
+      "content": {
+        "text": "lighting, floorplan, ergonomics",
+        "imageUrls": [
+          "https://picsum.photos/seed/lighting/800/600",
+          "https://picsum.photos/seed/floorplan/800/600",
+          "https://picsum.photos/seed/ergonomics/800/600"
+        ],
+        "tags": [
+          "lighting",
+          "floorplan",
+          "ergonomics"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 725,
+        "dwell_ms": 300,
+        "reselect_count": 2,
+        "hover_ms": 39,
+        "scrub_px": 8
+      },
+      "tempo": {
+        "gap_prev_ms": 1154,
+        "apm_rolling": 20.3,
+        "velocity_px_s": 542.1
+      }
+    },
+    {
+      "text": "highlight storage, lighting",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:25:00Z",
+      "action": "highlight",
+      "itemType": "note",
+      "items": [
+        "shape:7hhase1r43",
+        "shape:rs89dlp5kj",
+        "shape:jl3zajzdll"
+      ],
+      "content": {
+        "text": "storage, lighting",
+        "imageUrls": [
+          "https://picsum.photos/seed/storage/800/600",
+          "https://picsum.photos/seed/lighting/800/600"
+        ],
+        "tags": [
+          "storage",
+          "lighting"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 418,
+        "dwell_ms": 197,
+        "reselect_count": 1,
+        "hover_ms": 67,
+        "scrub_px": 3
+      },
+      "tempo": {
+        "gap_prev_ms": 1373,
+        "apm_rolling": 43.7,
+        "velocity_px_s": 363.9
+      }
+    },
+    {
+      "text": "cluster floorplan, storage, lighting",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:25:10Z",
+      "action": "cluster",
+      "itemType": "cluster",
+      "items": [
+        "shape:ihjsiywema"
+      ],
+      "content": {
+        "text": "floorplan, storage, lighting",
+        "imageUrls": [
+          "https://picsum.photos/seed/floorplan/800/600",
+          "https://picsum.photos/seed/storage/800/600",
+          "https://picsum.photos/seed/lighting/800/600"
+        ],
+        "tags": [
+          "floorplan",
+          "storage",
+          "lighting"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 479,
+        "dwell_ms": 172,
+        "reselect_count": 3,
+        "hover_ms": 92,
+        "scrub_px": 4
+      },
+      "tempo": {
+        "gap_prev_ms": 1025,
+        "apm_rolling": 30.0,
+        "velocity_px_s": 508.0
+      }
+    },
+    {
+      "text": "add_note color, storage",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:25:20Z",
+      "action": "add_note",
+      "itemType": "cluster",
+      "items": [
+        "shape:20388t2j83",
+        "shape:ymsltkurmi",
+        "shape:dd0lhakhzx"
+      ],
+      "content": {
+        "text": "color, storage",
+        "imageUrls": [
+          "https://picsum.photos/seed/color/800/600",
+          "https://picsum.photos/seed/storage/800/600"
+        ],
+        "tags": [
+          "color",
+          "storage"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 637,
+        "dwell_ms": 456,
+        "reselect_count": 2,
+        "hover_ms": 53,
+        "scrub_px": 29
+      },
+      "tempo": {
+        "gap_prev_ms": 1406,
+        "apm_rolling": 31.2,
+        "velocity_px_s": 280.3
+      }
+    },
+    {
+      "text": "edit color, storage",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:25:30Z",
+      "action": "edit",
+      "itemType": "cluster",
+      "items": [
+        "shape:wwvstrlh6o",
+        "shape:vps1r2i4v8",
+        "shape:l772de019s"
+      ],
+      "content": {
+        "text": "color, storage",
+        "imageUrls": [
+          "https://picsum.photos/seed/color/800/600",
+          "https://picsum.photos/seed/storage/800/600"
+        ],
+        "tags": [
+          "color",
+          "storage"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 160,
+        "dwell_ms": 221,
+        "reselect_count": 3,
+        "hover_ms": 128,
+        "scrub_px": 13
+      },
+      "tempo": {
+        "gap_prev_ms": 453,
+        "apm_rolling": 24.1,
+        "velocity_px_s": 235.9
+      }
+    },
+    {
+      "text": "link floorplan, storage, color",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:25:40Z",
+      "action": "link",
+      "itemType": "image",
+      "items": [
+        "shape:atx6xz2xg5",
+        "shape:juoaxeaifn"
+      ],
+      "content": {
+        "text": "floorplan, storage, color",
+        "imageUrls": [
+          "https://picsum.photos/seed/floorplan/800/600",
+          "https://picsum.photos/seed/storage/800/600",
+          "https://picsum.photos/seed/color/800/600"
+        ],
+        "tags": [
+          "floorplan",
+          "storage",
+          "color"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 428,
+        "dwell_ms": 322,
+        "reselect_count": 2,
+        "hover_ms": 80,
+        "scrub_px": 1
+      },
+      "tempo": {
+        "gap_prev_ms": 358,
+        "apm_rolling": 29.8,
+        "velocity_px_s": 518.5
+      }
+    },
+    {
+      "text": "edit color, lighting, storage",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:25:50Z",
+      "action": "edit",
+      "itemType": "image",
+      "items": [
+        "shape:6yo4its9mh"
+      ],
+      "content": {
+        "text": "color, lighting, storage",
+        "imageUrls": [
+          "https://picsum.photos/seed/color/800/600",
+          "https://picsum.photos/seed/lighting/800/600",
+          "https://picsum.photos/seed/storage/800/600"
+        ],
+        "tags": [
+          "color",
+          "lighting",
+          "storage"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 277,
+        "dwell_ms": 406,
+        "reselect_count": 0,
+        "hover_ms": 140,
+        "scrub_px": 1
+      },
+      "tempo": {
+        "gap_prev_ms": 1019,
+        "apm_rolling": 24.6,
+        "velocity_px_s": 346.1
+      }
+    }
+  ]
+}

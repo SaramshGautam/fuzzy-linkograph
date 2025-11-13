@@ -27,6 +27,6 @@ def add_links_to_file(fpath):
 			json.dump(data, outfile)
 
 start = time.time()
-add_links_to_file("data/test.json")
+add_links_to_file("data/TeamD_formative.json")
 end = time.time()
 print("Time elapsed:", end - start)

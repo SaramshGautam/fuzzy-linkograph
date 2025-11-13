@@ -1,0 +1,1558 @@
+{
+  "TeamX": {
+    "moves": [
+      {
+        "text": "edit hiking city adventure",
+        "actor": 1,
+        "action": "edit",
+        "itemType": "cluster",
+        "items": [
+          "shape:czegj32zbr",
+          "shape:paqlpc14mw",
+          "shape:815bzjbr55"
+        ],
+        "content": {
+          "text": "hiking, city, adventure",
+          "tags": [
+            "hiking",
+            "city",
+            "adventure"
+          ],
+          "imageUrls": [
+            "https://picsum.photos/seed/hiking-0/800/600",
+            "https://picsum.photos/seed/city-1/800/600"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 346,
+          "dwell_ms": 267,
+          "reselect_count": 0,
+          "hover_ms": 68,
+          "scrub_px": 4
+        },
+        "tempo": {
+          "gap_prev_ms": 1299,
+          "apm_rolling": 25.1,
+          "velocity_px_s": 448.9
+        }
+      },
+      {
+        "text": "edit relax Alps",
+        "actor": 0,
+        "action": "edit",
+        "itemType": "image",
+        "items": [
+          "shape:0i4kcb1kg7",
+          "shape:kaxp833knw",
+          "shape:9nvaqogxk2"
+        ],
+        "content": {
+          "text": "relax, Alps",
+          "tags": [
+            "relax",
+            "Alps"
+          ],
+          "imageUrls": [
+            "https://picsum.photos/seed/relax-0/800/600",
+            "https://picsum.photos/seed/alps-1/800/600"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 475,
+          "dwell_ms": 208,
+          "reselect_count": 2,
+          "hover_ms": 32,
+          "scrub_px": 28
+        },
+        "tempo": {
+          "gap_prev_ms": 1404,
+          "apm_rolling": 43.0,
+          "velocity_px_s": 264.7
+        }
+      },
+      {
+        "text": "cluster museum food hiking",
+        "actor": 1,
+        "action": "cluster",
+        "itemType": "image",
+        "items": [
+          "shape:dvwtz4k3hh",
+          "shape:m2kxs7pp2x",
+          "shape:mnfjzo8iwt"
+        ],
+        "content": {
+          "text": "museum, food, hiking",
+          "tags": [
+            "museum",
+            "food",
+            "hiking"
+          ],
+          "imageUrls": [
+            "https://picsum.photos/seed/museum-0/800/600",
+            "https://picsum.photos/seed/food-1/800/600"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 624,
+          "dwell_ms": 403,
+          "reselect_count": 1,
+          "hover_ms": 92,
+          "scrub_px": 39
+        },
+        "tempo": {
+          "gap_prev_ms": 1109,
+          "apm_rolling": 43.5,
+          "velocity_px_s": 122.7
+        }
+      },
+      {
+        "text": "highlight hiking",
+        "actor": 0,
+        "action": "highlight",
+        "itemType": "image",
+        "items": [
+          "shape:dptb5y2k8g",
+          "shape:aq2x91ga1y"
+        ],
+        "content": {
+          "text": "hiking",
+          "tags": [
+            "hiking"
+          ],
+          "imageUrls": [
+            "https://picsum.photos/seed/hiking-0/800/600",
+            "https://picsum.photos/seed/hiking-1/800/600"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 689,
+          "dwell_ms": 181,
+          "reselect_count": 1,
+          "hover_ms": 180,
+          "scrub_px": 6
+        },
+        "tempo": {
+          "gap_prev_ms": 858,
+          "apm_rolling": 11.3,
+          "velocity_px_s": 395.3
+        }
+      },
+      {
+        "text": "cluster relax beach",
+        "actor": 2,
+        "action": "cluster",
+        "itemType": "image",
+        "items": [
+          "shape:7jo2p927mg"
+        ],
+        "content": {
+          "text": "relax, beach",
+          "tags": [
+            "relax",
+            "beach"
+          ],
+          "imageUrls": [
+            "https://picsum.photos/seed/relax-0/800/600",
+            "https://picsum.photos/seed/beach-1/800/600"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 581,
+          "dwell_ms": 95,
+          "reselect_count": 0,
+          "hover_ms": 180,
+          "scrub_px": 12
+        },
+        "tempo": {
+          "gap_prev_ms": 1417,
+          "apm_rolling": 39.3,
+          "velocity_px_s": 394.9
+        }
+      },
+      {
+        "text": "group rail, autobahn, city",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:21:29.797018Z",
+        "action": "group",
+        "itemType": "cluster",
+        "items": [
+          "shape:84b722d5bb",
+          "shape:6a84c06018"
+        ],
+        "content": {
+          "text": "rail, autobahn, city",
+          "imageUrls": [
+            "https://picsum.photos/seed/rail-0/800/600"
+          ],
+          "tags": [
+            "rail",
+            "autobahn",
+            "city"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 174,
+          "dwell_ms": 500,
+          "reselect_count": 0,
+          "hover_ms": 113,
+          "scrub_px": 37
+        },
+        "tempo": {
+          "gap_prev_ms": 318,
+          "apm_rolling": 44.7,
+          "velocity_px_s": 223.1
+        }
+      },
+      {
+        "text": "add_note ibiza, nightlife, beach",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:21:39.797018Z",
+        "action": "add_note",
+        "itemType": "note",
+        "items": [
+          "shape:a69855e832"
+        ],
+        "content": {
+          "text": "ibiza, nightlife, beach",
+          "imageUrls": [
+            "https://picsum.photos/seed/ibiza-0/800/600"
+          ],
+          "tags": [
+            "ibiza",
+            "nightlife",
+            "beach"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 346,
+          "dwell_ms": 126,
+          "reselect_count": 3,
+          "hover_ms": 35,
+          "scrub_px": 36
+        },
+        "tempo": {
+          "gap_prev_ms": 453,
+          "apm_rolling": 46.1,
+          "velocity_px_s": 422.7
+        }
+      },
+      {
+        "text": "move castles, history",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:21:49.797018Z",
+        "action": "move",
+        "itemType": "image",
+        "items": [
+          "shape:48ccab528d"
+        ],
+        "content": {
+          "text": "castles, history",
+          "imageUrls": [
+            "https://picsum.photos/seed/castles-0/800/600",
+            "https://picsum.photos/seed/history-1/800/600",
+            "https://picsum.photos/seed/castles-2/800/600"
+          ],
+          "tags": [
+            "castles",
+            "history"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 150,
+          "dwell_ms": 193,
+          "reselect_count": 0,
+          "hover_ms": 162,
+          "scrub_px": 8
+        },
+        "tempo": {
+          "gap_prev_ms": 793,
+          "apm_rolling": 26.5,
+          "velocity_px_s": 379.5
+        }
+      },
+      {
+        "text": "link cafe, food, street",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:21:59.797018Z",
+        "action": "link",
+        "itemType": "cluster",
+        "items": [
+          "shape:362dcbd842",
+          "shape:a1d57d6a49"
+        ],
+        "content": {
+          "text": "cafe, food, street",
+          "imageUrls": [
+            "https://picsum.photos/seed/cafe-0/800/600"
+          ],
+          "tags": [
+            "cafe",
+            "food",
+            "street"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 695,
+          "dwell_ms": 372,
+          "reselect_count": 1,
+          "hover_ms": 115,
+          "scrub_px": 6
+        },
+        "tempo": {
+          "gap_prev_ms": 1321,
+          "apm_rolling": 37.3,
+          "velocity_px_s": 390.9
+        }
+      },
+      {
+        "text": "draw mountains, hiking",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:22:09.797018Z",
+        "action": "draw",
+        "itemType": "note",
+        "items": [
+          "shape:d7dac1c39d"
+        ],
+        "content": {
+          "text": "mountains, hiking",
+          "imageUrls": [
+            "https://picsum.photos/seed/mountains-0/800/600",
+            "https://picsum.photos/seed/hiking-1/800/600",
+            "https://picsum.photos/seed/mountains-2/800/600"
+          ],
+          "tags": [
+            "mountains",
+            "hiking"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 421,
+          "dwell_ms": 318,
+          "reselect_count": 3,
+          "hover_ms": 112,
+          "scrub_px": 19
+        },
+        "tempo": {
+          "gap_prev_ms": 708,
+          "apm_rolling": 40.4,
+          "velocity_px_s": 455.5
+        }
+      },
+      {
+        "text": "highlight museum",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:22:19.797018Z",
+        "action": "highlight",
+        "itemType": "image",
+        "items": [
+          "shape:d259653dc7"
+        ],
+        "content": {
+          "text": "museum",
+          "imageUrls": [
+            "https://picsum.photos/seed/museum-0/800/600",
+            "https://picsum.photos/seed/museum-1/800/600"
+          ],
+          "tags": [
+            "museum"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 637,
+          "dwell_ms": 333,
+          "reselect_count": 2,
+          "hover_ms": 134,
+          "scrub_px": 18
+        },
+        "tempo": {
+          "gap_prev_ms": 1447,
+          "apm_rolling": 47.3,
+          "velocity_px_s": 176.7
+        }
+      },
+      {
+        "text": "cluster alpine, lake, relax",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:22:29.797018Z",
+        "action": "cluster",
+        "itemType": "image",
+        "items": [
+          "shape:45a6b7ba49",
+          "shape:5dfe047d8c",
+          "shape:87d8a8b272"
+        ],
+        "content": {
+          "text": "alpine, lake, relax",
+          "imageUrls": [
+            "https://picsum.photos/seed/alpine-0/800/600",
+            "https://picsum.photos/seed/lake-1/800/600",
+            "https://picsum.photos/seed/relax-2/800/600"
+          ],
+          "tags": [
+            "alpine",
+            "lake",
+            "relax"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 140,
+          "dwell_ms": 422,
+          "reselect_count": 0,
+          "hover_ms": 162,
+          "scrub_px": 36
+        },
+        "tempo": {
+          "gap_prev_ms": 1816,
+          "apm_rolling": 43.4,
+          "velocity_px_s": 270.6
+        }
+      },
+      {
+        "text": "ungroup city, tram",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:22:39.797018Z",
+        "action": "ungroup",
+        "itemType": "cluster",
+        "items": [
+          "shape:a2efed7e37",
+          "shape:d6f39a512f"
+        ],
+        "content": {
+          "text": "city, tram",
+          "imageUrls": [
+            "https://picsum.photos/seed/city-0/800/600",
+            "https://picsum.photos/seed/tram-1/800/600",
+            "https://picsum.photos/seed/city-2/800/600"
+          ],
+          "tags": [
+            "city",
+            "tram"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 170,
+          "dwell_ms": 510,
+          "reselect_count": 0,
+          "hover_ms": 89,
+          "scrub_px": 30
+        },
+        "tempo": {
+          "gap_prev_ms": 1627,
+          "apm_rolling": 35.6,
+          "velocity_px_s": 149.1
+        }
+      },
+      {
+        "text": "edit vineyard, wine",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:22:49.797018Z",
+        "action": "edit",
+        "itemType": "image",
+        "items": [
+          "shape:909313e1f4",
+          "shape:6a5a67f8b6"
+        ],
+        "content": {
+          "text": "vineyard, wine",
+          "imageUrls": [
+            "https://picsum.photos/seed/vineyard-0/800/600",
+            "https://picsum.photos/seed/wine-1/800/600",
+            "https://picsum.photos/seed/vineyard-2/800/600"
+          ],
+          "tags": [
+            "vineyard",
+            "wine"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 391,
+          "dwell_ms": 446,
+          "reselect_count": 3,
+          "hover_ms": 191,
+          "scrub_px": 22
+        },
+        "tempo": {
+          "gap_prev_ms": 246,
+          "apm_rolling": 45.8,
+          "velocity_px_s": 290.6
+        }
+      },
+      {
+        "text": "add_note cathedral, architecture",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:22:59.797018Z",
+        "action": "add_note",
+        "itemType": "note",
+        "items": [
+          "shape:f11377d0a1"
+        ],
+        "content": {
+          "text": "cathedral, architecture",
+          "imageUrls": [
+            "https://picsum.photos/seed/cathedral-0/800/600",
+            "https://picsum.photos/seed/architecture-1/800/600"
+          ],
+          "tags": [
+            "cathedral",
+            "architecture"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 394,
+          "dwell_ms": 146,
+          "reselect_count": 1,
+          "hover_ms": 121,
+          "scrub_px": 25
+        },
+        "tempo": {
+          "gap_prev_ms": 1984,
+          "apm_rolling": 29.4,
+          "velocity_px_s": 199.9
+        }
+      },
+      {
+        "text": "move market, food, locals",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:23:09.797018Z",
+        "action": "move",
+        "itemType": "cluster",
+        "items": [
+          "shape:5e4f72b23e",
+          "shape:b10a365c83",
+          "shape:0416aea342"
+        ],
+        "content": {
+          "text": "market, food, locals",
+          "imageUrls": [
+            "https://picsum.photos/seed/market-0/800/600",
+            "https://picsum.photos/seed/food-1/800/600"
+          ],
+          "tags": [
+            "market",
+            "food",
+            "locals"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 525,
+          "dwell_ms": 263,
+          "reselect_count": 3,
+          "hover_ms": 79,
+          "scrub_px": 9
+        },
+        "tempo": {
+          "gap_prev_ms": 369,
+          "apm_rolling": 17.5,
+          "velocity_px_s": 231.3
+        }
+      },
+      {
+        "text": "group fjord, boat",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:23:19.797018Z",
+        "action": "group",
+        "itemType": "image",
+        "items": [
+          "shape:9381580a86"
+        ],
+        "content": {
+          "text": "fjord, boat",
+          "imageUrls": [
+            "https://picsum.photos/seed/fjord-0/800/600",
+            "https://picsum.photos/seed/boat-1/800/600"
+          ],
+          "tags": [
+            "fjord",
+            "boat"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 369,
+          "dwell_ms": 224,
+          "reselect_count": 0,
+          "hover_ms": 57,
+          "scrub_px": 26
+        },
+        "tempo": {
+          "gap_prev_ms": 1294,
+          "apm_rolling": 24.7,
+          "velocity_px_s": 391.8
+        }
+      },
+      {
+        "text": "delete queue, busy",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:23:29.797018Z",
+        "action": "delete",
+        "itemType": "image",
+        "items": [
+          "shape:698f0bc054"
+        ],
+        "content": {
+          "text": "queue, busy",
+          "imageUrls": [
+            "https://picsum.photos/seed/queue-0/800/600"
+          ],
+          "tags": [
+            "queue",
+            "busy"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 567,
+          "dwell_ms": 479,
+          "reselect_count": 3,
+          "hover_ms": 121,
+          "scrub_px": 25
+        },
+        "tempo": {
+          "gap_prev_ms": 1007,
+          "apm_rolling": 14.8,
+          "velocity_px_s": 424.5
+        }
+      },
+      {
+        "text": "link itinerary, day1, day2",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:23:39.797018Z",
+        "action": "link",
+        "itemType": "note",
+        "items": [
+          "shape:cf4a5e907a"
+        ],
+        "content": {
+          "text": "itinerary, day1, day2",
+          "imageUrls": [
+            "https://picsum.photos/seed/itinerary-0/800/600",
+            "https://picsum.photos/seed/day1-1/800/600"
+          ],
+          "tags": [
+            "itinerary",
+            "day1",
+            "day2"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 551,
+          "dwell_ms": 163,
+          "reselect_count": 0,
+          "hover_ms": 107,
+          "scrub_px": 38
+        },
+        "tempo": {
+          "gap_prev_ms": 307,
+          "apm_rolling": 14.8,
+          "velocity_px_s": 392.1
+        }
+      },
+      {
+        "text": "draw budget, transport, stay",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:23:49.797018Z",
+        "action": "draw",
+        "itemType": "cluster",
+        "items": [
+          "shape:e83228b13e"
+        ],
+        "content": {
+          "text": "budget, transport, stay",
+          "imageUrls": [
+            "https://picsum.photos/seed/budget-0/800/600"
+          ],
+          "tags": [
+            "budget",
+            "transport",
+            "stay"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 172,
+          "dwell_ms": 186,
+          "reselect_count": 3,
+          "hover_ms": 58,
+          "scrub_px": 40
+        },
+        "tempo": {
+          "gap_prev_ms": 716,
+          "apm_rolling": 46.4,
+          "velocity_px_s": 409.1
+        }
+      },
+      {
+        "text": "highlight sunset, viewpoint",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:23:59.797018Z",
+        "action": "highlight",
+        "itemType": "image",
+        "items": [
+          "shape:2b5f5c67cb",
+          "shape:b07bfab583",
+          "shape:b1f7469a02"
+        ],
+        "content": {
+          "text": "sunset, viewpoint",
+          "imageUrls": [
+            "https://picsum.photos/seed/sunset-0/800/600",
+            "https://picsum.photos/seed/viewpoint-1/800/600",
+            "https://picsum.photos/seed/sunset-2/800/600"
+          ],
+          "tags": [
+            "sunset",
+            "viewpoint"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 591,
+          "dwell_ms": 327,
+          "reselect_count": 2,
+          "hover_ms": 41,
+          "scrub_px": 9
+        },
+        "tempo": {
+          "gap_prev_ms": 409,
+          "apm_rolling": 38.7,
+          "velocity_px_s": 475.4
+        }
+      },
+      {
+        "text": "add_note thermal, spa, relax",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:24:09.797018Z",
+        "action": "add_note",
+        "itemType": "cluster",
+        "items": [
+          "shape:249d2c550f",
+          "shape:692055ba3c",
+          "shape:9c2d971309"
+        ],
+        "content": {
+          "text": "thermal, spa, relax",
+          "imageUrls": [
+            "https://picsum.photos/seed/thermal-0/800/600",
+            "https://picsum.photos/seed/spa-1/800/600"
+          ],
+          "tags": [
+            "thermal",
+            "spa",
+            "relax"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 250,
+          "dwell_ms": 433,
+          "reselect_count": 0,
+          "hover_ms": 155,
+          "scrub_px": 19
+        },
+        "tempo": {
+          "gap_prev_ms": 1516,
+          "apm_rolling": 42.9,
+          "velocity_px_s": 454.2
+        }
+      },
+      {
+        "text": "move ski, alps",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:24:19.797018Z",
+        "action": "move",
+        "itemType": "note",
+        "items": [
+          "shape:22e18d503f",
+          "shape:372c0e135a"
+        ],
+        "content": {
+          "text": "ski, alps",
+          "imageUrls": [
+            "https://picsum.photos/seed/ski-0/800/600",
+            "https://picsum.photos/seed/alps-1/800/600"
+          ],
+          "tags": [
+            "ski",
+            "alps"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 328,
+          "dwell_ms": 352,
+          "reselect_count": 2,
+          "hover_ms": 182,
+          "scrub_px": 14
+        },
+        "tempo": {
+          "gap_prev_ms": 1455,
+          "apm_rolling": 41.0,
+          "velocity_px_s": 592.8
+        }
+      },
+      {
+        "text": "cluster forest, trail, camp",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:24:29.797018Z",
+        "action": "cluster",
+        "itemType": "cluster",
+        "items": [
+          "shape:69c33abd25"
+        ],
+        "content": {
+          "text": "forest, trail, camp",
+          "imageUrls": [
+            "https://picsum.photos/seed/forest-0/800/600",
+            "https://picsum.photos/seed/trail-1/800/600",
+            "https://picsum.photos/seed/camp-2/800/600"
+          ],
+          "tags": [
+            "forest",
+            "trail",
+            "camp"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 332,
+          "dwell_ms": 182,
+          "reselect_count": 3,
+          "hover_ms": 111,
+          "scrub_px": 46
+        },
+        "tempo": {
+          "gap_prev_ms": 259,
+          "apm_rolling": 47.6,
+          "velocity_px_s": 499.3
+        }
+      },
+      {
+        "text": "group gallery, modern-art",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:24:39.797018Z",
+        "action": "group",
+        "itemType": "note",
+        "items": [
+          "shape:9840acb70c",
+          "shape:c12bbaafd8",
+          "shape:18fd579550"
+        ],
+        "content": {
+          "text": "gallery, modern-art",
+          "imageUrls": [
+            "https://picsum.photos/seed/gallery-0/800/600",
+            "https://picsum.photos/seed/modern-art-1/800/600",
+            "https://picsum.photos/seed/gallery-2/800/600"
+          ],
+          "tags": [
+            "gallery",
+            "modern-art"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 457,
+          "dwell_ms": 266,
+          "reselect_count": 0,
+          "hover_ms": 76,
+          "scrub_px": 6
+        },
+        "tempo": {
+          "gap_prev_ms": 664,
+          "apm_rolling": 28.4,
+          "velocity_px_s": 282.1
+        }
+      },
+      {
+        "text": "edit festival, music",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:24:49.797018Z",
+        "action": "edit",
+        "itemType": "image",
+        "items": [
+          "shape:a06eb9bac8",
+          "shape:28748e029c",
+          "shape:79e5369f91"
+        ],
+        "content": {
+          "text": "festival, music",
+          "imageUrls": [
+            "https://picsum.photos/seed/festival-0/800/600",
+            "https://picsum.photos/seed/music-1/800/600",
+            "https://picsum.photos/seed/festival-2/800/600"
+          ],
+          "tags": [
+            "festival",
+            "music"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 768,
+          "dwell_ms": 256,
+          "reselect_count": 0,
+          "hover_ms": 189,
+          "scrub_px": 7
+        },
+        "tempo": {
+          "gap_prev_ms": 995,
+          "apm_rolling": 39.9,
+          "velocity_px_s": 480.1
+        }
+      },
+      {
+        "text": "link train-pass, tickets",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:24:59.797018Z",
+        "action": "link",
+        "itemType": "cluster",
+        "items": [
+          "shape:10df442267",
+          "shape:2b5ae9ef25",
+          "shape:dee323591d"
+        ],
+        "content": {
+          "text": "train-pass, tickets",
+          "imageUrls": [
+            "https://picsum.photos/seed/train-pass-0/800/600"
+          ],
+          "tags": [
+            "train-pass",
+            "tickets"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 505,
+          "dwell_ms": 317,
+          "reselect_count": 3,
+          "hover_ms": 41,
+          "scrub_px": 46
+        },
+        "tempo": {
+          "gap_prev_ms": 525,
+          "apm_rolling": 17.3,
+          "velocity_px_s": 181.0
+        }
+      },
+      {
+        "text": "draw souvenir, handmade",
+        "actor": 0,
+        "timestamp": "2025-10-31T02:25:09.797018Z",
+        "action": "draw",
+        "itemType": "note",
+        "items": [
+          "shape:1a67b85c3a"
+        ],
+        "content": {
+          "text": "souvenir, handmade",
+          "imageUrls": [
+            "https://picsum.photos/seed/souvenir-0/800/600",
+            "https://picsum.photos/seed/handmade-1/800/600",
+            "https://picsum.photos/seed/souvenir-2/800/600"
+          ],
+          "tags": [
+            "souvenir",
+            "handmade"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 771,
+          "dwell_ms": 154,
+          "reselect_count": 3,
+          "hover_ms": 188,
+          "scrub_px": 22
+        },
+        "tempo": {
+          "gap_prev_ms": 519,
+          "apm_rolling": 31.3,
+          "velocity_px_s": 182.9
+        }
+      },
+      {
+        "text": "add_note coast, cliffs",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:25:19.797018Z",
+        "action": "add_note",
+        "itemType": "image",
+        "items": [
+          "shape:5adca50d6e"
+        ],
+        "content": {
+          "text": "coast, cliffs",
+          "imageUrls": [
+            "https://picsum.photos/seed/coast-0/800/600"
+          ],
+          "tags": [
+            "coast",
+            "cliffs"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 639,
+          "dwell_ms": 463,
+          "reselect_count": 1,
+          "hover_ms": 131,
+          "scrub_px": 12
+        },
+        "tempo": {
+          "gap_prev_ms": 1891,
+          "apm_rolling": 43.3,
+          "velocity_px_s": 133.4
+        }
+      },
+      {
+        "text": "highlight oldtown, cobbled-streets",
+        "actor": 2,
+        "timestamp": "2025-10-31T02:25:29.797018Z",
+        "action": "highlight",
+        "itemType": "cluster",
+        "items": [
+          "shape:6422068e46"
+        ],
+        "content": {
+          "text": "oldtown, cobbled-streets",
+          "imageUrls": [
+            "https://picsum.photos/seed/oldtown-0/800/600",
+            "https://picsum.photos/seed/cobbled-streets-1/800/600"
+          ],
+          "tags": [
+            "oldtown",
+            "cobbled-streets"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 700,
+          "dwell_ms": 246,
+          "reselect_count": 2,
+          "hover_ms": 159,
+          "scrub_px": 26
+        },
+        "tempo": {
+          "gap_prev_ms": 1908,
+          "apm_rolling": 15.8,
+          "velocity_px_s": 556.8
+        }
+      }
+    ],
+    "links": {
+      "0": {},
+      "1": {
+        "0": 0.7835149765014648
+      },
+      "2": {
+        "0": 0.7925708889961243,
+        "1": 0.707466721534729
+      },
+      "3": {
+        "0": 0.8582936525344849,
+        "1": 0.7279788255691528,
+        "2": 0.7468934655189514
+      },
+      "4": {
+        "0": 0.7348419427871704,
+        "1": 0.8050873279571533,
+        "2": 0.7519460320472717,
+        "3": 0.7239139080047607
+      },
+      "5": {
+        "0": 0.7124657034873962,
+        "1": 0.7350856065750122,
+        "2": 0.696118950843811,
+        "3": 0.6861971616744995,
+        "4": 0.7189213633537292
+      },
+      "6": {
+        "0": 0.6776503920555115,
+        "1": 0.7068639397621155,
+        "2": 0.6523248553276062,
+        "3": 0.6528515219688416,
+        "4": 0.7109482288360596,
+        "5": 0.6087093353271484
+      },
+      "7": {
+        "0": 0.801613450050354,
+        "1": 0.7446260452270508,
+        "2": 0.7340632677078247,
+        "3": 0.7856878042221069,
+        "4": 0.7559650540351868,
+        "5": 0.7116857171058655,
+        "6": 0.6396152973175049
+      },
+      "8": {
+        "0": 0.7785384058952332,
+        "1": 0.7074848413467407,
+        "2": 0.7883268594741821,
+        "3": 0.7028285264968872,
+        "4": 0.7349408864974976,
+        "5": 0.7212778925895691,
+        "6": 0.665179967880249,
+        "7": 0.7750167846679688
+      },
+      "9": {
+        "0": 0.8213053941726685,
+        "1": 0.7275009751319885,
+        "2": 0.7289282083511353,
+        "3": 0.8505039215087891,
+        "4": 0.6792282462120056,
+        "5": 0.6849850416183472,
+        "6": 0.6298508644104004,
+        "7": 0.7430914640426636,
+        "8": 0.6794813275337219
+      },
+      "10": {
+        "0": 0.750862717628479,
+        "1": 0.655552089214325,
+        "2": 0.7289546132087708,
+        "3": 0.8047481179237366,
+        "4": 0.68683260679245,
+        "5": 0.6599501371383667,
+        "6": 0.6153641939163208,
+        "7": 0.7773182392120361,
+        "8": 0.717958390712738,
+        "9": 0.6723748445510864
+      },
+      "11": {
+        "0": 0.6697959899902344,
+        "1": 0.7881333231925964,
+        "2": 0.6794514656066895,
+        "3": 0.6755755543708801,
+        "4": 0.8149279952049255,
+        "5": 0.6742469072341919,
+        "6": 0.5902501940727234,
+        "7": 0.6732872128486633,
+        "8": 0.6242554783821106,
+        "9": 0.6806700825691223,
+        "10": 0.5794774293899536
+      },
+      "12": {
+        "0": 0.7629559636116028,
+        "1": 0.7229903340339661,
+        "2": 0.7039047479629517,
+        "3": 0.7242891788482666,
+        "4": 0.7318357825279236,
+        "5": 0.817474365234375,
+        "6": 0.6088430285453796,
+        "7": 0.7781305313110352,
+        "8": 0.7811280488967896,
+        "9": 0.6944576501846313,
+        "10": 0.7206407785415649,
+        "11": 0.6498948931694031
+      },
+      "13": {
+        "0": 0.7812435626983643,
+        "1": 0.775095522403717,
+        "2": 0.7328181862831116,
+        "3": 0.7300599217414856,
+        "4": 0.7132946848869324,
+        "5": 0.6837931871414185,
+        "6": 0.6794240474700928,
+        "7": 0.743319034576416,
+        "8": 0.7443311214447021,
+        "9": 0.6931219100952148,
+        "10": 0.6827976107597351,
+        "11": 0.6368932127952576,
+        "12": 0.7150774002075195
+      },
+      "14": {
+        "0": 0.7866072058677673,
+        "1": 0.7382593154907227,
+        "2": 0.7688174247741699,
+        "3": 0.735443115234375,
+        "4": 0.7366904020309448,
+        "5": 0.7142061591148376,
+        "6": 0.7665229439735413,
+        "7": 0.7953552007675171,
+        "8": 0.7814108729362488,
+        "9": 0.7205631136894226,
+        "10": 0.7133667469024658,
+        "11": 0.6558539867401123,
+        "12": 0.7374414205551147,
+        "13": 0.7509166598320007
+      },
+      "15": {
+        "0": 0.6368926763534546,
+        "1": 0.5666778087615967,
+        "2": 0.7310160994529724,
+        "3": 0.5755577087402344,
+        "4": 0.6134955286979675,
+        "5": 0.5791414976119995,
+        "6": 0.5958811640739441,
+        "7": 0.6236737370491028,
+        "8": 0.6849708557128906,
+        "9": 0.5718417167663574,
+        "10": 0.5419764518737793,
+        "11": 0.5067722201347351,
+        "12": 0.5950297117233276,
+        "13": 0.619649350643158,
+        "14": 0.6901780366897583
+      },
+      "16": {
+        "0": 0.6090880632400513,
+        "1": 0.6491016149520874,
+        "2": 0.6692187786102295,
+        "3": 0.6455274820327759,
+        "4": 0.6497042775154114,
+        "5": 0.6994583606719971,
+        "6": 0.6005507707595825,
+        "7": 0.6243862509727478,
+        "8": 0.6305429935455322,
+        "9": 0.6560420989990234,
+        "10": 0.5884823203086853,
+        "11": 0.6310232877731323,
+        "12": 0.691226065158844,
+        "13": 0.6369968056678772,
+        "14": 0.6696369051933289,
+        "15": 0.5642334222793579
+      },
+      "17": {
+        "0": 0.7930353283882141,
+        "1": 0.7581791877746582,
+        "2": 0.7610195279121399,
+        "3": 0.7952693700790405,
+        "4": 0.7828274965286255,
+        "5": 0.7255994081497192,
+        "6": 0.6635907292366028,
+        "7": 0.8677180409431458,
+        "8": 0.7856611609458923,
+        "9": 0.7255961298942566,
+        "10": 0.7765175104141235,
+        "11": 0.6836231350898743,
+        "12": 0.7803888916969299,
+        "13": 0.751012921333313,
+        "14": 0.7893904447555542,
+        "15": 0.6467599868774414,
+        "16": 0.6461107134819031
+      },
+      "18": {
+        "0": 0.8157974481582642,
+        "1": 0.7425945401191711,
+        "2": 0.7809616923332214,
+        "3": 0.7901503443717957,
+        "4": 0.7430965900421143,
+        "5": 0.7230525612831116,
+        "6": 0.6378116011619568,
+        "7": 0.8351320624351501,
+        "8": 0.820579469203949,
+        "9": 0.7296801805496216,
+        "10": 0.7409073710441589,
+        "11": 0.6454190015792847,
+        "12": 0.7737758755683899,
+        "13": 0.7320945858955383,
+        "14": 0.7751797437667847,
+        "15": 0.6364952325820923,
+        "16": 0.6539309620857239,
+        "17": 0.8611930012702942
+      },
+      "19": {
+        "0": 0.7665013670921326,
+        "1": 0.7215069532394409,
+        "2": 0.7373367547988892,
+        "3": 0.7540384531021118,
+        "4": 0.7434130311012268,
+        "5": 0.7517527937889099,
+        "6": 0.6339385509490967,
+        "7": 0.84625244140625,
+        "8": 0.7728294134140015,
+        "9": 0.742027223110199,
+        "10": 0.752587616443634,
+        "11": 0.6428650617599487,
+        "12": 0.7952913045883179,
+        "13": 0.7190770506858826,
+        "14": 0.7603131532669067,
+        "15": 0.6440499424934387,
+        "16": 0.657694399356842,
+        "17": 0.8669774532318115,
+        "18": 0.8510205745697021
+      },
+      "20": {
+        "0": 0.7205812931060791,
+        "1": 0.6440373063087463,
+        "2": 0.6383471488952637,
+        "3": 0.7659178972244263,
+        "4": 0.6750484704971313,
+        "5": 0.6504361033439636,
+        "6": 0.5827347636222839,
+        "7": 0.7083890438079834,
+        "8": 0.6528373956680298,
+        "9": 0.6807241439819336,
+        "10": 0.7042706608772278,
+        "11": 0.622288167476654,
+        "12": 0.6570848226547241,
+        "13": 0.6719766855239868,
+        "14": 0.6677414178848267,
+        "15": 0.522558331489563,
+        "16": 0.5889345407485962,
+        "17": 0.7108187079429626,
+        "18": 0.689078152179718,
+        "19": 0.6738455295562744
+      },
+      "21": {
+        "0": 0.7608017921447754,
+        "1": 0.7910330295562744,
+        "2": 0.7344462275505066,
+        "3": 0.7174702882766724,
+        "4": 0.751343846321106,
+        "5": 0.675371527671814,
+        "6": 0.7596988677978516,
+        "7": 0.7477894425392151,
+        "8": 0.7270702123641968,
+        "9": 0.7011532187461853,
+        "10": 0.6857360601425171,
+        "11": 0.6822084784507751,
+        "12": 0.68422931432724,
+        "13": 0.7498988509178162,
+        "14": 0.8440035581588745,
+        "15": 0.6296310424804688,
+        "16": 0.6261007189750671,
+        "17": 0.7610077857971191,
+        "18": 0.7591197490692139,
+        "19": 0.7518864274024963,
+        "20": 0.6427672505378723
+      },
+      "22": {
+        "0": 0.7359852194786072,
+        "1": 0.8641560673713684,
+        "2": 0.6950108408927917,
+        "3": 0.7234445810317993,
+        "4": 0.7257075905799866,
+        "5": 0.7535669207572937,
+        "6": 0.7052704691886902,
+        "7": 0.7572495937347412,
+        "8": 0.6914173364639282,
+        "9": 0.7494335770606995,
+        "10": 0.657854437828064,
+        "11": 0.7385025024414062,
+        "12": 0.7226380705833435,
+        "13": 0.7071968913078308,
+        "14": 0.726282000541687,
+        "15": 0.6018885374069214,
+        "16": 0.6713431477546692,
+        "17": 0.7429967522621155,
+        "18": 0.7207279205322266,
+        "19": 0.7352381348609924,
+        "20": 0.6258289813995361,
+        "21": 0.7350024580955505
+      },
+      "23": {
+        "0": 0.7570040822029114,
+        "1": 0.6958221197128296,
+        "2": 0.7615237832069397,
+        "3": 0.7742252945899963,
+        "4": 0.7957937717437744,
+        "5": 0.7143945097923279,
+        "6": 0.6013804078102112,
+        "7": 0.7542554140090942,
+        "8": 0.7259277105331421,
+        "9": 0.7370402812957764,
+        "10": 0.6967005133628845,
+        "11": 0.7548612952232361,
+        "12": 0.7348923683166504,
+        "13": 0.6842136383056641,
+        "14": 0.7198769450187683,
+        "15": 0.58863365650177,
+        "16": 0.662109911441803,
+        "17": 0.7605875730514526,
+        "18": 0.7590338587760925,
+        "19": 0.7595306038856506,
+        "20": 0.6783824563026428,
+        "21": 0.6766732335090637,
+        "22": 0.6976885795593262
+      },
+      "24": {
+        "0": 0.735571026802063,
+        "1": 0.6932135224342346,
+        "2": 0.7612815499305725,
+        "3": 0.7327055335044861,
+        "4": 0.7410498857498169,
+        "5": 0.7492114305496216,
+        "6": 0.6315900087356567,
+        "7": 0.7835020422935486,
+        "8": 0.7451808452606201,
+        "9": 0.7135365605354309,
+        "10": 0.7844582200050354,
+        "11": 0.6424512267112732,
+        "12": 0.7688112854957581,
+        "13": 0.702398419380188,
+        "14": 0.7705045938491821,
+        "15": 0.6016007661819458,
+        "16": 0.7038190364837646,
+        "17": 0.799934446811676,
+        "18": 0.7693941593170166,
+        "19": 0.7864730358123779,
+        "20": 0.6804300546646118,
+        "21": 0.728102445602417,
+        "22": 0.685767412185669,
+        "23": 0.7408986687660217
+      },
+      "25": {
+        "0": 0.8384804725646973,
+        "1": 0.8166021108627319,
+        "2": 0.7652997374534607,
+        "3": 0.7592711448669434,
+        "4": 0.7730404138565063,
+        "5": 0.7265568375587463,
+        "6": 0.6921849250793457,
+        "7": 0.8215917348861694,
+        "8": 0.7988661527633667,
+        "9": 0.7239154577255249,
+        "10": 0.7641701698303223,
+        "11": 0.65399569272995,
+        "12": 0.7752976417541504,
+        "13": 0.8301608562469482,
+        "14": 0.7927892804145813,
+        "15": 0.6369733214378357,
+        "16": 0.648565948009491,
+        "17": 0.831648588180542,
+        "18": 0.8166019320487976,
+        "19": 0.7994897961616516,
+        "20": 0.6879391670227051,
+        "21": 0.7715339064598083,
+        "22": 0.7641381025314331,
+        "23": 0.7417876720428467,
+        "24": 0.7784714102745056
+      },
+      "26": {
+        "0": 0.7156222462654114,
+        "1": 0.679779589176178,
+        "2": 0.6753827333450317,
+        "3": 0.7032158374786377,
+        "4": 0.6861940622329712,
+        "5": 0.7310444712638855,
+        "6": 0.5691882967948914,
+        "7": 0.7678506970405579,
+        "8": 0.7705795764923096,
+        "9": 0.6793973445892334,
+        "10": 0.6893541812896729,
+        "11": 0.6044806838035583,
+        "12": 0.7728890180587769,
+        "13": 0.6608117818832397,
+        "14": 0.6875299215316772,
+        "15": 0.5415124893188477,
+        "16": 0.6118676662445068,
+        "17": 0.7941887974739075,
+        "18": 0.8270695805549622,
+        "19": 0.7809610366821289,
+        "20": 0.636469841003418,
+        "21": 0.6718443036079407,
+        "22": 0.6787853240966797,
+        "23": 0.7230220437049866,
+        "24": 0.7031338214874268,
+        "25": 0.7375878691673279
+      },
+      "27": {
+        "0": 0.7685991525650024,
+        "1": 0.724661111831665,
+        "2": 0.7466275095939636,
+        "3": 0.7474775314331055,
+        "4": 0.744558572769165,
+        "5": 0.6997477412223816,
+        "6": 0.6621665358543396,
+        "7": 0.8023259043693542,
+        "8": 0.7527684569358826,
+        "9": 0.7783693671226501,
+        "10": 0.7546389698982239,
+        "11": 0.6249745488166809,
+        "12": 0.7460286617279053,
+        "13": 0.7209747433662415,
+        "14": 0.7635555267333984,
+        "15": 0.6121939420700073,
+        "16": 0.649092972278595,
+        "17": 0.8123055100440979,
+        "18": 0.7933662533760071,
+        "19": 0.8279395699501038,
+        "20": 0.7063919305801392,
+        "21": 0.7389655113220215,
+        "22": 0.722066342830658,
+        "23": 0.6955191493034363,
+        "24": 0.7847162485122681,
+        "25": 0.7961525321006775,
+        "26": 0.7265828847885132
+      },
+      "28": {
+        "0": 0.7670725584030151,
+        "1": 0.7352451682090759,
+        "2": 0.736343264579773,
+        "3": 0.7489153742790222,
+        "4": 0.7575013637542725,
+        "5": 0.7018189430236816,
+        "6": 0.7545390129089355,
+        "7": 0.7659826278686523,
+        "8": 0.7316035628318787,
+        "9": 0.7429189682006836,
+        "10": 0.6826550364494324,
+        "11": 0.6907978057861328,
+        "12": 0.6947202086448669,
+        "13": 0.7515078783035278,
+        "14": 0.8378884792327881,
+        "15": 0.6056963205337524,
+        "16": 0.7022697329521179,
+        "17": 0.7671412229537964,
+        "18": 0.7488378882408142,
+        "19": 0.7362383008003235,
+        "20": 0.6980098485946655,
+        "21": 0.809325098991394,
+        "22": 0.7116602659225464,
+        "23": 0.7446751594543457,
+        "24": 0.736070990562439,
+        "25": 0.7615839838981628,
+        "26": 0.6906857490539551,
+        "27": 0.7210851311683655
+      },
+      "29": {
+        "0": 0.7494106888771057,
+        "1": 0.6790423393249512,
+        "2": 0.700652003288269,
+        "3": 0.7483285665512085,
+        "4": 0.6919844150543213,
+        "5": 0.7005330920219421,
+        "6": 0.6272331476211548,
+        "7": 0.7641334533691406,
+        "8": 0.7553698420524597,
+        "9": 0.677150547504425,
+        "10": 0.7297667860984802,
+        "11": 0.6044980883598328,
+        "12": 0.7144553661346436,
+        "13": 0.7033195495605469,
+        "14": 0.7431829571723938,
+        "15": 0.5961482524871826,
+        "16": 0.5946542620658875,
+        "17": 0.7524344325065613,
+        "18": 0.7395402789115906,
+        "19": 0.7286697626113892,
+        "20": 0.6715977191925049,
+        "21": 0.6734468936920166,
+        "22": 0.666153609752655,
+        "23": 0.6781842112541199,
+        "24": 0.6885495185852051,
+        "25": 0.7359402179718018,
+        "26": 0.6391529440879822,
+        "27": 0.7223491072654724,
+        "28": 0.6808189749717712
+      }
+    },
+    "modality": [
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text",
+      "text"
+    ],
+    "model": "openai/clip-vit-base-patch32"
+  }
+}

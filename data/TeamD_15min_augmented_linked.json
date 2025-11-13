@@ -1,0 +1,946 @@
+{
+  "TeamDaugmented": {
+    "moves": [
+      {
+        "text": "A: tossing in hiking and city—just exploring.",
+        "actor": 0,
+        "timestamp": "2025-04-16T23:46:16.753Z",
+        "action": "edit",
+        "itemType": "cluster",
+        "items": [
+          "shape:a1b2c3d4e5"
+        ],
+        "content": {
+          "text": "hiking, city",
+          "imageUrls": [],
+          "tags": [
+            "hiking",
+            "city"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 512,
+          "dwell_ms": 210,
+          "reselect_count": 0,
+          "hover_ms": 88,
+          "scrub_px": 12,
+          "dx": 6,
+          "dy": 3
+        },
+        "tempo": {
+          "gap_prev_ms": null,
+          "apm_rolling": 41.2,
+          "velocity_px_s": null
+        }
+      },
+      {
+        "text": "B: quick note on museum; also food near art.",
+        "actor": 1,
+        "timestamp": "2025-04-16T23:47:01.753Z",
+        "action": "add_note",
+        "itemType": "note",
+        "items": [
+          "shape:f1e2d3c4b5",
+          "shape:99aa77bbcc"
+        ],
+        "content": {
+          "text": "museum, food, art",
+          "imageUrls": [],
+          "tags": [
+            "museum",
+            "food",
+            "art"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 286,
+          "dwell_ms": 330,
+          "reselect_count": 1,
+          "hover_ms": 60,
+          "scrub_px": 8,
+          "dx": -10,
+          "dy": 14
+        },
+        "tempo": {
+          "gap_prev_ms": 45000,
+          "apm_rolling": 43.0,
+          "velocity_px_s": null
+        }
+      },
+      {
+        "text": "C: highlight beach so we can cluster later.",
+        "actor": 2,
+        "timestamp": "2025-04-16T23:47:46.753Z",
+        "action": "highlight",
+        "itemType": "image",
+        "items": [
+          "shape:beach00001"
+        ],
+        "content": {
+          "text": "beach",
+          "imageUrls": [],
+          "tags": [
+            "beach"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 463,
+          "dwell_ms": 190,
+          "reselect_count": 0,
+          "hover_ms": 75,
+          "scrub_px": 3,
+          "dx": 18,
+          "dy": -5
+        },
+        "tempo": {
+          "gap_prev_ms": 45000,
+          "apm_rolling": 40.8,
+          "velocity_px_s": null
+        }
+      },
+      {
+        "text": "A: quick note on nature; also hiking near city.",
+        "actor": 0,
+        "timestamp": "2025-04-16T23:48:31.753Z",
+        "action": "add_note",
+        "itemType": "note",
+        "items": [
+          "shape:nat0001",
+          "shape:hike0002"
+        ],
+        "content": {
+          "text": "nature, hiking, city",
+          "imageUrls": [],
+          "tags": [
+            "nature",
+            "hiking",
+            "city"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 372,
+          "dwell_ms": 270,
+          "reselect_count": 2,
+          "hover_ms": 90,
+          "scrub_px": 20,
+          "dx": -6,
+          "dy": 9
+        },
+        "tempo": {
+          "gap_prev_ms": 45000,
+          "apm_rolling": 42.3,
+          "velocity_px_s": null
+        }
+      },
+      {
+        "text": "B: tossing in museum and art—just exploring.",
+        "actor": 1,
+        "timestamp": "2025-04-16T23:49:16.753Z",
+        "action": "edit",
+        "itemType": "cluster",
+        "items": [
+          "shape:msm0003",
+          "shape:art0004"
+        ],
+        "content": {
+          "text": "museum, art",
+          "imageUrls": [],
+          "tags": [
+            "museum",
+            "art"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 601,
+          "dwell_ms": 190,
+          "reselect_count": 0,
+          "hover_ms": 40,
+          "scrub_px": 10,
+          "dx": 3,
+          "dy": 2
+        },
+        "tempo": {
+          "gap_prev_ms": 45000,
+          "apm_rolling": 41.5,
+          "velocity_px_s": null
+        }
+      },
+      {
+        "text": "C: highlight food so we can cluster later.",
+        "actor": 2,
+        "timestamp": "2025-04-16T23:50:01.753Z",
+        "action": "highlight",
+        "itemType": "image",
+        "items": [
+          "shape:food0005"
+        ],
+        "content": {
+          "text": "food",
+          "imageUrls": [],
+          "tags": [
+            "food"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 428,
+          "dwell_ms": 180,
+          "reselect_count": 0,
+          "hover_ms": 55,
+          "scrub_px": 6,
+          "dx": -8,
+          "dy": 2
+        },
+        "tempo": {
+          "gap_prev_ms": 45000,
+          "apm_rolling": 39.6,
+          "velocity_px_s": null
+        }
+      },
+      {
+        "text": "A: grouping budget/route under logistics; tickets later.",
+        "actor": 0,
+        "timestamp": "2025-04-16T23:50:46.753Z",
+        "action": "group",
+        "itemType": "cluster",
+        "items": [
+          "shape:bud0006",
+          "shape:rte0007",
+          "shape:tkt0008"
+        ],
+        "content": {
+          "text": "budget, route, tickets",
+          "imageUrls": [],
+          "tags": [
+            "budget",
+            "route",
+            "tickets"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 540,
+          "dwell_ms": 310,
+          "reselect_count": 1,
+          "hover_ms": 110,
+          "scrub_px": 14,
+          "dx": 11,
+          "dy": -12
+        },
+        "tempo": {
+          "gap_prev_ms": 45000,
+          "apm_rolling": 33.8,
+          "velocity_px_s": null
+        }
+      },
+      {
+        "text": "B: link schedule to tickets—same thread as route.",
+        "actor": 1,
+        "timestamp": "2025-04-16T23:51:31.753Z",
+        "action": "link",
+        "itemType": "note",
+        "items": [
+          "shape:sch0009",
+          "shape:tkt0008"
+        ],
+        "content": {
+          "text": "schedule, tickets",
+          "imageUrls": [],
+          "tags": [
+            "schedule",
+            "tickets"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 351,
+          "dwell_ms": 225,
+          "reselect_count": 1,
+          "hover_ms": 84,
+          "scrub_px": 7,
+          "dx": 5,
+          "dy": 4
+        },
+        "tempo": {
+          "gap_prev_ms": 45000,
+          "apm_rolling": 34.2,
+          "velocity_px_s": null
+        }
+      },
+      {
+        "text": "C: removing duplicate city image; keeping the cleaner one.",
+        "actor": 2,
+        "timestamp": "2025-04-16T23:52:16.753Z",
+        "action": "delete",
+        "itemType": "image",
+        "items": [
+          "shape:citydup01"
+        ],
+        "content": {
+          "text": "city",
+          "imageUrls": [],
+          "tags": [
+            "city"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 284,
+          "dwell_ms": 180,
+          "reselect_count": 0,
+          "hover_ms": 40,
+          "scrub_px": 3,
+          "dx": -3,
+          "dy": 7
+        },
+        "tempo": {
+          "gap_prev_ms": 45000,
+          "apm_rolling": 32.9,
+          "velocity_px_s": null
+        }
+      },
+      {
+        "text": "A: grouping Alps/city under route; shortlist next.",
+        "actor": 0,
+        "timestamp": "2025-04-16T23:53:01.753Z",
+        "action": "group",
+        "itemType": "cluster",
+        "items": [
+          "shape:alps0010",
+          "shape:city0011"
+        ],
+        "content": {
+          "text": "Alps, city",
+          "imageUrls": [],
+          "tags": [
+            "Alps",
+            "city"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 470,
+          "dwell_ms": 260,
+          "reselect_count": 1,
+          "hover_ms": 70,
+          "scrub_px": 15,
+          "dx": 9,
+          "dy": -4
+        },
+        "tempo": {
+          "gap_prev_ms": 45000,
+          "apm_rolling": 33.7,
+          "velocity_px_s": null
+        }
+      },
+      {
+        "text": "B: link budget to route—confirming feasibility.",
+        "actor": 1,
+        "timestamp": "2025-04-16T23:53:46.753Z",
+        "action": "link",
+        "itemType": "note",
+        "items": [
+          "shape:bud0006",
+          "shape:rte0007"
+        ],
+        "content": {
+          "text": "budget, route",
+          "imageUrls": [],
+          "tags": [
+            "budget",
+            "route"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 420,
+          "dwell_ms": 210,
+          "reselect_count": 0,
+          "hover_ms": 60,
+          "scrub_px": 4,
+          "dx": 2,
+          "dy": 2
+        },
+        "tempo": {
+          "gap_prev_ms": 45000,
+          "apm_rolling": 34.5,
+          "velocity_px_s": null
+        }
+      },
+      {
+        "text": "C: add note—tickets window and evening arrivals.",
+        "actor": 2,
+        "timestamp": "2025-04-16T23:54:31.753Z",
+        "action": "add_note",
+        "itemType": "note",
+        "items": [
+          "shape:tkt0012"
+        ],
+        "content": {
+          "text": "tickets, evening",
+          "imageUrls": [],
+          "tags": [
+            "tickets",
+            "evening"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 388,
+          "dwell_ms": 240,
+          "reselect_count": 1,
+          "hover_ms": 65,
+          "scrub_px": 5,
+          "dx": -6,
+          "dy": 6
+        },
+        "tempo": {
+          "gap_prev_ms": 45000,
+          "apm_rolling": 32.0,
+          "velocity_px_s": null
+        }
+      },
+      {
+        "text": "A: shortlist is Alps, city; pushing beach.",
+        "actor": 0,
+        "timestamp": "2025-04-16T23:55:16.753Z",
+        "action": "highlight",
+        "itemType": "cluster",
+        "items": [
+          "shape:alps0010",
+          "shape:city0011"
+        ],
+        "content": {
+          "text": "shortlist, Alps, city",
+          "imageUrls": [],
+          "tags": [
+            "shortlist",
+            "Alps",
+            "city"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 590,
+          "dwell_ms": 210,
+          "reselect_count": 0,
+          "hover_ms": 70,
+          "scrub_px": 8,
+          "dx": 7,
+          "dy": -3
+        },
+        "tempo": {
+          "gap_prev_ms": 45000,
+          "apm_rolling": 24.6,
+          "velocity_px_s": null
+        }
+      },
+      {
+        "text": "B: lock route via city then Alps; budget ok.",
+        "actor": 1,
+        "timestamp": "2025-04-16T23:56:01.753Z",
+        "action": "edit",
+        "itemType": "cluster",
+        "items": [
+          "shape:rte0007"
+        ],
+        "content": {
+          "text": "route, city, Alps",
+          "imageUrls": [],
+          "tags": [
+            "route",
+            "city",
+            "Alps"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 330,
+          "dwell_ms": 300,
+          "reselect_count": 1,
+          "hover_ms": 95,
+          "scrub_px": 10,
+          "dx": 4,
+          "dy": 5
+        },
+        "tempo": {
+          "gap_prev_ms": 45000,
+          "apm_rolling": 25.1,
+          "velocity_px_s": null
+        }
+      },
+      {
+        "text": "C: final touch—highlight tickets for summary.",
+        "actor": 2,
+        "timestamp": "2025-04-16T23:56:46.753Z",
+        "action": "highlight",
+        "itemType": "note",
+        "items": [
+          "shape:tkt0012"
+        ],
+        "content": {
+          "text": "final, tickets",
+          "imageUrls": [],
+          "tags": [
+            "final",
+            "tickets"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 270,
+          "dwell_ms": 180,
+          "reselect_count": 0,
+          "hover_ms": 55,
+          "scrub_px": 4,
+          "dx": -2,
+          "dy": 1
+        },
+        "tempo": {
+          "gap_prev_ms": 45000,
+          "apm_rolling": 23.4,
+          "velocity_px_s": null
+        }
+      },
+      {
+        "text": "A: move shortlist near route to wrap up.",
+        "actor": 0,
+        "timestamp": "2025-04-16T23:57:31.753Z",
+        "action": "move",
+        "itemType": "image",
+        "items": [
+          "shape:short0013"
+        ],
+        "content": {
+          "text": "final, shortlist, route",
+          "imageUrls": [],
+          "tags": [
+            "final",
+            "shortlist",
+            "route"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 402,
+          "dwell_ms": 210,
+          "reselect_count": 1,
+          "hover_ms": 80,
+          "scrub_px": 18,
+          "dx": 20,
+          "dy": -10
+        },
+        "tempo": {
+          "gap_prev_ms": 45000,
+          "apm_rolling": 24.0,
+          "velocity_px_s": null
+        }
+      },
+      {
+        "text": "B: add note—morning departure, evening check-in.",
+        "actor": 1,
+        "timestamp": "2025-04-16T23:58:16.753Z",
+        "action": "add_note",
+        "itemType": "note",
+        "items": [
+          "shape:time0014"
+        ],
+        "content": {
+          "text": "morning, evening",
+          "imageUrls": [],
+          "tags": [
+            "morning",
+            "evening"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 360,
+          "dwell_ms": 250,
+          "reselect_count": 1,
+          "hover_ms": 60,
+          "scrub_px": 9,
+          "dx": 3,
+          "dy": 6
+        },
+        "tempo": {
+          "gap_prev_ms": 45000,
+          "apm_rolling": 23.1,
+          "velocity_px_s": null
+        }
+      },
+      {
+        "text": "C: ungroup backlog—city beach image goes out.",
+        "actor": 2,
+        "timestamp": "2025-04-16T23:59:01.753Z",
+        "action": "ungroup",
+        "itemType": "cluster",
+        "items": [
+          "shape:backlog01"
+        ],
+        "content": {
+          "text": "backlog, city, beach",
+          "imageUrls": [],
+          "tags": [
+            "backlog",
+            "city",
+            "beach"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 318,
+          "dwell_ms": 230,
+          "reselect_count": 0,
+          "hover_ms": 52,
+          "scrub_px": 5,
+          "dx": -5,
+          "dy": 2
+        },
+        "tempo": {
+          "gap_prev_ms": 45000,
+          "apm_rolling": 22.5,
+          "velocity_px_s": null
+        }
+      },
+      {
+        "text": "A: final touch—highlight shortlist for summary slide.",
+        "actor": 0,
+        "timestamp": "2025-04-16T23:59:46.753Z",
+        "action": "highlight",
+        "itemType": "image",
+        "items": [
+          "shape:short0013"
+        ],
+        "content": {
+          "text": "final, shortlist",
+          "imageUrls": [],
+          "tags": [
+            "final",
+            "shortlist"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 510,
+          "dwell_ms": 200,
+          "reselect_count": 0,
+          "hover_ms": 78,
+          "scrub_px": 6,
+          "dx": 8,
+          "dy": -4
+        },
+        "tempo": {
+          "gap_prev_ms": 45000,
+          "apm_rolling": 22.0,
+          "velocity_px_s": null
+        }
+      },
+      {
+        "text": "B: lock route via city then Alps; confirm budget again.",
+        "actor": 1,
+        "timestamp": "2025-04-17T00:00:31.753Z",
+        "action": "edit",
+        "itemType": "cluster",
+        "items": [
+          "shape:rte0007",
+          "shape:bud0006"
+        ],
+        "content": {
+          "text": "route, budget",
+          "imageUrls": [],
+          "tags": [
+            "route",
+            "budget"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 404,
+          "dwell_ms": 260,
+          "reselect_count": 1,
+          "hover_ms": 66,
+          "scrub_px": 10,
+          "dx": 2,
+          "dy": 3
+        },
+        "tempo": {
+          "gap_prev_ms": 45000,
+          "apm_rolling": 21.6,
+          "velocity_px_s": null
+        }
+      },
+      {
+        "text": "C: draw final note—tickets synced with morning departure.",
+        "actor": 2,
+        "timestamp": "2025-04-17T00:01:16.753Z",
+        "action": "draw",
+        "itemType": "note",
+        "items": [
+          "shape:finaltick01"
+        ],
+        "content": {
+          "text": "final, tickets, morning",
+          "imageUrls": [],
+          "tags": [
+            "final",
+            "tickets",
+            "morning"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 296,
+          "dwell_ms": 240,
+          "reselect_count": 0,
+          "hover_ms": 58,
+          "scrub_px": 7,
+          "dx": -4,
+          "dy": 5
+        },
+        "tempo": {
+          "gap_prev_ms": 45000,
+          "apm_rolling": 21.0,
+          "velocity_px_s": null
+        }
+      }
+    ],
+    "links": {
+      "0": {},
+      "1": {
+        "0": 0.30374497175216675
+      },
+      "2": {
+        "0": 0.2603772282600403,
+        "1": 0.37797847390174866
+      },
+      "3": {
+        "0": 0.7110855579376221,
+        "1": 0.5456289052963257,
+        "2": 0.37057584524154663
+      },
+      "4": {
+        "0": 0.5782970190048218,
+        "1": 0.6325089931488037,
+        "2": 0.27023202180862427,
+        "3": 0.3338944911956787
+      },
+      "5": {
+        "0": 0.16468015313148499,
+        "1": 0.5261102914810181,
+        "2": 0.7358614206314087,
+        "3": 0.2994941174983978,
+        "4": 0.2781766951084137
+      },
+      "6": {
+        "0": 0.2675832509994507,
+        "1": 0.18223929405212402,
+        "2": 0.2402709573507309,
+        "3": 0.20549601316452026,
+        "4": 0.22462233901023865,
+        "5": 0.2820097804069519
+      },
+      "7": {
+        "0": 0.15260231494903564,
+        "1": 0.22333204746246338,
+        "2": 0.29121094942092896,
+        "3": 0.17080412805080414,
+        "4": 0.21538543701171875,
+        "5": 0.2830381989479065,
+        "6": 0.5497473478317261
+      },
+      "8": {
+        "0": 0.2115413248538971,
+        "1": 0.21878209710121155,
+        "2": 0.33378148078918457,
+        "3": 0.24053043127059937,
+        "4": 0.20277059078216553,
+        "5": 0.2984304428100586,
+        "6": 0.059094108641147614,
+        "7": 0.12332543730735779
+      },
+      "9": {
+        "0": 0.36569109559059143,
+        "1": 0.3080366253852844,
+        "2": 0.4113949239253998,
+        "3": 0.5088735222816467,
+        "4": 0.16454991698265076,
+        "5": 0.3616141378879547,
+        "6": 0.454163134098053,
+        "7": 0.3894173502922058,
+        "8": 0.299346923828125
+      },
+      "10": {
+        "0": 0.24737930297851562,
+        "1": 0.21205002069473267,
+        "2": 0.25203537940979004,
+        "3": 0.25150561332702637,
+        "4": 0.2153836041688919,
+        "5": 0.21120670437812805,
+        "6": 0.6340439915657043,
+        "7": 0.6373493075370789,
+        "8": 0.09876178950071335,
+        "9": 0.40868520736694336
+      },
+      "11": {
+        "0": 0.1499498188495636,
+        "1": 0.388578325510025,
+        "2": 0.3824945390224457,
+        "3": 0.2483264058828354,
+        "4": 0.28246980905532837,
+        "5": 0.4436968266963959,
+        "6": 0.43220409750938416,
+        "7": 0.5191539525985718,
+        "8": 0.20744013786315918,
+        "9": 0.24422886967658997,
+        "10": 0.24263235926628113
+      },
+      "12": {
+        "0": 0.4653196334838867,
+        "1": 0.3885791003704071,
+        "2": 0.47578004002571106,
+        "3": 0.5738509893417358,
+        "4": 0.29023870825767517,
+        "5": 0.23744827508926392,
+        "6": 0.22167623043060303,
+        "7": 0.2292454093694687,
+        "8": 0.21594256162643433,
+        "9": 0.7302324771881104,
+        "10": 0.2362690418958664,
+        "11": 0.15271706879138947
+      },
+      "13": {
+        "0": 0.36135953664779663,
+        "1": 0.28339242935180664,
+        "2": 0.315664678812027,
+        "3": 0.40242859721183777,
+        "4": 0.23013876378536224,
+        "5": 0.21616524457931519,
+        "6": 0.44361329078674316,
+        "7": 0.44713324308395386,
+        "8": 0.28285372257232666,
+        "9": 0.6458584666252136,
+        "10": 0.5931837558746338,
+        "11": 0.2691507935523987,
+        "12": 0.5611244440078735
+      },
+      "14": {
+        "0": 0.22506405413150787,
+        "1": 0.27834251523017883,
+        "2": 0.4557467997074127,
+        "3": 0.20806974172592163,
+        "4": 0.3153124153614044,
+        "5": 0.4263240098953247,
+        "6": 0.3715759515762329,
+        "7": 0.42212533950805664,
+        "8": 0.18387138843536377,
+        "9": 0.20372852683067322,
+        "10": 0.2495904564857483,
+        "11": 0.5596732497215271,
+        "12": 0.18513470888137817,
+        "13": 0.1539750099182129
+      },
+      "15": {
+        "0": 0.3097583055496216,
+        "1": 0.25452783703804016,
+        "2": 0.21658530831336975,
+        "3": 0.3740271031856537,
+        "4": 0.2556178569793701,
+        "5": 0.20561182498931885,
+        "6": 0.3680340647697449,
+        "7": 0.3664707839488983,
+        "8": 0.12891218066215515,
+        "9": 0.5825233459472656,
+        "10": 0.3995146155357361,
+        "11": 0.164028137922287,
+        "12": 0.48552507162094116,
+        "13": 0.3799803853034973,
+        "14": 0.16393110156059265
+      },
+      "16": {
+        "0": 0.19334934651851654,
+        "1": 0.41155552864074707,
+        "2": 0.32534220814704895,
+        "3": 0.33165907859802246,
+        "4": 0.31949180364608765,
+        "5": 0.32801494002342224,
+        "6": 0.28107208013534546,
+        "7": 0.45265689492225647,
+        "8": 0.17087623476982117,
+        "9": 0.3039977550506592,
+        "10": 0.2564648389816284,
+        "11": 0.7550567388534546,
+        "12": 0.2485608458518982,
+        "13": 0.3482810854911804,
+        "14": 0.3423387408256531,
+        "15": 0.2430310845375061
+      },
+      "17": {
+        "0": 0.2170318365097046,
+        "1": 0.19145941734313965,
+        "2": 0.5572192668914795,
+        "3": 0.21331536769866943,
+        "4": 0.23928706347942352,
+        "5": 0.3453674018383026,
+        "6": 0.16184154152870178,
+        "7": 0.17822915315628052,
+        "8": 0.4740305244922638,
+        "9": 0.301699697971344,
+        "10": 0.1377996802330017,
+        "11": 0.20018969476222992,
+        "12": 0.35600483417510986,
+        "13": 0.2181141972541809,
+        "14": 0.3190529942512512,
+        "15": 0.09033548831939697,
+        "16": 0.17609411478042603
+      },
+      "18": {
+        "0": 0.11686104536056519,
+        "1": 0.24695733189582825,
+        "2": 0.33258792757987976,
+        "3": 0.20982962846755981,
+        "4": 0.24538542330265045,
+        "5": 0.3576474189758301,
+        "6": 0.2261005938053131,
+        "7": 0.13364410400390625,
+        "8": 0.03852228447794914,
+        "9": 0.26976191997528076,
+        "10": 0.147948756814003,
+        "11": 0.23309841752052307,
+        "12": 0.26650047302246094,
+        "13": 0.046228960156440735,
+        "14": 0.614878237247467,
+        "15": 0.32392555475234985,
+        "16": 0.18640829622745514,
+        "17": 0.13643619418144226
+      },
+      "19": {
+        "0": 0.3338063657283783,
+        "1": 0.2739681601524353,
+        "2": 0.3159310221672058,
+        "3": 0.38392066955566406,
+        "4": 0.21917124092578888,
+        "5": 0.23299309611320496,
+        "6": 0.44476816058158875,
+        "7": 0.43835586309432983,
+        "8": 0.3031497299671173,
+        "9": 0.6162005066871643,
+        "10": 0.5825678110122681,
+        "11": 0.30644965171813965,
+        "12": 0.5290807485580444,
+        "13": 0.9519594311714172,
+        "14": 0.1840110421180725,
+        "15": 0.3632277548313141,
+        "16": 0.4026971459388733,
+        "17": 0.2490173727273941,
+        "18": 0.06088987737894058
+      },
+      "20": {
+        "0": 0.18812701106071472,
+        "1": 0.3143070936203003,
+        "2": 0.3485748767852783,
+        "3": 0.23265495896339417,
+        "4": 0.2880361080169678,
+        "5": 0.35580217838287354,
+        "6": 0.3743177056312561,
+        "7": 0.5726903676986694,
+        "8": 0.2111867070198059,
+        "9": 0.24965472519397736,
+        "10": 0.2784411311149597,
+        "11": 0.7429864406585693,
+        "12": 0.13078673183918,
+        "13": 0.2989141345024109,
+        "14": 0.6604915857315063,
+        "15": 0.23077328503131866,
+        "16": 0.6799821853637695,
+        "17": 0.27471989393234253,
+        "18": 0.267974853515625,
+        "19": 0.346842497587204
+      }
+    }
+  }
+}

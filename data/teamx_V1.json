@@ -1,0 +1,866 @@
+{
+  "TeamX": [
+    {
+      "text": "add_note Let's map a mellow Alps day-hike loop near Interlaken",
+      "actor": 0,
+      "action": "add-note",
+      "itemType": "note",
+      "items": [
+        "shape:a_hike1"
+      ],
+      "content": {
+        "text": "Day-hike loop near Interlaken (easy/moderate)",
+        "imageUrls": [
+          "https://picsum.photos/seed/interlaken-1/800/600"
+        ],
+        "tags": [
+          "alps",
+          "hike",
+          "loop",
+          "interlaken"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 322,
+        "dwell_ms": 380,
+        "reselect_count": 1,
+        "hover_ms": 92,
+        "scrub_px": 12
+      },
+      "tempo": {
+        "gap_prev_ms": 900,
+        "apm_rolling": 29.2,
+        "velocity_px_s": 318.4
+      },
+      "timestamp": "2025-10-31T02:20:25Z"
+    },
+    {
+      "text": "highlight Trail profile: gentle climb, lake overlook",
+      "actor": 1,
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:a_map1"
+      ],
+      "content": {
+        "text": "Trail profile & overlook spot",
+        "imageUrls": [
+          "https://picsum.photos/seed/alps-trail-2/800/600"
+        ],
+        "tags": [
+          "trail",
+          "profile",
+          "view"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 645,
+        "dwell_ms": 210,
+        "reselect_count": 0,
+        "hover_ms": 160,
+        "scrub_px": 22
+      },
+      "tempo": {
+        "gap_prev_ms": 1200,
+        "apm_rolling": 22.1,
+        "velocity_px_s": 284.3
+      },
+      "timestamp": "2025-10-31T02:20:47Z"
+    },
+    {
+      "text": "group Packing list: rain shell, mid-layer, snacks, water",
+      "actor": 2,
+      "action": "group",
+      "itemType": "cluster",
+      "items": [
+        "shape:a_pack1",
+        "shape:a_pack2",
+        "shape:a_pack3"
+      ],
+      "content": {
+        "text": "Packing list: shell, mid-layer, snacks, water",
+        "imageUrls": [
+          "https://picsum.photos/seed/pack-gear-7/800/600"
+        ],
+        "tags": [
+          "packing",
+          "shell",
+          "snacks",
+          "water"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 408,
+        "dwell_ms": 256,
+        "reselect_count": 2,
+        "hover_ms": 88,
+        "scrub_px": 9
+      },
+      "tempo": {
+        "gap_prev_ms": 1100,
+        "apm_rolling": 27.7,
+        "velocity_px_s": 356.1
+      },
+      "timestamp": "2025-10-31T02:21:13Z"
+    },
+    {
+      "text": "edit Add train times: Bern→Interlaken 08:04; return 18:12",
+      "actor": 0,
+      "action": "edit",
+      "itemType": "note",
+      "items": [
+        "shape:a_train1"
+      ],
+      "content": {
+        "text": "SBB times: Bern–Interlaken 08:04, back 18:12",
+        "imageUrls": [
+          "https://picsum.photos/seed/bern-train-1/800/600"
+        ],
+        "tags": [
+          "train",
+          "schedule"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 244,
+        "dwell_ms": 342,
+        "reselect_count": 1,
+        "hover_ms": 63,
+        "scrub_px": 14
+      },
+      "tempo": {
+        "gap_prev_ms": 1300,
+        "apm_rolling": 25.3,
+        "velocity_px_s": 221.7
+      },
+      "timestamp": "2025-10-31T02:21:43Z"
+    },
+    {
+      "text": "move Budget note closer to trains (tickets ~28 CHF pp)",
+      "actor": 1,
+      "action": "move",
+      "itemType": "note",
+      "items": [
+        "shape:a_budget1"
+      ],
+      "content": {
+        "text": "Tickets ≈ 28 CHF per person",
+        "imageUrls": [
+          "https://picsum.photos/seed/chf-28-1/800/600"
+        ],
+        "tags": [
+          "budget",
+          "tickets"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 538,
+        "dwell_ms": 168,
+        "reselect_count": 0,
+        "hover_ms": 98,
+        "scrub_px": 18
+      },
+      "tempo": {
+        "gap_prev_ms": 1000,
+        "apm_rolling": 34.8,
+        "velocity_px_s": 401.0
+      },
+      "timestamp": "2025-10-31T02:22:03Z"
+    },
+    {
+      "text": "link Weather check: light rain after 3pm, pack shells",
+      "actor": 2,
+      "action": "link",
+      "itemType": "note",
+      "items": [
+        "shape:a_wx1"
+      ],
+      "content": {
+        "text": "Forecast: drizzle after 15:00 — take shells",
+        "imageUrls": [
+          "https://picsum.photos/seed/alps-wx-1/800/600"
+        ],
+        "tags": [
+          "weather",
+          "rain",
+          "shell"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 590,
+        "dwell_ms": 220,
+        "reselect_count": 1,
+        "hover_ms": 110,
+        "scrub_px": 12
+      },
+      "tempo": {
+        "gap_prev_ms": 900,
+        "apm_rolling": 31.0,
+        "velocity_px_s": 305.5
+      },
+      "timestamp": "2025-10-31T02:22:24Z"
+    },
+    {
+      "text": "add_note Smart mug idea: keep tea at 58°C with PID control",
+      "actor": 1,
+      "action": "add-note",
+      "itemType": "note",
+      "items": [
+        "shape:m_idea1"
+      ],
+      "content": {
+        "text": "Smart mug PID target 58°C",
+        "imageUrls": [
+          "https://picsum.photos/seed/mug-proto-1/800/600"
+        ],
+        "tags": [
+          "mug",
+          "PID",
+          "thermistor"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 372,
+        "dwell_ms": 322,
+        "reselect_count": 1,
+        "hover_ms": 72,
+        "scrub_px": 16
+      },
+      "tempo": {
+        "gap_prev_ms": 1400,
+        "apm_rolling": 20.8,
+        "velocity_px_s": 310.3
+      },
+      "timestamp": "2025-10-31T02:22:52Z"
+    },
+    {
+      "text": "group Parts: NTC thermistor, ESP32, USB-C board, 18650 cell",
+      "actor": 2,
+      "action": "group",
+      "itemType": "cluster",
+      "items": [
+        "shape:m_ntc",
+        "shape:m_esp32",
+        "shape:m_usbc",
+        "shape:m_18650"
+      ],
+      "content": {
+        "text": "Parts cluster: NTC, ESP32, USB‑C, 18650",
+        "imageUrls": [
+          "https://picsum.photos/seed/pcb-bom-2/800/600"
+        ],
+        "tags": [
+          "parts",
+          "ntc",
+          "esp32",
+          "usbc",
+          "18650"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 466,
+        "dwell_ms": 280,
+        "reselect_count": 2,
+        "hover_ms": 101,
+        "scrub_px": 20
+      },
+      "tempo": {
+        "gap_prev_ms": 1000,
+        "apm_rolling": 26.9,
+        "velocity_px_s": 352.2
+      },
+      "timestamp": "2025-10-31T02:23:13Z"
+    },
+    {
+      "text": "highlight Calibration curve from yesterday's test",
+      "actor": 0,
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:m_cal1"
+      ],
+      "content": {
+        "text": "Calibration curve (sensor vs temp)",
+        "imageUrls": [
+          "https://picsum.photos/seed/cal-curve-9/800/600"
+        ],
+        "tags": [
+          "calibration",
+          "curve"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 622,
+        "dwell_ms": 188,
+        "reselect_count": 1,
+        "hover_ms": 124,
+        "scrub_px": 24
+      },
+      "tempo": {
+        "gap_prev_ms": 900,
+        "apm_rolling": 28.5,
+        "velocity_px_s": 296.7
+      },
+      "timestamp": "2025-10-31T02:23:38Z"
+    },
+    {
+      "text": "edit CAD handle thicker by 1.5 mm for grip",
+      "actor": 2,
+      "action": "edit",
+      "itemType": "image",
+      "items": [
+        "shape:m_cad1"
+      ],
+      "content": {
+        "text": "CAD tweak: +1.5 mm handle thickness",
+        "imageUrls": [
+          "https://picsum.photos/seed/cad-mug-3/800/600"
+        ],
+        "tags": [
+          "cad",
+          "handle",
+          "print"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 210,
+        "dwell_ms": 230,
+        "reselect_count": 0,
+        "hover_ms": 66,
+        "scrub_px": 8
+      },
+      "tempo": {
+        "gap_prev_ms": 1200,
+        "apm_rolling": 19.2,
+        "velocity_px_s": 208.9
+      },
+      "timestamp": "2025-10-31T02:24:07Z"
+    },
+    {
+      "text": "move Battery tray under base; route wires along wall",
+      "actor": 1,
+      "action": "move",
+      "itemType": "note",
+      "items": [
+        "shape:m_layout1"
+      ],
+      "content": {
+        "text": "Battery tray under base, wires along wall",
+        "imageUrls": [
+          "https://picsum.photos/seed/wiring-1/800/600"
+        ],
+        "tags": [
+          "layout",
+          "battery",
+          "wires"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 500,
+        "dwell_ms": 170,
+        "reselect_count": 1,
+        "hover_ms": 90,
+        "scrub_px": 10
+      },
+      "tempo": {
+        "gap_prev_ms": 1100,
+        "apm_rolling": 33.0,
+        "velocity_px_s": 377.8
+      },
+      "timestamp": "2025-10-31T02:24:27Z"
+    },
+    {
+      "text": "link Firmware TODO: sleep mode, USB-C PD handshake",
+      "actor": 0,
+      "action": "link",
+      "itemType": "note",
+      "items": [
+        "shape:m_fw1"
+      ],
+      "content": {
+        "text": "Firmware: deep sleep; USB‑C PD handshake",
+        "imageUrls": [
+          "https://picsum.photos/seed/firmware-7/800/600"
+        ],
+        "tags": [
+          "firmware",
+          "usb-c",
+          "sleep"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 584,
+        "dwell_ms": 206,
+        "reselect_count": 1,
+        "hover_ms": 140,
+        "scrub_px": 14
+      },
+      "tempo": {
+        "gap_prev_ms": 1000,
+        "apm_rolling": 24.7,
+        "velocity_px_s": 312.6
+      },
+      "timestamp": "2025-10-31T02:24:55Z"
+    },
+    {
+      "text": "add_note Festival lineup draft: indie headliner + local DJs",
+      "actor": 2,
+      "action": "add-note",
+      "itemType": "note",
+      "items": [
+        "shape:f_line1"
+      ],
+      "content": {
+        "text": "Lineup v1: indie headliner, local DJs",
+        "imageUrls": [
+          "https://picsum.photos/seed/festival-line-4/800/600"
+        ],
+        "tags": [
+          "lineup",
+          "headliner",
+          "DJ"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 520,
+        "dwell_ms": 340,
+        "reselect_count": 1,
+        "hover_ms": 96,
+        "scrub_px": 20
+      },
+      "tempo": {
+        "gap_prev_ms": 1200,
+        "apm_rolling": 30.6,
+        "velocity_px_s": 289.1
+      },
+      "timestamp": "2025-10-31T02:25:18Z"
+    },
+    {
+      "text": "group Volunteers & booths near east gate",
+      "actor": 0,
+      "action": "group",
+      "itemType": "cluster",
+      "items": [
+        "shape:f_vol",
+        "shape:f_booth"
+      ],
+      "content": {
+        "text": "Volunteers & booths → east gate",
+        "imageUrls": [
+          "https://picsum.photos/seed/booths-3/800/600"
+        ],
+        "tags": [
+          "volunteers",
+          "booths",
+          "layout"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 454,
+        "dwell_ms": 245,
+        "reselect_count": 1,
+        "hover_ms": 84,
+        "scrub_px": 12
+      },
+      "tempo": {
+        "gap_prev_ms": 900,
+        "apm_rolling": 21.9,
+        "velocity_px_s": 260.4
+      },
+      "timestamp": "2025-10-31T02:25:38Z"
+    },
+    {
+      "text": "highlight Rain plan: canopy over vendor row",
+      "actor": 1,
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:f_rain1"
+      ],
+      "content": {
+        "text": "Rain plan: canopy vendor row",
+        "imageUrls": [
+          "https://picsum.photos/seed/canopy-22/800/600"
+        ],
+        "tags": [
+          "rain",
+          "canopy",
+          "vendors"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 676,
+        "dwell_ms": 192,
+        "reselect_count": 2,
+        "hover_ms": 131,
+        "scrub_px": 26
+      },
+      "tempo": {
+        "gap_prev_ms": 800,
+        "apm_rolling": 23.5,
+        "velocity_px_s": 305.0
+      },
+      "timestamp": "2025-10-31T02:25:59Z"
+    },
+    {
+      "text": "edit Ticket tiers: early bird 25, regular 35, gate 45",
+      "actor": 2,
+      "action": "edit",
+      "itemType": "note",
+      "items": [
+        "shape:f_ticket1"
+      ],
+      "content": {
+        "text": "Tiers: 25 / 35 / 45 USD",
+        "imageUrls": [
+          "https://picsum.photos/seed/tickets-9/800/600"
+        ],
+        "tags": [
+          "tickets",
+          "pricing"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 236,
+        "dwell_ms": 300,
+        "reselect_count": 0,
+        "hover_ms": 70,
+        "scrub_px": 9
+      },
+      "tempo": {
+        "gap_prev_ms": 1300,
+        "apm_rolling": 18.3,
+        "velocity_px_s": 225.7
+      },
+      "timestamp": "2025-10-31T02:26:25Z"
+    },
+    {
+      "text": "move Stage map closer to security flow arrows",
+      "actor": 0,
+      "action": "move",
+      "itemType": "note",
+      "items": [
+        "shape:f_stage1"
+      ],
+      "content": {
+        "text": "Stage map near security flow arrows",
+        "imageUrls": [
+          "https://picsum.photos/seed/stage-map-8/800/600"
+        ],
+        "tags": [
+          "stage",
+          "security",
+          "flow"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 546,
+        "dwell_ms": 175,
+        "reselect_count": 1,
+        "hover_ms": 88,
+        "scrub_px": 17
+      },
+      "tempo": {
+        "gap_prev_ms": 1100,
+        "apm_rolling": 35.4,
+        "velocity_px_s": 398.9
+      },
+      "timestamp": "2025-10-31T02:26:51Z"
+    },
+    {
+      "text": "link City permit checklist (noise, fire, occupancy)",
+      "actor": 1,
+      "action": "link",
+      "itemType": "note",
+      "items": [
+        "shape:f_permit1"
+      ],
+      "content": {
+        "text": "Permit checklist: noise, fire, occupancy",
+        "imageUrls": [
+          "https://picsum.photos/seed/permit-13/800/600"
+        ],
+        "tags": [
+          "permit",
+          "city",
+          "checklist"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 612,
+        "dwell_ms": 228,
+        "reselect_count": 1,
+        "hover_ms": 120,
+        "scrub_px": 18
+      },
+      "tempo": {
+        "gap_prev_ms": 900,
+        "apm_rolling": 29.1,
+        "velocity_px_s": 320.6
+      },
+      "timestamp": "2025-10-31T02:27:12Z"
+    },
+    {
+      "text": "add_note Studio lights: two softboxes at 45°, 5600K",
+      "actor": 0,
+      "action": "add-note",
+      "itemType": "note",
+      "items": [
+        "shape:s_light1"
+      ],
+      "content": {
+        "text": "Softboxes 45°, 5600K",
+        "imageUrls": [
+          "https://picsum.photos/seed/softbox-11/800/600"
+        ],
+        "tags": [
+          "softbox",
+          "5600k",
+          "lighting"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 330,
+        "dwell_ms": 310,
+        "reselect_count": 1,
+        "hover_ms": 80,
+        "scrub_px": 14
+      },
+      "tempo": {
+        "gap_prev_ms": 1200,
+        "apm_rolling": 20.5,
+        "velocity_px_s": 240.2
+      },
+      "timestamp": "2025-10-31T02:27:35Z"
+    },
+    {
+      "text": "highlight Acoustic panels behind speaker to cut flutter",
+      "actor": 1,
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:s_acou1"
+      ],
+      "content": {
+        "text": "Acoustic panels behind speaker",
+        "imageUrls": [
+          "https://picsum.photos/seed/acoustic-42/800/600"
+        ],
+        "tags": [
+          "acoustic",
+          "panels"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 602,
+        "dwell_ms": 182,
+        "reselect_count": 0,
+        "hover_ms": 122,
+        "scrub_px": 20
+      },
+      "tempo": {
+        "gap_prev_ms": 900,
+        "apm_rolling": 24.8,
+        "velocity_px_s": 281.4
+      },
+      "timestamp": "2025-10-31T02:27:56Z"
+    },
+    {
+      "text": "move Cable tray under desk; leave slack for tripod",
+      "actor": 2,
+      "action": "move",
+      "itemType": "note",
+      "items": [
+        "shape:s_cable1"
+      ],
+      "content": {
+        "text": "Cable tray under desk; tripod slack",
+        "imageUrls": [
+          "https://picsum.photos/seed/cable-17/800/600"
+        ],
+        "tags": [
+          "cable",
+          "tray",
+          "tripod"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 520,
+        "dwell_ms": 190,
+        "reselect_count": 1,
+        "hover_ms": 96,
+        "scrub_px": 12
+      },
+      "tempo": {
+        "gap_prev_ms": 1000,
+        "apm_rolling": 32.0,
+        "velocity_px_s": 360.0
+      },
+      "timestamp": "2025-10-31T02:28:24Z"
+    },
+    {
+      "text": "link Camera footprint diagram (avoid doorway)",
+      "actor": 0,
+      "action": "link",
+      "itemType": "note",
+      "items": [
+        "shape:s_cam1"
+      ],
+      "content": {
+        "text": "Camera footprint — keep doorway clear",
+        "imageUrls": [
+          "https://picsum.photos/seed/tripod-31/800/600"
+        ],
+        "tags": [
+          "camera",
+          "footprint"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 640,
+        "dwell_ms": 210,
+        "reselect_count": 1,
+        "hover_ms": 130,
+        "scrub_px": 14
+      },
+      "tempo": {
+        "gap_prev_ms": 900,
+        "apm_rolling": 28.2,
+        "velocity_px_s": 299.1
+      },
+      "timestamp": "2025-10-31T02:28:50Z"
+    },
+    {
+      "text": "compare Weekend options: Alps hike vs prototype sprint",
+      "actor": 1,
+      "action": "compare",
+      "itemType": "note",
+      "items": [
+        "shape:w_wrap1"
+      ],
+      "content": {
+        "text": "Compare: Alps hike or mug prototype sprint?",
+        "imageUrls": [
+          "https://picsum.photos/seed/compare-77/800/600"
+        ],
+        "tags": [
+          "compare",
+          "alps",
+          "prototype"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 210,
+        "dwell_ms": 190,
+        "reselect_count": 1,
+        "hover_ms": 74,
+        "scrub_px": 8
+      },
+      "tempo": {
+        "gap_prev_ms": 1100,
+        "apm_rolling": 26.1,
+        "velocity_px_s": 210.1
+      },
+      "timestamp": "2025-10-31T02:29:10Z"
+    },
+    {
+      "text": "add_note If rain heavy → studio setup day (indoor)",
+      "actor": 2,
+      "action": "add-note",
+      "itemType": "note",
+      "items": [
+        "shape:w_bridge1"
+      ],
+      "content": {
+        "text": "If heavy rain, pivot to indoor studio setup day",
+        "imageUrls": [
+          "https://picsum.photos/seed/rain-plan-88/800/600"
+        ],
+        "tags": [
+          "rain",
+          "indoor",
+          "studio"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 300,
+        "dwell_ms": 310,
+        "reselect_count": 0,
+        "hover_ms": 70,
+        "scrub_px": 10
+      },
+      "tempo": {
+        "gap_prev_ms": 1200,
+        "apm_rolling": 22.9,
+        "velocity_px_s": 250.0
+      },
+      "timestamp": "2025-10-31T02:29:39Z"
+    },
+    {
+      "text": "link Packing overlap: power bank helps on train & at festival",
+      "actor": 0,
+      "action": "link",
+      "itemType": "note",
+      "items": [
+        "shape:w_bridge2"
+      ],
+      "content": {
+        "text": "Packing overlap: power bank useful on train & festival",
+        "imageUrls": [
+          "https://picsum.photos/seed/powerbank-55/800/600"
+        ],
+        "tags": [
+          "powerbank",
+          "overlap"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 560,
+        "dwell_ms": 220,
+        "reselect_count": 1,
+        "hover_ms": 120,
+        "scrub_px": 18
+      },
+      "tempo": {
+        "gap_prev_ms": 900,
+        "apm_rolling": 29.0,
+        "velocity_px_s": 330.0
+      },
+      "timestamp": "2025-10-31T02:30:00Z"
+    },
+    {
+      "text": "edit Next steps: book trains, print handle v2, email permit office",
+      "actor": 1,
+      "action": "edit",
+      "itemType": "note",
+      "items": [
+        "shape:w_next1"
+      ],
+      "content": {
+        "text": "Next steps: book trains; print handle v2; email permits",
+        "imageUrls": [
+          "https://picsum.photos/seed/next-steps-2/800/600"
+        ],
+        "tags": [
+          "next",
+          "trains",
+          "print",
+          "permits"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 250,
+        "dwell_ms": 360,
+        "reselect_count": 1,
+        "hover_ms": 80,
+        "scrub_px": 14
+      },
+      "tempo": {
+        "gap_prev_ms": 1000,
+        "apm_rolling": 21.5,
+        "velocity_px_s": 205.0
+      },
+      "timestamp": "2025-10-31T02:30:23Z"
+    }
+  ]
+}

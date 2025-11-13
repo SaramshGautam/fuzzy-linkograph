@@ -1,0 +1,1030 @@
+{
+  "TeamX": [
+    {
+      "text": "hiking routes, scenic overlooks",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:20:30Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": [
+        "shape:x001"
+      ],
+      "content": {
+        "text": "hiking routes, scenic overlooks",
+        "imageUrls": [
+          "https://picsum.photos/seed/hiking-1/800/600"
+        ],
+        "tags": [
+          "hiking",
+          "routes",
+          "overlooks"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 275,
+        "dwell_ms": 499,
+        "reselect_count": 1,
+        "hover_ms": 82,
+        "scrub_px": 14
+      },
+      "tempo": {
+        "gap_prev_ms": 885,
+        "apm_rolling": 20.9,
+        "velocity_px_s": 390.7
+      }
+    },
+    {
+      "text": "Rocky Mountains trailhead map",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:20:58Z",
+      "action": "image",
+      "itemType": "image",
+      "items": [
+        "shape:x002"
+      ],
+      "content": {
+        "text": "Rocky Mountains trailhead map",
+        "imageUrls": [
+          "https://picsum.photos/seed/trailhead-1/800/600"
+        ],
+        "tags": [
+          "trail",
+          "map"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 682,
+        "dwell_ms": 136,
+        "reselect_count": 0,
+        "hover_ms": 43,
+        "scrub_px": 13
+      },
+      "tempo": {
+        "gap_prev_ms": 1076,
+        "apm_rolling": 17.8,
+        "velocity_px_s": 130.6
+      }
+    },
+    {
+      "text": "city food crawl ideas",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:21:21Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": [
+        "shape:x003"
+      ],
+      "content": {
+        "text": "city food crawl ideas",
+        "imageUrls": [
+          "https://picsum.photos/seed/food-0/800/600",
+          "https://picsum.photos/seed/city-0/800/600"
+        ],
+        "tags": [
+          "city",
+          "food",
+          "crawl"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 679,
+        "dwell_ms": 232,
+        "reselect_count": 1,
+        "hover_ms": 170,
+        "scrub_px": 17
+      },
+      "tempo": {
+        "gap_prev_ms": 613,
+        "apm_rolling": 21.2,
+        "velocity_px_s": 183.9
+      }
+    },
+    {
+      "text": "hiking to campsites",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:21:47Z",
+      "action": "link",
+      "itemType": "text",
+      "items": [
+        "shape:x004"
+      ],
+      "content": {
+        "text": "hiking to campsites",
+        "imageUrls": [],
+        "tags": [
+          "hiking",
+          "campsite"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 534,
+        "dwell_ms": 199,
+        "reselect_count": 0,
+        "hover_ms": 215,
+        "scrub_px": 21
+      },
+      "tempo": {
+        "gap_prev_ms": 809,
+        "apm_rolling": 12.3,
+        "velocity_px_s": 158.7
+      }
+    },
+    {
+      "text": "food crawl with coffee stops",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:22:12Z",
+      "action": "group",
+      "itemType": "text",
+      "items": [
+        "shape:x005"
+      ],
+      "content": {
+        "text": "food crawl with coffee stops",
+        "imageUrls": [],
+        "tags": [
+          "food",
+          "coffee"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 520,
+        "dwell_ms": 142,
+        "reselect_count": 2,
+        "hover_ms": 137,
+        "scrub_px": 34
+      },
+      "tempo": {
+        "gap_prev_ms": 855,
+        "apm_rolling": 24.1,
+        "velocity_px_s": 271.4
+      }
+    },
+    {
+      "text": "budget: gas, lodging, passes",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:22:40Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": [
+        "shape:x006"
+      ],
+      "content": {
+        "text": "budget: gas, lodging, passes",
+        "imageUrls": [
+          "https://picsum.photos/seed/budget-0/800/600"
+        ],
+        "tags": [
+          "budget",
+          "gas",
+          "lodging"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 620,
+        "dwell_ms": 415,
+        "reselect_count": 0,
+        "hover_ms": 200,
+        "scrub_px": 4
+      },
+      "tempo": {
+        "gap_prev_ms": 693,
+        "apm_rolling": 19.9,
+        "velocity_px_s": 429.2
+      }
+    },
+    {
+      "text": "beach sunset for day 3",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:23:01Z",
+      "action": "image",
+      "itemType": "image",
+      "items": [
+        "shape:x007"
+      ],
+      "content": {
+        "text": "beach sunset for day 3",
+        "imageUrls": [
+          "https://picsum.photos/seed/beach-2/800/600",
+          "https://picsum.photos/seed/sunset-1/800/600"
+        ],
+        "tags": [
+          "beach",
+          "sunset"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 353,
+        "dwell_ms": 314,
+        "reselect_count": 1,
+        "hover_ms": 136,
+        "scrub_px": 40
+      },
+      "tempo": {
+        "gap_prev_ms": 1347,
+        "apm_rolling": 13.2,
+        "velocity_px_s": 262.1
+      }
+    },
+    {
+      "text": "smart mug prototype: temp sensor",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:23:31Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": [
+        "shape:x008"
+      ],
+      "content": {
+        "text": "smart mug prototype: temp sensor",
+        "imageUrls": [
+          "https://picsum.photos/seed/mug-0/800/600"
+        ],
+        "tags": [
+          "mug",
+          "prototype",
+          "sensor"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 323,
+        "dwell_ms": 431,
+        "reselect_count": 2,
+        "hover_ms": 63,
+        "scrub_px": 34
+      },
+      "tempo": {
+        "gap_prev_ms": 2093,
+        "apm_rolling": 14.3,
+        "velocity_px_s": 304.9
+      }
+    },
+    {
+      "text": "PCB sketch for mug",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:23:55Z",
+      "action": "image",
+      "itemType": "image",
+      "items": [
+        "shape:x009"
+      ],
+      "content": {
+        "text": "PCB sketch for mug",
+        "imageUrls": [
+          "https://picsum.photos/seed/pcb-0/800/600"
+        ],
+        "tags": [
+          "pcb",
+          "sketch"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 474,
+        "dwell_ms": 470,
+        "reselect_count": 1,
+        "hover_ms": 235,
+        "scrub_px": 3
+      },
+      "tempo": {
+        "gap_prev_ms": 1069,
+        "apm_rolling": 22.1,
+        "velocity_px_s": 442.0
+      }
+    },
+    {
+      "text": "battery life tradeoffs",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:24:21Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": [
+        "shape:x010"
+      ],
+      "content": {
+        "text": "battery life tradeoffs",
+        "imageUrls": [],
+        "tags": [
+          "battery",
+          "tradeoffs"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 317,
+        "dwell_ms": 228,
+        "reselect_count": 2,
+        "hover_ms": 203,
+        "scrub_px": 20
+      },
+      "tempo": {
+        "gap_prev_ms": 1035,
+        "apm_rolling": 19.8,
+        "velocity_px_s": 278.3
+      }
+    },
+    {
+      "text": "mug use-case to road-trip mornings",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:24:51Z",
+      "action": "link",
+      "itemType": "text",
+      "items": [
+        "shape:x011"
+      ],
+      "content": {
+        "text": "mug use-case to road-trip mornings",
+        "imageUrls": [],
+        "tags": [
+          "mug",
+          "roadtrip",
+          "coffee"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 396,
+        "dwell_ms": 255,
+        "reselect_count": 0,
+        "hover_ms": 83,
+        "scrub_px": 47
+      },
+      "tempo": {
+        "gap_prev_ms": 1749,
+        "apm_rolling": 18.3,
+        "velocity_px_s": 418.8
+      }
+    },
+    {
+      "text": "prototype sketches",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:25:17Z",
+      "action": "cluster",
+      "itemType": "text",
+      "items": [
+        "shape:x012"
+      ],
+      "content": {
+        "text": "prototype sketches",
+        "imageUrls": [],
+        "tags": [
+          "prototype",
+          "cluster"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 658,
+        "dwell_ms": 305,
+        "reselect_count": 0,
+        "hover_ms": 55,
+        "scrub_px": 32
+      },
+      "tempo": {
+        "gap_prev_ms": 1610,
+        "apm_rolling": 12.2,
+        "velocity_px_s": 138.8
+      }
+    },
+    {
+      "text": "festival lineup: indie + electronic",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:25:38Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": [
+        "shape:x013"
+      ],
+      "content": {
+        "text": "festival lineup: indie + electronic",
+        "imageUrls": [
+          "https://picsum.photos/seed/festival-0/800/600"
+        ],
+        "tags": [
+          "festival",
+          "lineup",
+          "indie",
+          "electronic"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 413,
+        "dwell_ms": 468,
+        "reselect_count": 1,
+        "hover_ms": 172,
+        "scrub_px": 4
+      },
+      "tempo": {
+        "gap_prev_ms": 1388,
+        "apm_rolling": 16.2,
+        "velocity_px_s": 518.4
+      }
+    },
+    {
+      "text": "stage layout options",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:26:06Z",
+      "action": "image",
+      "itemType": "image",
+      "items": [
+        "shape:x014"
+      ],
+      "content": {
+        "text": "stage layout options",
+        "imageUrls": [
+          "https://picsum.photos/seed/stage-0/800/600"
+        ],
+        "tags": [
+          "stage",
+          "layout"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 261,
+        "dwell_ms": 468,
+        "reselect_count": 2,
+        "hover_ms": 49,
+        "scrub_px": 43
+      },
+      "tempo": {
+        "gap_prev_ms": 1699,
+        "apm_rolling": 21.1,
+        "velocity_px_s": 427.4
+      }
+    },
+    {
+      "text": "vendors: tacos, espresso cart",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:26:31Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": [
+        "shape:x015"
+      ],
+      "content": {
+        "text": "vendors: tacos, espresso cart",
+        "imageUrls": [
+          "https://picsum.photos/seed/vendors-0/800/600"
+        ],
+        "tags": [
+          "vendors",
+          "tacos",
+          "espresso"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 550,
+        "dwell_ms": 342,
+        "reselect_count": 0,
+        "hover_ms": 136,
+        "scrub_px": 0
+      },
+      "tempo": {
+        "gap_prev_ms": 2078,
+        "apm_rolling": 22.8,
+        "velocity_px_s": 225.4
+      }
+    },
+    {
+      "text": "lineup to stage layout",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:26:59Z",
+      "action": "link",
+      "itemType": "text",
+      "items": [
+        "shape:x016"
+      ],
+      "content": {
+        "text": "lineup to stage layout",
+        "imageUrls": [],
+        "tags": [
+          "lineup",
+          "layout"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 769,
+        "dwell_ms": 174,
+        "reselect_count": 2,
+        "hover_ms": 96,
+        "scrub_px": 40
+      },
+      "tempo": {
+        "gap_prev_ms": 1639,
+        "apm_rolling": 19.2,
+        "velocity_px_s": 181.1
+      }
+    },
+    {
+      "text": "espresso machine review comparisons",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:27:21Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": [
+        "shape:x017"
+      ],
+      "content": {
+        "text": "espresso machine review comparisons",
+        "imageUrls": [
+          "https://picsum.photos/seed/espresso-0/800/600"
+        ],
+        "tags": [
+          "espresso",
+          "review",
+          "machines"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 793,
+        "dwell_ms": 120,
+        "reselect_count": 2,
+        "hover_ms": 102,
+        "scrub_px": 31
+      },
+      "tempo": {
+        "gap_prev_ms": 639,
+        "apm_rolling": 12.5,
+        "velocity_px_s": 265.2
+      }
+    },
+    {
+      "text": "product photo unrelated (random texture)",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:27:45Z",
+      "action": "image",
+      "itemType": "image",
+      "items": [
+        "shape:x018"
+      ],
+      "content": {
+        "text": "product photo unrelated (random texture)",
+        "imageUrls": [
+          "https://picsum.photos/seed/abstract-7/800/600"
+        ],
+        "tags": [
+          "abstract",
+          "texture"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 309,
+        "dwell_ms": 243,
+        "reselect_count": 2,
+        "hover_ms": 40,
+        "scrub_px": 5
+      },
+      "tempo": {
+        "gap_prev_ms": 2098,
+        "apm_rolling": 17.6,
+        "velocity_px_s": 147.7
+      }
+    },
+    {
+      "text": "astronomy photo list for later",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:28:13Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": [
+        "shape:x019"
+      ],
+      "content": {
+        "text": "astronomy photo list for later",
+        "imageUrls": [
+          "https://picsum.photos/seed/stars-0/800/600"
+        ],
+        "tags": [
+          "astronomy",
+          "photo",
+          "todo"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 381,
+        "dwell_ms": 457,
+        "reselect_count": 1,
+        "hover_ms": 160,
+        "scrub_px": 10
+      },
+      "tempo": {
+        "gap_prev_ms": 1142,
+        "apm_rolling": 18.1,
+        "velocity_px_s": 362.6
+      }
+    },
+    {
+      "text": "apartment layout: flow + lighting",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:28:36Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": [
+        "shape:x020"
+      ],
+      "content": {
+        "text": "apartment layout: flow + lighting",
+        "imageUrls": [
+          "https://picsum.photos/seed/apartment-0/800/600"
+        ],
+        "tags": [
+          "apartment",
+          "layout",
+          "lighting",
+          "flow"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 455,
+        "dwell_ms": 485,
+        "reselect_count": 1,
+        "hover_ms": 122,
+        "scrub_px": 42
+      },
+      "tempo": {
+        "gap_prev_ms": 1930,
+        "apm_rolling": 16.0,
+        "velocity_px_s": 479.8
+      }
+    },
+    {
+      "text": "floorplan sketch",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:29:03Z",
+      "action": "image",
+      "itemType": "image",
+      "items": [
+        "shape:x021"
+      ],
+      "content": {
+        "text": "floorplan sketch",
+        "imageUrls": [
+          "https://picsum.photos/seed/floor-0/800/600"
+        ],
+        "tags": [
+          "floorplan",
+          "sketch"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 503,
+        "dwell_ms": 235,
+        "reselect_count": 0,
+        "hover_ms": 106,
+        "scrub_px": 1
+      },
+      "tempo": {
+        "gap_prev_ms": 1804,
+        "apm_rolling": 18.5,
+        "velocity_px_s": 355.4
+      }
+    },
+    {
+      "text": "color palette warm neutrals",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:29:23Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": [
+        "shape:x022"
+      ],
+      "content": {
+        "text": "color palette warm neutrals",
+        "imageUrls": [
+          "https://picsum.photos/seed/palette-0/800/600"
+        ],
+        "tags": [
+          "color",
+          "palette",
+          "warm"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 310,
+        "dwell_ms": 237,
+        "reselect_count": 0,
+        "hover_ms": 28,
+        "scrub_px": 21
+      },
+      "tempo": {
+        "gap_prev_ms": 745,
+        "apm_rolling": 17.9,
+        "velocity_px_s": 231.4
+      }
+    },
+    {
+      "text": "living room to stage layout analogy",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:29:50Z",
+      "action": "link",
+      "itemType": "text",
+      "items": [
+        "shape:x023"
+      ],
+      "content": {
+        "text": "living room to stage layout analogy",
+        "imageUrls": [],
+        "tags": [
+          "living",
+          "stage",
+          "layout",
+          "analogy"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 385,
+        "dwell_ms": 490,
+        "reselect_count": 2,
+        "hover_ms": 167,
+        "scrub_px": 30
+      },
+      "tempo": {
+        "gap_prev_ms": 1097,
+        "apm_rolling": 21.6,
+        "velocity_px_s": 443.0
+      }
+    },
+    {
+      "text": "hiking + campsites + budget",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:30:13Z",
+      "action": "group",
+      "itemType": "text",
+      "items": [
+        "shape:x024"
+      ],
+      "content": {
+        "text": "hiking + campsites + budget",
+        "imageUrls": [],
+        "tags": [
+          "hiking",
+          "campsites",
+          "budget"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 349,
+        "dwell_ms": 457,
+        "reselect_count": 1,
+        "hover_ms": 110,
+        "scrub_px": 27
+      },
+      "tempo": {
+        "gap_prev_ms": 1441,
+        "apm_rolling": 17.3,
+        "velocity_px_s": 411.6
+      }
+    },
+    {
+      "text": "final route: Rockies → city → beach",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:30:43Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": [
+        "shape:x025"
+      ],
+      "content": {
+        "text": "final route: Rockies → city → beach",
+        "imageUrls": [
+          "https://picsum.photos/seed/route-1/800/600"
+        ],
+        "tags": [
+          "final",
+          "route",
+          "rockies",
+          "city",
+          "beach"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 350,
+        "dwell_ms": 151,
+        "reselect_count": 1,
+        "hover_ms": 206,
+        "scrub_px": 21
+      },
+      "tempo": {
+        "gap_prev_ms": 823,
+        "apm_rolling": 14.4,
+        "velocity_px_s": 196.1
+      }
+    },
+    {
+      "text": "must-have reservations",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:31:10Z",
+      "action": "highlight",
+      "itemType": "text",
+      "items": [
+        "shape:x026"
+      ],
+      "content": {
+        "text": "must-have reservations",
+        "imageUrls": [],
+        "tags": [
+          "reservations",
+          "priority"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 682,
+        "dwell_ms": 213,
+        "reselect_count": 1,
+        "hover_ms": 138,
+        "scrub_px": 15
+      },
+      "tempo": {
+        "gap_prev_ms": 754,
+        "apm_rolling": 17.0,
+        "velocity_px_s": 464.5
+      }
+    },
+    {
+      "text": "route to vendors (taco stops en route)",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:31:38Z",
+      "action": "link",
+      "itemType": "text",
+      "items": [
+        "shape:x027"
+      ],
+      "content": {
+        "text": "route to vendors (taco stops en route)",
+        "imageUrls": [],
+        "tags": [
+          "route",
+          "vendors",
+          "tacos"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 301,
+        "dwell_ms": 453,
+        "reselect_count": 2,
+        "hover_ms": 234,
+        "scrub_px": 0
+      },
+      "tempo": {
+        "gap_prev_ms": 791,
+        "apm_rolling": 23.5,
+        "velocity_px_s": 459.5
+      }
+    },
+    {
+      "text": "penguins documentary watchlist",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:32:00Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": [
+        "shape:x028"
+      ],
+      "content": {
+        "text": "penguins documentary watchlist",
+        "imageUrls": [
+          "https://picsum.photos/seed/penguins-0/800/600"
+        ],
+        "tags": [
+          "penguins",
+          "doc"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 747,
+        "dwell_ms": 366,
+        "reselect_count": 0,
+        "hover_ms": 122,
+        "scrub_px": 3
+      },
+      "tempo": {
+        "gap_prev_ms": 937,
+        "apm_rolling": 16.1,
+        "velocity_px_s": 514.1
+      }
+    },
+    {
+      "text": "route + reservations + budget into plan",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:32:24Z",
+      "action": "group",
+      "itemType": "text",
+      "items": [
+        "shape:x029"
+      ],
+      "content": {
+        "text": "route + reservations + budget into plan",
+        "imageUrls": [],
+        "tags": [
+          "route",
+          "reservations",
+          "budget",
+          "plan"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 542,
+        "dwell_ms": 336,
+        "reselect_count": 2,
+        "hover_ms": 207,
+        "scrub_px": 35
+      },
+      "tempo": {
+        "gap_prev_ms": 1955,
+        "apm_rolling": 20.7,
+        "velocity_px_s": 181.9
+      }
+    },
+    {
+      "text": "finalize packing + checklist",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:32:48Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": [
+        "shape:x030"
+      ],
+      "content": {
+        "text": "finalize packing + checklist",
+        "imageUrls": [
+          "https://picsum.photos/seed/pack-0/800/600"
+        ],
+        "tags": [
+          "packing",
+          "checklist",
+          "final"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 309,
+        "dwell_ms": 416,
+        "reselect_count": 2,
+        "hover_ms": 158,
+        "scrub_px": 3
+      },
+      "tempo": {
+        "gap_prev_ms": 2131,
+        "apm_rolling": 15.2,
+        "velocity_px_s": 140.1
+      }
+    },
+    {
+      "text": "checklist icon",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:33:15Z",
+      "action": "image",
+      "itemType": "image",
+      "items": [
+        "shape:x031"
+      ],
+      "content": {
+        "text": "checklist icon",
+        "imageUrls": [
+          "https://picsum.photos/seed/icon-0/800/600"
+        ],
+        "tags": [
+          "checklist",
+          "icon"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 793,
+        "dwell_ms": 200,
+        "reselect_count": 0,
+        "hover_ms": 150,
+        "scrub_px": 5
+      },
+      "tempo": {
+        "gap_prev_ms": 980,
+        "apm_rolling": 11.9,
+        "velocity_px_s": 147.2
+      }
+    },
+    {
+      "text": "final plan ready to share",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:33:38Z",
+      "action": "highlight",
+      "itemType": "text",
+      "items": [
+        "shape:x032"
+      ],
+      "content": {
+        "text": "final plan ready to share",
+        "imageUrls": [],
+        "tags": [
+          "final",
+          "plan",
+          "share"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 372,
+        "dwell_ms": 411,
+        "reselect_count": 0,
+        "hover_ms": 168,
+        "scrub_px": 38
+      },
+      "tempo": {
+        "gap_prev_ms": 681,
+        "apm_rolling": 19.4,
+        "velocity_px_s": 287.7
+      }
+    }
+  ]
+}

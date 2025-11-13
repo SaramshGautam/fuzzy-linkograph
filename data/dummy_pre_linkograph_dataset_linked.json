@@ -1,0 +1,349 @@
+{
+  "Team1": {
+    "moves": [
+      {
+        "text": "Let's brainstorm ideas for our cultural night theme.",
+        "actor": 0,
+        "timestamp": "2025-10-26T10:00:05Z",
+        "action": "create",
+        "itemType": "note",
+        "items": [
+          "shape_1"
+        ],
+        "content": {
+          "text": "Cultural night theme brainstorming",
+          "imageUrls": [],
+          "tags": [
+            "brainstorm",
+            "theme",
+            "planning"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 102,
+          "dwell_ms": 800
+        },
+        "tempo": {
+          "gap_prev_ms": null,
+          "apm_rolling": 2.5,
+          "velocity_px_s": 0.2
+        }
+      },
+      {
+        "text": "We could go with a fusion of music and art from different countries.",
+        "actor": 1,
+        "timestamp": "2025-10-26T10:00:22Z",
+        "action": "add",
+        "itemType": "text",
+        "items": [
+          "shape_2"
+        ],
+        "content": {
+          "text": "Fusion music and art night",
+          "imageUrls": [],
+          "tags": [
+            "idea",
+            "music",
+            "art"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 230,
+          "dwell_ms": 1200
+        },
+        "tempo": {
+          "gap_prev_ms": 17000,
+          "apm_rolling": 4.8,
+          "velocity_px_s": 0.7
+        }
+      },
+      {
+        "text": "Let's shortlist top three themes to discuss.",
+        "actor": 2,
+        "timestamp": "2025-10-26T10:01:02Z",
+        "action": "group",
+        "itemType": "group",
+        "items": [
+          "shape_3",
+          "shape_4"
+        ],
+        "content": {
+          "text": "Shortlist top 3",
+          "imageUrls": [],
+          "tags": [
+            "decision",
+            "selection",
+            "prioritize"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 120,
+          "dwell_ms": 600
+        },
+        "tempo": {
+          "gap_prev_ms": 40000,
+          "apm_rolling": 3.2,
+          "velocity_px_s": 0.3
+        }
+      },
+      {
+        "text": "What about food stalls representing each continent?",
+        "actor": 0,
+        "timestamp": "2025-10-26T10:02:10Z",
+        "action": "add",
+        "itemType": "note",
+        "items": [
+          "shape_5"
+        ],
+        "content": {
+          "text": "Food stalls by continent",
+          "imageUrls": [],
+          "tags": [
+            "food",
+            "culture",
+            "interactive"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 95,
+          "dwell_ms": 500
+        },
+        "tempo": {
+          "gap_prev_ms": 68000,
+          "apm_rolling": 3.5,
+          "velocity_px_s": 0.5
+        }
+      },
+      {
+        "text": "Adding a live band for intermissions might keep energy high.",
+        "actor": 1,
+        "timestamp": "2025-10-26T10:03:40Z",
+        "action": "add",
+        "itemType": "note",
+        "items": [
+          "shape_6"
+        ],
+        "content": {
+          "text": "Live band for intermissions",
+          "imageUrls": [],
+          "tags": [
+            "music",
+            "energy",
+            "engagement"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 160,
+          "dwell_ms": 950
+        },
+        "tempo": {
+          "gap_prev_ms": 90000,
+          "apm_rolling": 2.9,
+          "velocity_px_s": 0.8
+        }
+      },
+      {
+        "text": "We need to check venue acoustics and layout next.",
+        "actor": 2,
+        "timestamp": "2025-10-26T10:05:05Z",
+        "action": "note",
+        "itemType": "task",
+        "items": [
+          "shape_7"
+        ],
+        "content": {
+          "text": "Check venue acoustics and layout",
+          "imageUrls": [],
+          "tags": [
+            "task",
+            "venue",
+            "logistics"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 70,
+          "dwell_ms": 400
+        },
+        "tempo": {
+          "gap_prev_ms": 85000,
+          "apm_rolling": 2.1,
+          "velocity_px_s": 0.2
+        }
+      },
+      {
+        "text": "I’ll handle the design posters and ticket mockups.",
+        "actor": 0,
+        "timestamp": "2025-10-26T10:06:22Z",
+        "action": "assign",
+        "itemType": "task",
+        "items": [
+          "shape_8"
+        ],
+        "content": {
+          "text": "Poster and ticket design task",
+          "imageUrls": [],
+          "tags": [
+            "design",
+            "assignment"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 150,
+          "dwell_ms": 700
+        },
+        "tempo": {
+          "gap_prev_ms": 77000,
+          "apm_rolling": 2.0,
+          "velocity_px_s": 0.3
+        }
+      },
+      {
+        "text": "Let's color-code ideas: green for confirmed, yellow for maybe, red for dropped.",
+        "actor": 1,
+        "timestamp": "2025-10-26T10:07:50Z",
+        "action": "edit",
+        "itemType": "annotation",
+        "items": [
+          "shape_9"
+        ],
+        "content": {
+          "text": "Color-coded idea tagging system",
+          "imageUrls": [],
+          "tags": [
+            "organization",
+            "visual",
+            "annotation"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 310,
+          "dwell_ms": 1300
+        },
+        "tempo": {
+          "gap_prev_ms": 88000,
+          "apm_rolling": 2.7,
+          "velocity_px_s": 0.4
+        }
+      },
+      {
+        "text": "Summarizing decisions so far and locking in next steps.",
+        "actor": 2,
+        "timestamp": "2025-10-26T10:09:15Z",
+        "action": "summarize",
+        "itemType": "summary",
+        "items": [
+          "shape_10"
+        ],
+        "content": {
+          "text": "Summary and next steps",
+          "imageUrls": [],
+          "tags": [
+            "summary",
+            "reflection"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 180,
+          "dwell_ms": 850
+        },
+        "tempo": {
+          "gap_prev_ms": 85000,
+          "apm_rolling": 2.1,
+          "velocity_px_s": 0.6
+        }
+      },
+      {
+        "text": "Meeting wrap-up: export moves for review and link analysis.",
+        "actor": 0,
+        "timestamp": "2025-10-26T10:10:40Z",
+        "action": "export",
+        "itemType": "system",
+        "items": [],
+        "content": {
+          "text": "Session exported for linkograph generation",
+          "imageUrls": [],
+          "tags": [
+            "system",
+            "export",
+            "analysis"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 40,
+          "dwell_ms": 200
+        },
+        "tempo": {
+          "gap_prev_ms": 85000,
+          "apm_rolling": 1.8,
+          "velocity_px_s": 0.1
+        }
+      }
+    ],
+    "links": {
+      "0": {},
+      "1": {
+        "0": 0.47193270921707153
+      },
+      "2": {
+        "0": 0.5175412893295288,
+        "1": 0.26422032713890076
+      },
+      "3": {
+        "0": 0.24943673610687256,
+        "1": 0.22352853417396545,
+        "2": 0.18220746517181396
+      },
+      "4": {
+        "0": 0.23388546705245972,
+        "1": 0.3323604464530945,
+        "2": 0.14980800449848175,
+        "3": 0.14595559239387512
+      },
+      "5": {
+        "0": 0.26733866333961487,
+        "1": 0.28699082136154175,
+        "2": 0.3024677038192749,
+        "3": 0.18181419372558594,
+        "4": 0.3325400948524475
+      },
+      "6": {
+        "0": 0.28848057985305786,
+        "1": 0.20434026420116425,
+        "2": 0.34707435965538025,
+        "3": 0.02996687963604927,
+        "4": 0.17444221675395966,
+        "5": 0.33702200651168823
+      },
+      "7": {
+        "0": 0.29253917932510376,
+        "1": 0.156250461935997,
+        "2": 0.26481789350509644,
+        "3": 0.0946442186832428,
+        "4": 0.07645586878061295,
+        "5": 0.11069957911968231,
+        "6": 0.2059629261493683
+      },
+      "8": {
+        "0": 0.2044665366411209,
+        "1": 0.030352558940649033,
+        "2": 0.2895531952381134,
+        "3": 0.17084993422031403,
+        "4": 0.06614505499601364,
+        "5": 0.12410500645637512,
+        "6": 0.23825588822364807,
+        "7": 0.20200404524803162
+      },
+      "9": {
+        "0": 0.12361451983451843,
+        "1": 0.11933574080467224,
+        "2": 0.20574158430099487,
+        "3": 0.1137305200099945,
+        "4": 0.08663016557693481,
+        "5": 0.16346487402915955,
+        "6": 0.2305835634469986,
+        "7": 0.05052569881081581,
+        "8": 0.3012700080871582
+      }
+    }
+  }
+}

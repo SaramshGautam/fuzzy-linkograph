@@ -1,0 +1,1027 @@
+{
+  "TeamX": [
+    {
+      "text": "edit hiking city adventure",
+      "actor": 1,
+      "action": "edit",
+      "itemType": "cluster",
+      "items": [
+        "shape:czegj32zbr",
+        "shape:paqlpc14mw",
+        "shape:815bzjbr55"
+      ],
+      "content": {
+        "text": "hiking, city, adventure",
+        "tags": [
+          "hiking",
+          "city",
+          "adventure"
+        ],
+        "imageUrls": [
+          "https://picsum.photos/seed/hiking-0/800/600",
+          "https://picsum.photos/seed/city-1/800/600"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 346,
+        "dwell_ms": 267,
+        "reselect_count": 0,
+        "hover_ms": 68,
+        "scrub_px": 4
+      },
+      "tempo": {
+        "gap_prev_ms": 1299,
+        "apm_rolling": 25.1,
+        "velocity_px_s": 448.9
+      }
+    },
+    {
+      "text": "edit relax Alps",
+      "actor": 0,
+      "action": "edit",
+      "itemType": "image",
+      "items": [
+        "shape:0i4kcb1kg7",
+        "shape:kaxp833knw",
+        "shape:9nvaqogxk2"
+      ],
+      "content": {
+        "text": "relax, Alps",
+        "tags": [
+          "relax",
+          "Alps"
+        ],
+        "imageUrls": [
+          "https://picsum.photos/seed/relax-0/800/600",
+          "https://picsum.photos/seed/alps-1/800/600"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 475,
+        "dwell_ms": 208,
+        "reselect_count": 2,
+        "hover_ms": 32,
+        "scrub_px": 28
+      },
+      "tempo": {
+        "gap_prev_ms": 1404,
+        "apm_rolling": 43.0,
+        "velocity_px_s": 264.7
+      }
+    },
+    {
+      "text": "cluster museum food hiking",
+      "actor": 1,
+      "action": "cluster",
+      "itemType": "image",
+      "items": [
+        "shape:dvwtz4k3hh",
+        "shape:m2kxs7pp2x",
+        "shape:mnfjzo8iwt"
+      ],
+      "content": {
+        "text": "museum, food, hiking",
+        "tags": [
+          "museum",
+          "food",
+          "hiking"
+        ],
+        "imageUrls": [
+          "https://picsum.photos/seed/museum-0/800/600",
+          "https://picsum.photos/seed/food-1/800/600"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 624,
+        "dwell_ms": 403,
+        "reselect_count": 1,
+        "hover_ms": 92,
+        "scrub_px": 39
+      },
+      "tempo": {
+        "gap_prev_ms": 1109,
+        "apm_rolling": 43.5,
+        "velocity_px_s": 122.7
+      }
+    },
+    {
+      "text": "highlight hiking",
+      "actor": 0,
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:dptb5y2k8g",
+        "shape:aq2x91ga1y"
+      ],
+      "content": {
+        "text": "hiking",
+        "tags": [
+          "hiking"
+        ],
+        "imageUrls": [
+          "https://picsum.photos/seed/hiking-0/800/600",
+          "https://picsum.photos/seed/hiking-1/800/600"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 689,
+        "dwell_ms": 181,
+        "reselect_count": 1,
+        "hover_ms": 180,
+        "scrub_px": 6
+      },
+      "tempo": {
+        "gap_prev_ms": 858,
+        "apm_rolling": 11.3,
+        "velocity_px_s": 395.3
+      }
+    },
+    {
+      "text": "cluster relax beach",
+      "actor": 2,
+      "action": "cluster",
+      "itemType": "image",
+      "items": [
+        "shape:7jo2p927mg"
+      ],
+      "content": {
+        "text": "relax, beach",
+        "tags": [
+          "relax",
+          "beach"
+        ],
+        "imageUrls": [
+          "https://picsum.photos/seed/relax-0/800/600",
+          "https://picsum.photos/seed/beach-1/800/600"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 581,
+        "dwell_ms": 95,
+        "reselect_count": 0,
+        "hover_ms": 180,
+        "scrub_px": 12
+      },
+      "tempo": {
+        "gap_prev_ms": 1417,
+        "apm_rolling": 39.3,
+        "velocity_px_s": 394.9
+      }
+    },
+    {
+      "text": "group rail, autobahn, city",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:21:29.797018Z",
+      "action": "group",
+      "itemType": "cluster",
+      "items": [
+        "shape:84b722d5bb",
+        "shape:6a84c06018"
+      ],
+      "content": {
+        "text": "rail, autobahn, city",
+        "imageUrls": [
+          "https://picsum.photos/seed/rail-0/800/600"
+        ],
+        "tags": [
+          "rail",
+          "autobahn",
+          "city"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 174,
+        "dwell_ms": 500,
+        "reselect_count": 0,
+        "hover_ms": 113,
+        "scrub_px": 37
+      },
+      "tempo": {
+        "gap_prev_ms": 318,
+        "apm_rolling": 44.7,
+        "velocity_px_s": 223.1
+      }
+    },
+    {
+      "text": "add_note ibiza, nightlife, beach",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:21:39.797018Z",
+      "action": "add_note",
+      "itemType": "note",
+      "items": [
+        "shape:a69855e832"
+      ],
+      "content": {
+        "text": "ibiza, nightlife, beach",
+        "imageUrls": [
+          "https://picsum.photos/seed/ibiza-0/800/600"
+        ],
+        "tags": [
+          "ibiza",
+          "nightlife",
+          "beach"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 346,
+        "dwell_ms": 126,
+        "reselect_count": 3,
+        "hover_ms": 35,
+        "scrub_px": 36
+      },
+      "tempo": {
+        "gap_prev_ms": 453,
+        "apm_rolling": 46.1,
+        "velocity_px_s": 422.7
+      }
+    },
+    {
+      "text": "move castles, history",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:21:49.797018Z",
+      "action": "move",
+      "itemType": "image",
+      "items": [
+        "shape:48ccab528d"
+      ],
+      "content": {
+        "text": "castles, history",
+        "imageUrls": [
+          "https://picsum.photos/seed/castles-0/800/600",
+          "https://picsum.photos/seed/history-1/800/600",
+          "https://picsum.photos/seed/castles-2/800/600"
+        ],
+        "tags": [
+          "castles",
+          "history"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 150,
+        "dwell_ms": 193,
+        "reselect_count": 0,
+        "hover_ms": 162,
+        "scrub_px": 8
+      },
+      "tempo": {
+        "gap_prev_ms": 793,
+        "apm_rolling": 26.5,
+        "velocity_px_s": 379.5
+      }
+    },
+    {
+      "text": "link cafe, food, street",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:21:59.797018Z",
+      "action": "link",
+      "itemType": "cluster",
+      "items": [
+        "shape:362dcbd842",
+        "shape:a1d57d6a49"
+      ],
+      "content": {
+        "text": "cafe, food, street",
+        "imageUrls": [
+          "https://picsum.photos/seed/cafe-0/800/600"
+        ],
+        "tags": [
+          "cafe",
+          "food",
+          "street"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 695,
+        "dwell_ms": 372,
+        "reselect_count": 1,
+        "hover_ms": 115,
+        "scrub_px": 6
+      },
+      "tempo": {
+        "gap_prev_ms": 1321,
+        "apm_rolling": 37.3,
+        "velocity_px_s": 390.9
+      }
+    },
+    {
+      "text": "draw mountains, hiking",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:22:09.797018Z",
+      "action": "draw",
+      "itemType": "note",
+      "items": [
+        "shape:d7dac1c39d"
+      ],
+      "content": {
+        "text": "mountains, hiking",
+        "imageUrls": [
+          "https://picsum.photos/seed/mountains-0/800/600",
+          "https://picsum.photos/seed/hiking-1/800/600",
+          "https://picsum.photos/seed/mountains-2/800/600"
+        ],
+        "tags": [
+          "mountains",
+          "hiking"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 421,
+        "dwell_ms": 318,
+        "reselect_count": 3,
+        "hover_ms": 112,
+        "scrub_px": 19
+      },
+      "tempo": {
+        "gap_prev_ms": 708,
+        "apm_rolling": 40.4,
+        "velocity_px_s": 455.5
+      }
+    },
+    {
+      "text": "highlight museum",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:22:19.797018Z",
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:d259653dc7"
+      ],
+      "content": {
+        "text": "museum",
+        "imageUrls": [
+          "https://picsum.photos/seed/museum-0/800/600",
+          "https://picsum.photos/seed/museum-1/800/600"
+        ],
+        "tags": [
+          "museum"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 637,
+        "dwell_ms": 333,
+        "reselect_count": 2,
+        "hover_ms": 134,
+        "scrub_px": 18
+      },
+      "tempo": {
+        "gap_prev_ms": 1447,
+        "apm_rolling": 47.3,
+        "velocity_px_s": 176.7
+      }
+    },
+    {
+      "text": "cluster alpine, lake, relax",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:22:29.797018Z",
+      "action": "cluster",
+      "itemType": "image",
+      "items": [
+        "shape:45a6b7ba49",
+        "shape:5dfe047d8c",
+        "shape:87d8a8b272"
+      ],
+      "content": {
+        "text": "alpine, lake, relax",
+        "imageUrls": [
+          "https://picsum.photos/seed/alpine-0/800/600",
+          "https://picsum.photos/seed/lake-1/800/600",
+          "https://picsum.photos/seed/relax-2/800/600"
+        ],
+        "tags": [
+          "alpine",
+          "lake",
+          "relax"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 140,
+        "dwell_ms": 422,
+        "reselect_count": 0,
+        "hover_ms": 162,
+        "scrub_px": 36
+      },
+      "tempo": {
+        "gap_prev_ms": 1816,
+        "apm_rolling": 43.4,
+        "velocity_px_s": 270.6
+      }
+    },
+    {
+      "text": "ungroup city, tram",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:22:39.797018Z",
+      "action": "ungroup",
+      "itemType": "cluster",
+      "items": [
+        "shape:a2efed7e37",
+        "shape:d6f39a512f"
+      ],
+      "content": {
+        "text": "city, tram",
+        "imageUrls": [
+          "https://picsum.photos/seed/city-0/800/600",
+          "https://picsum.photos/seed/tram-1/800/600",
+          "https://picsum.photos/seed/city-2/800/600"
+        ],
+        "tags": [
+          "city",
+          "tram"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 170,
+        "dwell_ms": 510,
+        "reselect_count": 0,
+        "hover_ms": 89,
+        "scrub_px": 30
+      },
+      "tempo": {
+        "gap_prev_ms": 1627,
+        "apm_rolling": 35.6,
+        "velocity_px_s": 149.1
+      }
+    },
+    {
+      "text": "edit vineyard, wine",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:22:49.797018Z",
+      "action": "edit",
+      "itemType": "image",
+      "items": [
+        "shape:909313e1f4",
+        "shape:6a5a67f8b6"
+      ],
+      "content": {
+        "text": "vineyard, wine",
+        "imageUrls": [
+          "https://picsum.photos/seed/vineyard-0/800/600",
+          "https://picsum.photos/seed/wine-1/800/600",
+          "https://picsum.photos/seed/vineyard-2/800/600"
+        ],
+        "tags": [
+          "vineyard",
+          "wine"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 391,
+        "dwell_ms": 446,
+        "reselect_count": 3,
+        "hover_ms": 191,
+        "scrub_px": 22
+      },
+      "tempo": {
+        "gap_prev_ms": 246,
+        "apm_rolling": 45.8,
+        "velocity_px_s": 290.6
+      }
+    },
+    {
+      "text": "add_note cathedral, architecture",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:22:59.797018Z",
+      "action": "add_note",
+      "itemType": "note",
+      "items": [
+        "shape:f11377d0a1"
+      ],
+      "content": {
+        "text": "cathedral, architecture",
+        "imageUrls": [
+          "https://picsum.photos/seed/cathedral-0/800/600",
+          "https://picsum.photos/seed/architecture-1/800/600"
+        ],
+        "tags": [
+          "cathedral",
+          "architecture"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 394,
+        "dwell_ms": 146,
+        "reselect_count": 1,
+        "hover_ms": 121,
+        "scrub_px": 25
+      },
+      "tempo": {
+        "gap_prev_ms": 1984,
+        "apm_rolling": 29.4,
+        "velocity_px_s": 199.9
+      }
+    },
+    {
+      "text": "move market, food, locals",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:23:09.797018Z",
+      "action": "move",
+      "itemType": "cluster",
+      "items": [
+        "shape:5e4f72b23e",
+        "shape:b10a365c83",
+        "shape:0416aea342"
+      ],
+      "content": {
+        "text": "market, food, locals",
+        "imageUrls": [
+          "https://picsum.photos/seed/market-0/800/600",
+          "https://picsum.photos/seed/food-1/800/600"
+        ],
+        "tags": [
+          "market",
+          "food",
+          "locals"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 525,
+        "dwell_ms": 263,
+        "reselect_count": 3,
+        "hover_ms": 79,
+        "scrub_px": 9
+      },
+      "tempo": {
+        "gap_prev_ms": 369,
+        "apm_rolling": 17.5,
+        "velocity_px_s": 231.3
+      }
+    },
+    {
+      "text": "group fjord, boat",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:23:19.797018Z",
+      "action": "group",
+      "itemType": "image",
+      "items": [
+        "shape:9381580a86"
+      ],
+      "content": {
+        "text": "fjord, boat",
+        "imageUrls": [
+          "https://picsum.photos/seed/fjord-0/800/600",
+          "https://picsum.photos/seed/boat-1/800/600"
+        ],
+        "tags": [
+          "fjord",
+          "boat"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 369,
+        "dwell_ms": 224,
+        "reselect_count": 0,
+        "hover_ms": 57,
+        "scrub_px": 26
+      },
+      "tempo": {
+        "gap_prev_ms": 1294,
+        "apm_rolling": 24.7,
+        "velocity_px_s": 391.8
+      }
+    },
+    {
+      "text": "delete queue, busy",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:23:29.797018Z",
+      "action": "delete",
+      "itemType": "image",
+      "items": [
+        "shape:698f0bc054"
+      ],
+      "content": {
+        "text": "queue, busy",
+        "imageUrls": [
+          "https://picsum.photos/seed/queue-0/800/600"
+        ],
+        "tags": [
+          "queue",
+          "busy"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 567,
+        "dwell_ms": 479,
+        "reselect_count": 3,
+        "hover_ms": 121,
+        "scrub_px": 25
+      },
+      "tempo": {
+        "gap_prev_ms": 1007,
+        "apm_rolling": 14.8,
+        "velocity_px_s": 424.5
+      }
+    },
+    {
+      "text": "link itinerary, day1, day2",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:23:39.797018Z",
+      "action": "link",
+      "itemType": "note",
+      "items": [
+        "shape:cf4a5e907a"
+      ],
+      "content": {
+        "text": "itinerary, day1, day2",
+        "imageUrls": [
+          "https://picsum.photos/seed/itinerary-0/800/600",
+          "https://picsum.photos/seed/day1-1/800/600"
+        ],
+        "tags": [
+          "itinerary",
+          "day1",
+          "day2"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 551,
+        "dwell_ms": 163,
+        "reselect_count": 0,
+        "hover_ms": 107,
+        "scrub_px": 38
+      },
+      "tempo": {
+        "gap_prev_ms": 307,
+        "apm_rolling": 14.8,
+        "velocity_px_s": 392.1
+      }
+    },
+    {
+      "text": "draw budget, transport, stay",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:23:49.797018Z",
+      "action": "draw",
+      "itemType": "cluster",
+      "items": [
+        "shape:e83228b13e"
+      ],
+      "content": {
+        "text": "budget, transport, stay",
+        "imageUrls": [
+          "https://picsum.photos/seed/budget-0/800/600"
+        ],
+        "tags": [
+          "budget",
+          "transport",
+          "stay"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 172,
+        "dwell_ms": 186,
+        "reselect_count": 3,
+        "hover_ms": 58,
+        "scrub_px": 40
+      },
+      "tempo": {
+        "gap_prev_ms": 716,
+        "apm_rolling": 46.4,
+        "velocity_px_s": 409.1
+      }
+    },
+    {
+      "text": "highlight sunset, viewpoint",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:23:59.797018Z",
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:2b5f5c67cb",
+        "shape:b07bfab583",
+        "shape:b1f7469a02"
+      ],
+      "content": {
+        "text": "sunset, viewpoint",
+        "imageUrls": [
+          "https://picsum.photos/seed/sunset-0/800/600",
+          "https://picsum.photos/seed/viewpoint-1/800/600",
+          "https://picsum.photos/seed/sunset-2/800/600"
+        ],
+        "tags": [
+          "sunset",
+          "viewpoint"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 591,
+        "dwell_ms": 327,
+        "reselect_count": 2,
+        "hover_ms": 41,
+        "scrub_px": 9
+      },
+      "tempo": {
+        "gap_prev_ms": 409,
+        "apm_rolling": 38.7,
+        "velocity_px_s": 475.4
+      }
+    },
+    {
+      "text": "add_note thermal, spa, relax",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:24:09.797018Z",
+      "action": "add_note",
+      "itemType": "cluster",
+      "items": [
+        "shape:249d2c550f",
+        "shape:692055ba3c",
+        "shape:9c2d971309"
+      ],
+      "content": {
+        "text": "thermal, spa, relax",
+        "imageUrls": [
+          "https://picsum.photos/seed/thermal-0/800/600",
+          "https://picsum.photos/seed/spa-1/800/600"
+        ],
+        "tags": [
+          "thermal",
+          "spa",
+          "relax"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 250,
+        "dwell_ms": 433,
+        "reselect_count": 0,
+        "hover_ms": 155,
+        "scrub_px": 19
+      },
+      "tempo": {
+        "gap_prev_ms": 1516,
+        "apm_rolling": 42.9,
+        "velocity_px_s": 454.2
+      }
+    },
+    {
+      "text": "move ski, alps",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:24:19.797018Z",
+      "action": "move",
+      "itemType": "note",
+      "items": [
+        "shape:22e18d503f",
+        "shape:372c0e135a"
+      ],
+      "content": {
+        "text": "ski, alps",
+        "imageUrls": [
+          "https://picsum.photos/seed/ski-0/800/600",
+          "https://picsum.photos/seed/alps-1/800/600"
+        ],
+        "tags": [
+          "ski",
+          "alps"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 328,
+        "dwell_ms": 352,
+        "reselect_count": 2,
+        "hover_ms": 182,
+        "scrub_px": 14
+      },
+      "tempo": {
+        "gap_prev_ms": 1455,
+        "apm_rolling": 41.0,
+        "velocity_px_s": 592.8
+      }
+    },
+    {
+      "text": "cluster forest, trail, camp",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:24:29.797018Z",
+      "action": "cluster",
+      "itemType": "cluster",
+      "items": [
+        "shape:69c33abd25"
+      ],
+      "content": {
+        "text": "forest, trail, camp",
+        "imageUrls": [
+          "https://picsum.photos/seed/forest-0/800/600",
+          "https://picsum.photos/seed/trail-1/800/600",
+          "https://picsum.photos/seed/camp-2/800/600"
+        ],
+        "tags": [
+          "forest",
+          "trail",
+          "camp"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 332,
+        "dwell_ms": 182,
+        "reselect_count": 3,
+        "hover_ms": 111,
+        "scrub_px": 46
+      },
+      "tempo": {
+        "gap_prev_ms": 259,
+        "apm_rolling": 47.6,
+        "velocity_px_s": 499.3
+      }
+    },
+    {
+      "text": "group gallery, modern-art",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:24:39.797018Z",
+      "action": "group",
+      "itemType": "note",
+      "items": [
+        "shape:9840acb70c",
+        "shape:c12bbaafd8",
+        "shape:18fd579550"
+      ],
+      "content": {
+        "text": "gallery, modern-art",
+        "imageUrls": [
+          "https://picsum.photos/seed/gallery-0/800/600",
+          "https://picsum.photos/seed/modern-art-1/800/600",
+          "https://picsum.photos/seed/gallery-2/800/600"
+        ],
+        "tags": [
+          "gallery",
+          "modern-art"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 457,
+        "dwell_ms": 266,
+        "reselect_count": 0,
+        "hover_ms": 76,
+        "scrub_px": 6
+      },
+      "tempo": {
+        "gap_prev_ms": 664,
+        "apm_rolling": 28.4,
+        "velocity_px_s": 282.1
+      }
+    },
+    {
+      "text": "edit festival, music",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:24:49.797018Z",
+      "action": "edit",
+      "itemType": "image",
+      "items": [
+        "shape:a06eb9bac8",
+        "shape:28748e029c",
+        "shape:79e5369f91"
+      ],
+      "content": {
+        "text": "festival, music",
+        "imageUrls": [
+          "https://picsum.photos/seed/festival-0/800/600",
+          "https://picsum.photos/seed/music-1/800/600",
+          "https://picsum.photos/seed/festival-2/800/600"
+        ],
+        "tags": [
+          "festival",
+          "music"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 768,
+        "dwell_ms": 256,
+        "reselect_count": 0,
+        "hover_ms": 189,
+        "scrub_px": 7
+      },
+      "tempo": {
+        "gap_prev_ms": 995,
+        "apm_rolling": 39.9,
+        "velocity_px_s": 480.1
+      }
+    },
+    {
+      "text": "link train-pass, tickets",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:24:59.797018Z",
+      "action": "link",
+      "itemType": "cluster",
+      "items": [
+        "shape:10df442267",
+        "shape:2b5ae9ef25",
+        "shape:dee323591d"
+      ],
+      "content": {
+        "text": "train-pass, tickets",
+        "imageUrls": [
+          "https://picsum.photos/seed/train-pass-0/800/600"
+        ],
+        "tags": [
+          "train-pass",
+          "tickets"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 505,
+        "dwell_ms": 317,
+        "reselect_count": 3,
+        "hover_ms": 41,
+        "scrub_px": 46
+      },
+      "tempo": {
+        "gap_prev_ms": 525,
+        "apm_rolling": 17.3,
+        "velocity_px_s": 181.0
+      }
+    },
+    {
+      "text": "draw souvenir, handmade",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:25:09.797018Z",
+      "action": "draw",
+      "itemType": "note",
+      "items": [
+        "shape:1a67b85c3a"
+      ],
+      "content": {
+        "text": "souvenir, handmade",
+        "imageUrls": [
+          "https://picsum.photos/seed/souvenir-0/800/600",
+          "https://picsum.photos/seed/handmade-1/800/600",
+          "https://picsum.photos/seed/souvenir-2/800/600"
+        ],
+        "tags": [
+          "souvenir",
+          "handmade"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 771,
+        "dwell_ms": 154,
+        "reselect_count": 3,
+        "hover_ms": 188,
+        "scrub_px": 22
+      },
+      "tempo": {
+        "gap_prev_ms": 519,
+        "apm_rolling": 31.3,
+        "velocity_px_s": 182.9
+      }
+    },
+    {
+      "text": "add_note coast, cliffs",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:25:19.797018Z",
+      "action": "add_note",
+      "itemType": "image",
+      "items": [
+        "shape:5adca50d6e"
+      ],
+      "content": {
+        "text": "coast, cliffs",
+        "imageUrls": [
+          "https://picsum.photos/seed/coast-0/800/600"
+        ],
+        "tags": [
+          "coast",
+          "cliffs"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 639,
+        "dwell_ms": 463,
+        "reselect_count": 1,
+        "hover_ms": 131,
+        "scrub_px": 12
+      },
+      "tempo": {
+        "gap_prev_ms": 1891,
+        "apm_rolling": 43.3,
+        "velocity_px_s": 133.4
+      }
+    },
+    {
+      "text": "highlight oldtown, cobbled-streets",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:25:29.797018Z",
+      "action": "highlight",
+      "itemType": "cluster",
+      "items": [
+        "shape:6422068e46"
+      ],
+      "content": {
+        "text": "oldtown, cobbled-streets",
+        "imageUrls": [
+          "https://picsum.photos/seed/oldtown-0/800/600",
+          "https://picsum.photos/seed/cobbled-streets-1/800/600"
+        ],
+        "tags": [
+          "oldtown",
+          "cobbled-streets"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 700,
+        "dwell_ms": 246,
+        "reselect_count": 2,
+        "hover_ms": 159,
+        "scrub_px": 26
+      },
+      "tempo": {
+        "gap_prev_ms": 1908,
+        "apm_rolling": 15.8,
+        "velocity_px_s": 556.8
+      }
+    }
+  ]
+}

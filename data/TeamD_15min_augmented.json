@@ -1,0 +1,691 @@
+{
+  "TeamD_15min_augmented": [
+    {
+      "text": "A: tossing in hiking and city\u2014just exploring.",
+      "actor": 0,
+      "timestamp": "2025-04-16T23:46:16.753Z",
+      "action": "edit",
+      "itemType": "cluster",
+      "items": [
+        "shape:a1b2c3d4e5"
+      ],
+      "content": {
+        "text": "hiking, city",
+        "imageUrls": [],
+        "tags": [
+          "hiking",
+          "city"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 512,
+        "dwell_ms": 210,
+        "reselect_count": 0,
+        "hover_ms": 88,
+        "scrub_px": 12,
+        "dx": 6,
+        "dy": 3
+      },
+      "tempo": {
+        "gap_prev_ms": null,
+        "apm_rolling": 41.2,
+        "velocity_px_s": null
+      }
+    },
+    {
+      "text": "B: quick note on museum; also food near art.",
+      "actor": 1,
+      "timestamp": "2025-04-16T23:47:01.753Z",
+      "action": "add_note",
+      "itemType": "note",
+      "items": [
+        "shape:f1e2d3c4b5",
+        "shape:99aa77bbcc"
+      ],
+      "content": {
+        "text": "museum, food, art",
+        "imageUrls": [],
+        "tags": [
+          "museum",
+          "food",
+          "art"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 286,
+        "dwell_ms": 330,
+        "reselect_count": 1,
+        "hover_ms": 60,
+        "scrub_px": 8,
+        "dx": -10,
+        "dy": 14
+      },
+      "tempo": {
+        "gap_prev_ms": 45000,
+        "apm_rolling": 43.0,
+        "velocity_px_s": null
+      }
+    },
+    {
+      "text": "C: highlight beach so we can cluster later.",
+      "actor": 2,
+      "timestamp": "2025-04-16T23:47:46.753Z",
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:beach00001"
+      ],
+      "content": {
+        "text": "beach",
+        "imageUrls": [],
+        "tags": [
+          "beach"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 463,
+        "dwell_ms": 190,
+        "reselect_count": 0,
+        "hover_ms": 75,
+        "scrub_px": 3,
+        "dx": 18,
+        "dy": -5
+      },
+      "tempo": {
+        "gap_prev_ms": 45000,
+        "apm_rolling": 40.8,
+        "velocity_px_s": null
+      }
+    },
+    {
+      "text": "A: quick note on nature; also hiking near city.",
+      "actor": 0,
+      "timestamp": "2025-04-16T23:48:31.753Z",
+      "action": "add_note",
+      "itemType": "note",
+      "items": [
+        "shape:nat0001",
+        "shape:hike0002"
+      ],
+      "content": {
+        "text": "nature, hiking, city",
+        "imageUrls": [],
+        "tags": [
+          "nature",
+          "hiking",
+          "city"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 372,
+        "dwell_ms": 270,
+        "reselect_count": 2,
+        "hover_ms": 90,
+        "scrub_px": 20,
+        "dx": -6,
+        "dy": 9
+      },
+      "tempo": {
+        "gap_prev_ms": 45000,
+        "apm_rolling": 42.3,
+        "velocity_px_s": null
+      }
+    },
+    {
+      "text": "B: tossing in museum and art",
+      "actor": 1,
+      "timestamp": "2025-04-16T23:49:16.753Z",
+      "action": "edit",
+      "itemType": "cluster",
+      "items": [
+        "shape:msm0003",
+        "shape:art0004"
+      ],
+      "content": {
+        "text": "museum, art",
+        "imageUrls": [],
+        "tags": [
+          "museum",
+          "art"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 601,
+        "dwell_ms": 190,
+        "reselect_count": 0,
+        "hover_ms": 40,
+        "scrub_px": 10,
+        "dx": 3,
+        "dy": 2
+      },
+      "tempo": {
+        "gap_prev_ms": 45000,
+        "apm_rolling": 41.5,
+        "velocity_px_s": null
+      }
+    },
+    {
+      "text": "C: highlight food",
+      "actor": 2,
+      "timestamp": "2025-04-16T23:50:01.753Z",
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:food0005"
+      ],
+      "content": {
+        "text": "food",
+        "imageUrls": [],
+        "tags": [
+          "food"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 428,
+        "dwell_ms": 180,
+        "reselect_count": 0,
+        "hover_ms": 55,
+        "scrub_px": 6,
+        "dx": -8,
+        "dy": 2
+      },
+      "tempo": {
+        "gap_prev_ms": 45000,
+        "apm_rolling": 39.6,
+        "velocity_px_s": null
+      }
+    },
+    {
+      "text": "A: grouping budget/route under logistics; tickets later.",
+      "actor": 0,
+      "timestamp": "2025-04-16T23:50:46.753Z",
+      "action": "group",
+      "itemType": "cluster",
+      "items": [
+        "shape:bud0006",
+        "shape:rte0007",
+        "shape:tkt0008"
+      ],
+      "content": {
+        "text": "budget, route, tickets",
+        "imageUrls": [],
+        "tags": [
+          "budget",
+          "route",
+          "tickets"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 540,
+        "dwell_ms": 310,
+        "reselect_count": 1,
+        "hover_ms": 110,
+        "scrub_px": 14,
+        "dx": 11,
+        "dy": -12
+      },
+      "tempo": {
+        "gap_prev_ms": 45000,
+        "apm_rolling": 33.8,
+        "velocity_px_s": null
+      }
+    },
+    {
+      "text": "B: link schedule to tickets\u2014same thread as route.",
+      "actor": 1,
+      "timestamp": "2025-04-16T23:51:31.753Z",
+      "action": "link",
+      "itemType": "note",
+      "items": [
+        "shape:sch0009",
+        "shape:tkt0008"
+      ],
+      "content": {
+        "text": "schedule, tickets",
+        "imageUrls": [],
+        "tags": [
+          "schedule",
+          "tickets"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 351,
+        "dwell_ms": 225,
+        "reselect_count": 1,
+        "hover_ms": 84,
+        "scrub_px": 7,
+        "dx": 5,
+        "dy": 4
+      },
+      "tempo": {
+        "gap_prev_ms": 45000,
+        "apm_rolling": 34.2,
+        "velocity_px_s": null
+      }
+    },
+    {
+      "text": "C: removing duplicate city image; keeping the cleaner one.",
+      "actor": 2,
+      "timestamp": "2025-04-16T23:52:16.753Z",
+      "action": "delete",
+      "itemType": "image",
+      "items": [
+        "shape:citydup01"
+      ],
+      "content": {
+        "text": "city",
+        "imageUrls": [],
+        "tags": [
+          "city"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 284,
+        "dwell_ms": 180,
+        "reselect_count": 0,
+        "hover_ms": 40,
+        "scrub_px": 3,
+        "dx": -3,
+        "dy": 7
+      },
+      "tempo": {
+        "gap_prev_ms": 45000,
+        "apm_rolling": 32.9,
+        "velocity_px_s": null
+      }
+    },
+    {
+      "text": "A: grouping Alps/city under route; shortlist next.",
+      "actor": 0,
+      "timestamp": "2025-04-16T23:53:01.753Z",
+      "action": "group",
+      "itemType": "cluster",
+      "items": [
+        "shape:alps0010",
+        "shape:city0011"
+      ],
+      "content": {
+        "text": "Alps, city",
+        "imageUrls": [],
+        "tags": [
+          "Alps",
+          "city"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 470,
+        "dwell_ms": 260,
+        "reselect_count": 1,
+        "hover_ms": 70,
+        "scrub_px": 15,
+        "dx": 9,
+        "dy": -4
+      },
+      "tempo": {
+        "gap_prev_ms": 45000,
+        "apm_rolling": 33.7,
+        "velocity_px_s": null
+      }
+    },
+    {
+      "text": "B: link budget to route\u2014confirming feasibility.",
+      "actor": 1,
+      "timestamp": "2025-04-16T23:53:46.753Z",
+      "action": "link",
+      "itemType": "note",
+      "items": [
+        "shape:bud0006",
+        "shape:rte0007"
+      ],
+      "content": {
+        "text": "budget, route",
+        "imageUrls": [],
+        "tags": [
+          "budget",
+          "route"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 420,
+        "dwell_ms": 210,
+        "reselect_count": 0,
+        "hover_ms": 60,
+        "scrub_px": 4,
+        "dx": 2,
+        "dy": 2
+      },
+      "tempo": {
+        "gap_prev_ms": 45000,
+        "apm_rolling": 34.5,
+        "velocity_px_s": null
+      }
+    },
+    {
+      "text": "C: add note\u2014tickets window and evening arrivals.",
+      "actor": 2,
+      "timestamp": "2025-04-16T23:54:31.753Z",
+      "action": "add_note",
+      "itemType": "note",
+      "items": [
+        "shape:tkt0012"
+      ],
+      "content": {
+        "text": "tickets, evening",
+        "imageUrls": [],
+        "tags": [
+          "tickets",
+          "evening"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 388,
+        "dwell_ms": 240,
+        "reselect_count": 1,
+        "hover_ms": 65,
+        "scrub_px": 5,
+        "dx": -6,
+        "dy": 6
+      },
+      "tempo": {
+        "gap_prev_ms": 45000,
+        "apm_rolling": 32.0,
+        "velocity_px_s": null
+      }
+    },
+    {
+      "text": "A: shortlist is Alps, city; pushing beach.",
+      "actor": 0,
+      "timestamp": "2025-04-16T23:55:16.753Z",
+      "action": "highlight",
+      "itemType": "cluster",
+      "items": [
+        "shape:alps0010",
+        "shape:city0011"
+      ],
+      "content": {
+        "text": "shortlist, Alps, city",
+        "imageUrls": [],
+        "tags": [
+          "shortlist",
+          "Alps",
+          "city"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 590,
+        "dwell_ms": 210,
+        "reselect_count": 0,
+        "hover_ms": 70,
+        "scrub_px": 8,
+        "dx": 7,
+        "dy": -3
+      },
+      "tempo": {
+        "gap_prev_ms": 45000,
+        "apm_rolling": 24.6,
+        "velocity_px_s": null
+      }
+    },
+    {
+      "text": "B: lock route via city then Alps; budget ok.",
+      "actor": 1,
+      "timestamp": "2025-04-16T23:56:01.753Z",
+      "action": "edit",
+      "itemType": "cluster",
+      "items": [
+        "shape:rte0007"
+      ],
+      "content": {
+        "text": "route, city, Alps",
+        "imageUrls": [],
+        "tags": [
+          "route",
+          "city",
+          "Alps"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 330,
+        "dwell_ms": 300,
+        "reselect_count": 1,
+        "hover_ms": 95,
+        "scrub_px": 10,
+        "dx": 4,
+        "dy": 5
+      },
+      "tempo": {
+        "gap_prev_ms": 45000,
+        "apm_rolling": 25.1,
+        "velocity_px_s": null
+      }
+    },
+    {
+      "text": "C: final touch\u2014highlight tickets for summary.",
+      "actor": 2,
+      "timestamp": "2025-04-16T23:56:46.753Z",
+      "action": "highlight",
+      "itemType": "note",
+      "items": [
+        "shape:tkt0012"
+      ],
+      "content": {
+        "text": "final, tickets",
+        "imageUrls": [],
+        "tags": [
+          "final",
+          "tickets"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 270,
+        "dwell_ms": 180,
+        "reselect_count": 0,
+        "hover_ms": 55,
+        "scrub_px": 4,
+        "dx": -2,
+        "dy": 1
+      },
+      "tempo": {
+        "gap_prev_ms": 45000,
+        "apm_rolling": 23.4,
+        "velocity_px_s": null
+      }
+    },
+    {
+      "text": "A: move shortlist near route to wrap up.",
+      "actor": 0,
+      "timestamp": "2025-04-16T23:57:31.753Z",
+      "action": "move",
+      "itemType": "image",
+      "items": [
+        "shape:short0013"
+      ],
+      "content": {
+        "text": "final, shortlist, route",
+        "imageUrls": [],
+        "tags": [
+          "final",
+          "shortlist",
+          "route"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 402,
+        "dwell_ms": 210,
+        "reselect_count": 1,
+        "hover_ms": 80,
+        "scrub_px": 18,
+        "dx": 20,
+        "dy": -10
+      },
+      "tempo": {
+        "gap_prev_ms": 45000,
+        "apm_rolling": 24.0,
+        "velocity_px_s": null
+      }
+    },
+    {
+      "text": "B: add note\u2014morning departure, evening check-in.",
+      "actor": 1,
+      "timestamp": "2025-04-16T23:58:16.753Z",
+      "action": "add_note",
+      "itemType": "note",
+      "items": [
+        "shape:time0014"
+      ],
+      "content": {
+        "text": "morning, evening",
+        "imageUrls": [],
+        "tags": [
+          "morning",
+          "evening"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 360,
+        "dwell_ms": 250,
+        "reselect_count": 1,
+        "hover_ms": 60,
+        "scrub_px": 9,
+        "dx": 3,
+        "dy": 6
+      },
+      "tempo": {
+        "gap_prev_ms": 45000,
+        "apm_rolling": 23.1,
+        "velocity_px_s": null
+      }
+    },
+    {
+      "text": "C: ungroup backlog\u2014city beach image goes out.",
+      "actor": 2,
+      "timestamp": "2025-04-16T23:59:01.753Z",
+      "action": "ungroup",
+      "itemType": "cluster",
+      "items": [
+        "shape:backlog01"
+      ],
+      "content": {
+        "text": "backlog, city, beach",
+        "imageUrls": [],
+        "tags": [
+          "backlog",
+          "city",
+          "beach"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 318,
+        "dwell_ms": 230,
+        "reselect_count": 0,
+        "hover_ms": 52,
+        "scrub_px": 5,
+        "dx": -5,
+        "dy": 2
+      },
+      "tempo": {
+        "gap_prev_ms": 45000,
+        "apm_rolling": 22.5,
+        "velocity_px_s": null
+      }
+    },
+    {
+      "text": "A: final touch\u2014highlight shortlist for summary slide.",
+      "actor": 0,
+      "timestamp": "2025-04-16T23:59:46.753Z",
+      "action": "highlight",
+      "itemType": "image",
+      "items": [
+        "shape:short0013"
+      ],
+      "content": {
+        "text": "final, shortlist",
+        "imageUrls": [],
+        "tags": [
+          "final",
+          "shortlist"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 510,
+        "dwell_ms": 200,
+        "reselect_count": 0,
+        "hover_ms": 78,
+        "scrub_px": 6,
+        "dx": 8,
+        "dy": -4
+      },
+      "tempo": {
+        "gap_prev_ms": 45000,
+        "apm_rolling": 22.0,
+        "velocity_px_s": null
+      }
+    },
+    {
+      "text": "B: lock route via city then Alps; confirm budget again.",
+      "actor": 1,
+      "timestamp": "2025-04-17T00:00:31.753Z",
+      "action": "edit",
+      "itemType": "cluster",
+      "items": [
+        "shape:rte0007",
+        "shape:bud0006"
+      ],
+      "content": {
+        "text": "route, budget",
+        "imageUrls": [],
+        "tags": [
+          "route",
+          "budget"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 404,
+        "dwell_ms": 260,
+        "reselect_count": 1,
+        "hover_ms": 66,
+        "scrub_px": 10,
+        "dx": 2,
+        "dy": 3
+      },
+      "tempo": {
+        "gap_prev_ms": 45000,
+        "apm_rolling": 21.6,
+        "velocity_px_s": null
+      }
+    },
+    {
+      "text": "C: draw final note\u2014tickets synced with morning departure.",
+      "actor": 2,
+      "timestamp": "2025-04-17T00:01:16.753Z",
+      "action": "draw",
+      "itemType": "note",
+      "items": [
+        "shape:finaltick01"
+      ],
+      "content": {
+        "text": "final, tickets, morning",
+        "imageUrls": [],
+        "tags": [
+          "final",
+          "tickets",
+          "morning"
+        ]
+      },
+      "micro": {
+        "pointer_path_px": 296,
+        "dwell_ms": 240,
+        "reselect_count": 0,
+        "hover_ms": 58,
+        "scrub_px": 7,
+        "dx": -4,
+        "dy": 5
+      },
+      "tempo": {
+        "gap_prev_ms": 45000,
+        "apm_rolling": 21.0,
+        "velocity_px_s": null
+      }
+    }
+  ]
+}

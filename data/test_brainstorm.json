@@ -1,0 +1,59 @@
+{
+  "team_brainstorm_session_small": [
+    {
+      "text": "let's plan a weekend trip",
+      "timestamp": "2025-10-26T10:00:05Z",
+      "actor": 0
+    },
+    {
+      "text": "we could go hiking in the mountains",
+      "timestamp": "2025-10-26T10:00:25Z",
+      "actor": 1
+    },
+    {
+      "text": "what about something relaxing like the beach",
+      "timestamp": "2025-10-26T10:00:48Z",
+      "actor": 0
+    },
+    {
+      "text": "we could rent a cabin near the lake",
+      "timestamp": "2025-10-26T10:01:10Z",
+      "actor": 1
+    },
+    {
+      "text": "yeah, that’s close enough for a short drive",
+      "timestamp": "2025-10-26T10:01:35Z",
+      "actor": 0
+    },
+    {
+      "text": "let’s make a checklist of what to bring",
+      "timestamp": "2025-10-26T10:02:05Z",
+      "actor": 1
+    },
+    {
+      "text": "food, tent, first-aid kit, camera",
+      "timestamp": "2025-10-26T10:02:22Z",
+      "actor": 0
+    },
+    {
+      "text": "someone should check the weather forecast",
+      "timestamp": "2025-10-26T10:02:50Z",
+      "actor": 1
+    },
+    {
+      "text": "forecast says light rain on saturday",
+      "timestamp": "2025-10-26T10:03:15Z",
+      "actor": 0
+    },
+    {
+      "text": "then we’ll need extra tarps and jackets",
+      "timestamp": "2025-10-26T10:03:40Z",
+      "actor": 1
+    },
+    {
+      "text": "cool, let's finalize the plan tonight",
+      "timestamp": "2025-10-26T10:04:05Z",
+      "actor": 0
+    }
+  ]
+}

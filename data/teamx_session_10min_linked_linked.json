@@ -1,0 +1,36 @@
+{
+  "TeamX": {
+    "moves": [
+      {
+        "text": "edit hiking city adventure",
+        "actor": 1,
+        "timestamp": "2025-10-31T02:20:39.797018Z",
+        "action": "edit",
+        "itemType": "cluster",
+        "items": [
+          "shape:czegj32zbr",
+          "shape:paqlpc14mw",
+          "shape:815bzjbr55"
+        ],
+        "content": {
+          "text": "hiking, city, adventure",
+          "imageUrls": [],
+          "tags": [
+            "hiking",
+            "city",
+            "adventure"
+          ]
+        },
+        "micro": {
+          "pointer_path_px": 346,
+          "dwell_ms": 267,
+          "reselect_count": 0,
+          "hover_ms": 68,
+          "scrub_px": 4
+        },
+        "tempo": {
+          "gap_prev_ms": 1299,
+          "apm_rolling": 25.1,
+          "velocity_px_s": 448.9
+        },
+        "_t": 
