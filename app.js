@@ -16,7 +16,7 @@ const GRAPH_WIDTH = 1000;
 const INIT_X = 10;
 const INIT_Y = { FULL: 500, INDEX: 80, NONE: 60 }[MOVE_TEXT_MODE];
 const MOVE_LINK_BAR_HEIGHT = 40; // how tall the forelink/backlink bars over each move should be
-const MIN_LINK_STRENGTH = 0.7;
+const MIN_LINK_STRENGTH = 0.2;
 const SEGMENT_THRESHOLD = 1000 * 60 * 30; // 30 mins -> milliseconds
 // const MOVE_TEXT_MODE = "INDEX"; // or "FULL"
 
