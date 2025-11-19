@@ -91,6 +91,16 @@ const ARTIFACTS_BY_DATASET = {
       "./data/outputs_v0_clip/teamx_phase_confidence.csv",
     ],
   },
+  "./data/team_roadtrip_session_10min_linked.json": {
+    images: [
+      "./data/outputs_roadtrip_v4/teamx_phase_confidence_timeline.png",
+      "./data/outputs_roadtrip_v4/teamx_phase_confidence_lines.png",
+    ],
+    csvs: [
+      "./data/outputs_roadtrip_v4/teamx_window_metrics_labeled.csv",
+      "./data/outputs_roadtrip_v4/teamx_phase_confidence.csv",
+    ],
+  },
 };
 
 // Distinct colors per actor; extend if you have more actors.
