@@ -48,6 +48,22 @@ const METRIC_INFO = {
     "Move label style: FULL shows text; INDEX shows indices; NONE hides labels.",
 };
 
+// Optional modality-aware per-pair thresholds
+const MODALITY_THRESHOLDS = {
+  "text:text": 0.6,
+  "text:image": 0.35,
+  "image:text": 0.35,
+  "image:image": 0.3,
+};
+
+// Fallback for unknown modality or "others"
+function getPairThreshold(m1, m2) {
+  const a = (m1.modality || "others").split("_")[0]; // "text", "image", ...
+  const b = (m2.modality || "others").split("_")[0];
+  const key = `${a}:${b}`;
+  return MODALITY_THRESHOLDS[key] ?? MIN_LINK_STRENGTH;
+}
+
 // Map dataset path -> related artifact files (images/CSVs) shown in the sidebar
 const ARTIFACTS_BY_DATASET = {
   "./data/teamx_v3_linked.json": {
@@ -718,10 +734,21 @@ function makeLinkObjects(props) {
   for (const [currIdx, linkSet] of Object.entries(props.links)) {
     const currLoc = moveLoc({ ...props, idx: currIdx });
     for (const [prevIdx, strength] of Object.entries(linkSet)) {
-      if (strength < MIN_LINK_STRENGTH) continue; // skip weak connections (arbitrary threshold)
+      // if (strength < MIN_LINK_STRENGTH) continue; // skip weak connections (arbitrary threshold)
+      // const prevLoc = moveLoc({ ...props, idx: prevIdx });
+      // const jointLoc = elbow(currLoc, prevLoc);
+      // const lineStrength = scale(strength, [MIN_LINK_STRENGTH, 1], [255, 0]);
+      const mCurr = props.moves[currIdx];
+      const mPrev = props.moves[prevIdx];
+
+      // NEW: modality-aware cutoff
+      const pairThreshold = getPairThreshold(mCurr, mPrev);
+      if (strength < pairThreshold) continue;
+
       const prevLoc = moveLoc({ ...props, idx: prevIdx });
       const jointLoc = elbow(currLoc, prevLoc);
-      const lineStrength = scale(strength, [MIN_LINK_STRENGTH, 1], [255, 0]);
+
+      const lineStrength = scale(strength, [pairThreshold, 1], [255, 0]);
       let color = "";
       if (props.actors.size > 1 && SHOULD_COLORIZE_LINKS) {
         const currActor = props.moves[currIdx].actor || 0;
@@ -877,6 +904,28 @@ async function normalizeAndComputeEpisode(jsonLike, fallbackTitle = "Episode") {
   if (!links) {
     links = await computeLinks(moves);
   }
+
+  const modalities = jsonLike.modality || [];
+
+  // Attach modality onto each move (fallback guess if not provided)
+  moves.forEach((m, idx) => {
+    if (modalities[idx]) {
+      m.modality = modalities[idx]; // "text", "image", "text_image", "others"
+    } else {
+      // Fallback: infer from fields
+      const hasUrl =
+        m.url ||
+        m.imageUrl ||
+        (m.content &&
+          Array.isArray(m.content.imageUrls) &&
+          m.content.imageUrls.length > 0);
+      const hasText = !!(m.text || (m.content && m.content.text));
+      if (hasText && hasUrl) m.modality = "text_image";
+      else if (hasText) m.modality = "text";
+      else if (hasUrl) m.modality = "image";
+      else m.modality = "others";
+    }
+  });
 
   // Prepare the episode and compute all stats
   const episode = {
