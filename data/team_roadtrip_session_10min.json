@@ -1,0 +1,778 @@
+{
+  "TeamRoadTrip": [
+    {
+      "text": "We talk about a road trip that visits Colorado Utah and Nevada in one loop.",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:20:00Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": ["shape:r001"],
+      "content": {
+        "text": "We talk about a road trip that visits Colorado Utah and Nevada in one loop.",
+        "imageUrls": [],
+        "tags": ["route", "overview"]
+      },
+      "micro": {
+        "pointer_path_px": 420,
+        "dwell_ms": 410,
+        "reselect_count": 1,
+        "hover_ms": 120,
+        "scrub_px": 8
+      },
+      "tempo": {
+        "gap_prev_ms": 0,
+        "apm_rolling": 18.2,
+        "velocity_px_s": 310.4
+      }
+    },
+    {
+      "text": "",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:20:20Z",
+      "action": "image",
+      "itemType": "image",
+      "items": ["shape:r002"],
+      "content": {
+        "text": "",
+        "imageUrls": [
+          "https://i.pinimg.com/564x/ac/6a/60/ac6a605db68bacf2db01896635f540b3.jpg"
+        ],
+        "tags": ["map", "route"]
+      },
+      "micro": {
+        "pointer_path_px": 510,
+        "dwell_ms": 260,
+        "reselect_count": 0,
+        "hover_ms": 80,
+        "scrub_px": 12
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 17.5,
+        "velocity_px_s": 295.1
+      }
+    },
+    {
+      "text": "The group suggests that Denver could be the starting point for the trip.",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:20:40Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": ["shape:r003"],
+      "content": {
+        "text": "The group suggests that Denver could be the starting point for the trip.",
+        "imageUrls": [],
+        "tags": ["denver", "start"]
+      },
+      "micro": {
+        "pointer_path_px": 600,
+        "dwell_ms": 320,
+        "reselect_count": 1,
+        "hover_ms": 160,
+        "scrub_px": 18
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 19.1,
+        "velocity_px_s": 330.0
+      }
+    },
+    {
+      "text": "",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:21:00Z",
+      "action": "image",
+      "itemType": "image",
+      "items": ["shape:r004"],
+      "content": {
+        "text": "",
+        "imageUrls": [
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Denver_Skyline_in_Winter.JPG/960px-Denver_Skyline_in_Winter.JPG"
+        ],
+        "tags": ["denver", "city"]
+      },
+      "micro": {
+        "pointer_path_px": 360,
+        "dwell_ms": 280,
+        "reselect_count": 0,
+        "hover_ms": 95,
+        "scrub_px": 10
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 18.8,
+        "velocity_px_s": 275.3
+      }
+    },
+    {
+      "text": "We mention that one option is to spend the first night in Denver to explore the city.",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:21:20Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": ["shape:r005"],
+      "content": {
+        "text": "We mention that one option is to spend the first night in Denver to explore the city.",
+        "imageUrls": [],
+        "tags": ["denver", "night"]
+      },
+      "micro": {
+        "pointer_path_px": 540,
+        "dwell_ms": 400,
+        "reselect_count": 2,
+        "hover_ms": 180,
+        "scrub_px": 22
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 20.2,
+        "velocity_px_s": 345.9
+      }
+    },
+    {
+      "text": "Another idea appears where someone wants to go straight from the airport to the mountains.",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:21:40Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": ["shape:r006"],
+      "content": {
+        "text": "Another idea appears where someone wants to go straight from the airport to the mountains.",
+        "imageUrls": [],
+        "tags": ["colorado", "mountains"]
+      },
+      "micro": {
+        "pointer_path_px": 410,
+        "dwell_ms": 260,
+        "reselect_count": 0,
+        "hover_ms": 110,
+        "scrub_px": 6
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 19.6,
+        "velocity_px_s": 300.5
+      }
+    },
+    {
+      "text": "",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:22:00Z",
+      "action": "image",
+      "itemType": "image",
+      "items": ["shape:r007"],
+      "content": {
+        "text": "",
+        "imageUrls": [
+          "https://thenextsummit.org/wp-content/uploads/2024/05/Emerald-Lake-Colorado-1024x512.png"
+        ],
+        "tags": ["lake", "mountains"]
+      },
+      "micro": {
+        "pointer_path_px": 495,
+        "dwell_ms": 350,
+        "reselect_count": 1,
+        "hover_ms": 130,
+        "scrub_px": 13
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 21.0,
+        "velocity_px_s": 320.7
+      }
+    },
+    {
+      "text": "The group brings up a third option where the first night is in a small town between Denver and the park.",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:22:20Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": ["shape:r008"],
+      "content": {
+        "text": "The group brings up a third option where the first night is in a small town between Denver and the park.",
+        "imageUrls": [],
+        "tags": ["lodging", "option"]
+      },
+      "micro": {
+        "pointer_path_px": 530,
+        "dwell_ms": 290,
+        "reselect_count": 0,
+        "hover_ms": 100,
+        "scrub_px": 9
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 20.3,
+        "velocity_px_s": 305.2
+      }
+    },
+    {
+      "text": "",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:22:40Z",
+      "action": "image",
+      "itemType": "image",
+      "items": ["shape:r009"],
+      "content": {
+        "text": "",
+        "imageUrls": [
+          "https://marvel-b1-cdn.bc0a.com/f00000000295839/red.msudenver.edu/wp-content/uploads/2023/02/shutterstock_1390596320.jpg"
+        ],
+        "tags": ["road", "hills"]
+      },
+      "micro": {
+        "pointer_path_px": 610,
+        "dwell_ms": 410,
+        "reselect_count": 1,
+        "hover_ms": 180,
+        "scrub_px": 20
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 19.7,
+        "velocity_px_s": 338.8
+      }
+    },
+    {
+      "text": "We notice that the ideas are spreading out between city time mountain time and a mixed option.",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:23:00Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": ["shape:r010"],
+      "content": {
+        "text": "We notice that the ideas are spreading out between city time mountain time and a mixed option.",
+        "imageUrls": [],
+        "tags": ["divergence", "choices"]
+      },
+      "micro": {
+        "pointer_path_px": 450,
+        "dwell_ms": 270,
+        "reselect_count": 0,
+        "hover_ms": 120,
+        "scrub_px": 7
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 18.9,
+        "velocity_px_s": 290.0
+      }
+    },
+    {
+      "text": "The discussion turns toward the drive from Denver to Moab and how many stops feel comfortable.",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:23:20Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": ["shape:r011"],
+      "content": {
+        "text": "The discussion turns toward the drive from Denver to Moab and how many stops feel comfortable.",
+        "imageUrls": [],
+        "tags": ["drive", "moab"]
+      },
+      "micro": {
+        "pointer_path_px": 580,
+        "dwell_ms": 390,
+        "reselect_count": 1,
+        "hover_ms": 150,
+        "scrub_px": 17
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 20.8,
+        "velocity_px_s": 340.2
+      }
+    },
+    {
+      "text": "",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:23:40Z",
+      "action": "image",
+      "itemType": "image",
+      "items": ["shape:r012"],
+      "content": {
+        "text": "",
+        "imageUrls": [
+          "https://kateskairos.wordpress.com/wp-content/uploads/2017/06/screen-shot-2017-06-08-at-8-16-41-pm.png?w=820&h=312&crop=1"
+        ],
+        "tags": ["highway", "redrock"]
+      },
+      "micro": {
+        "pointer_path_px": 430,
+        "dwell_ms": 260,
+        "reselect_count": 0,
+        "hover_ms": 110,
+        "scrub_px": 11
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 19.5,
+        "velocity_px_s": 297.9
+      }
+    },
+    {
+      "text": "We agree that a simple first segment works best where we stay one night in Denver and then leave early for Utah.",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:24:00Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": ["shape:r013"],
+      "content": {
+        "text": "We agree that a simple first segment works best where we stay one night in Denver and then leave early for Utah.",
+        "imageUrls": [],
+        "tags": ["convergence", "denver"]
+      },
+      "micro": {
+        "pointer_path_px": 520,
+        "dwell_ms": 345,
+        "reselect_count": 1,
+        "hover_ms": 130,
+        "scrub_px": 14
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 21.2,
+        "velocity_px_s": 315.7
+      }
+    },
+    {
+      "text": "The group settles on Moab as the main base in Utah with time for two national parks.",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:24:20Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": ["shape:r014"],
+      "content": {
+        "text": "The group settles on Moab as the main base in Utah with time for two national parks.",
+        "imageUrls": [],
+        "tags": ["moab", "base"]
+      },
+      "micro": {
+        "pointer_path_px": 470,
+        "dwell_ms": 280,
+        "reselect_count": 0,
+        "hover_ms": 100,
+        "scrub_px": 9
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 20.6,
+        "velocity_px_s": 302.4
+      }
+    },
+    {
+      "text": "",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:24:40Z",
+      "action": "image",
+      "itemType": "image",
+      "items": ["shape:r015"],
+      "content": {
+        "text": "",
+        "imageUrls": [
+          "https://upload.wikimedia.org/wikipedia/commons/f/f0/Delicate_arch_sunset.jpg"
+        ],
+        "tags": ["arches", "utah"]
+      },
+      "micro": {
+        "pointer_path_px": 610,
+        "dwell_ms": 380,
+        "reselect_count": 1,
+        "hover_ms": 170,
+        "scrub_px": 18
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 19.9,
+        "velocity_px_s": 334.8
+      }
+    },
+    {
+      "text": "We write down that one day in Moab focuses on Arches and another day focuses on Canyonlands.",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:25:00Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": ["shape:r016"],
+      "content": {
+        "text": "We write down that one day in Moab focuses on Arches and another day focuses on Canyonlands.",
+        "imageUrls": [],
+        "tags": ["arches", "canyonlands"]
+      },
+      "micro": {
+        "pointer_path_px": 455,
+        "dwell_ms": 275,
+        "reselect_count": 0,
+        "hover_ms": 120,
+        "scrub_px": 7
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 18.7,
+        "velocity_px_s": 290.2
+      }
+    },
+    {
+      "text": "The conversation now spreads into different kinds of activities such as sunrise hikes relaxed afternoons and night skies.",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:25:20Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": ["shape:r017"],
+      "content": {
+        "text": "The conversation now spreads into different kinds of activities such as sunrise hikes relaxed afternoons and night skies.",
+        "imageUrls": [],
+        "tags": ["divergence", "activities"]
+      },
+      "micro": {
+        "pointer_path_px": 590,
+        "dwell_ms": 420,
+        "reselect_count": 2,
+        "hover_ms": 190,
+        "scrub_px": 24
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 21.4,
+        "velocity_px_s": 350.1
+      }
+    },
+    {
+      "text": "",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:25:40Z",
+      "action": "image",
+      "itemType": "image",
+      "items": ["shape:r018"],
+      "content": {
+        "text": "",
+        "imageUrls": [
+          "https://ckbox.cloud/0KJ2bqyiHRMdsQ9akWZ9/assets/kTUKK7Hmp9VD/images/1600.jpeg"
+        ],
+        "tags": ["stars", "desert"]
+      },
+      "micro": {
+        "pointer_path_px": 440,
+        "dwell_ms": 290,
+        "reselect_count": 0,
+        "hover_ms": 120,
+        "scrub_px": 10
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 20.3,
+        "velocity_px_s": 306.3
+      }
+    },
+    {
+      "text": "We begin listing food ideas such as street tacos in Moab warm drinks before hikes and one nice dinner in Las Vegas.",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:26:00Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": ["shape:r019"],
+      "content": {
+        "text": "We begin listing food ideas such as street tacos in Moab warm drinks before hikes and one nice dinner in Las Vegas.",
+        "imageUrls": [],
+        "tags": ["food", "moab", "vegas"]
+      },
+      "micro": {
+        "pointer_path_px": 560,
+        "dwell_ms": 360,
+        "reselect_count": 1,
+        "hover_ms": 160,
+        "scrub_px": 16
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 21.0,
+        "velocity_px_s": 332.0
+      }
+    },
+    {
+      "text": "",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:26:20Z",
+      "action": "image",
+      "itemType": "image",
+      "items": ["shape:r020"],
+      "content": {
+        "text": "",
+        "imageUrls": [
+          "https://images.squarespace-cdn.com/content/v1/60351c0920d9391bc7d74f23/b4113183-9d32-4e8c-a736-719bfc74f76c/IMG-3242.jpg"
+        ],
+        "tags": ["tacos", "foodtruck"]
+      },
+      "micro": {
+        "pointer_path_px": 480,
+        "dwell_ms": 300,
+        "reselect_count": 0,
+        "hover_ms": 130,
+        "scrub_px": 12
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 19.8,
+        "velocity_px_s": 298.5
+      }
+    },
+    {
+      "text": "The group opens a new branch of ideas about music playlists car games and shared photos from the trip.",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:26:40Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": ["shape:r021"],
+      "content": {
+        "text": "The group opens a new branch of ideas about music playlists car games and shared photos from the trip.",
+        "imageUrls": [],
+        "tags": ["music", "photos"]
+      },
+      "micro": {
+        "pointer_path_px": 600,
+        "dwell_ms": 410,
+        "reselect_count": 2,
+        "hover_ms": 190,
+        "scrub_px": 21
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 20.7,
+        "velocity_px_s": 341.6
+      }
+    },
+    {
+      "text": "",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:27:00Z",
+      "action": "image",
+      "itemType": "image",
+      "items": ["shape:r022"],
+      "content": {
+        "text": "",
+        "imageUrls": [
+          "https://i0.wp.com/www.flandersfamily.info/web/wp-content/uploads/2021/06/Road-Trip-Car-Counting-Game-BW.png?resize=792%2C1024&ssl=1"
+        ],
+        "tags": ["car", "games"]
+      },
+      "micro": {
+        "pointer_path_px": 430,
+        "dwell_ms": 270,
+        "reselect_count": 0,
+        "hover_ms": 115,
+        "scrub_px": 9
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 19.3,
+        "velocity_px_s": 289.7
+      }
+    },
+    {
+      "text": "We realize that the board is filling with many side topics and decide to return to the main route.",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:27:20Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": ["shape:r023"],
+      "content": {
+        "text": "We realize that the board is filling with many side topics and decide to return to the main route.",
+        "imageUrls": [],
+        "tags": ["convergence", "focus"]
+      },
+      "micro": {
+        "pointer_path_px": 640,
+        "dwell_ms": 420,
+        "reselect_count": 1,
+        "hover_ms": 200,
+        "scrub_px": 25
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 21.3,
+        "velocity_px_s": 352.0
+      }
+    },
+    {
+      "text": "The group agrees that the route will travel from Denver to Moab then to Zion and finally to Las Vegas.",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:27:40Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": ["shape:r024"],
+      "content": {
+        "text": "The group agrees that the route will travel from Denver to Moab then to Zion and finally to Las Vegas.",
+        "imageUrls": [],
+        "tags": ["route", "agreement"]
+      },
+      "micro": {
+        "pointer_path_px": 460,
+        "dwell_ms": 280,
+        "reselect_count": 0,
+        "hover_ms": 130,
+        "scrub_px": 11
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 20.1,
+        "velocity_px_s": 301.5
+      }
+    },
+    {
+      "text": "",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:28:00Z",
+      "action": "image",
+      "itemType": "image",
+      "items": ["shape:r025"],
+      "content": {
+        "text": "",
+        "imageUrls": [
+          "https://bucketlistbri.com/wp-content/uploads/2020/10/Southwest-Road-Trip-Map-min.jpg"
+        ],
+        "tags": ["map", "summary"]
+      },
+      "micro": {
+        "pointer_path_px": 520,
+        "dwell_ms": 360,
+        "reselect_count": 1,
+        "hover_ms": 150,
+        "scrub_px": 14
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 21.1,
+        "velocity_px_s": 326.8
+      }
+    },
+    {
+      "text": "We capture a short summary that says the trip includes city time mountains deserts and one show night in Las Vegas.",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:28:20Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": ["shape:r026"],
+      "content": {
+        "text": "We capture a short summary that says the trip includes city time mountains deserts and one show night in Las Vegas.",
+        "imageUrls": [],
+        "tags": ["summary", "mix"]
+      },
+      "micro": {
+        "pointer_path_px": 480,
+        "dwell_ms": 290,
+        "reselect_count": 0,
+        "hover_ms": 120,
+        "scrub_px": 9
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 19.7,
+        "velocity_px_s": 296.4
+      }
+    },
+    {
+      "text": "The final part of the talk turns to packing where we list layers hiking shoes sun protection and a simple camera.",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:28:40Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": ["shape:r027"],
+      "content": {
+        "text": "The final part of the talk turns to packing where we list layers hiking shoes sun protection and a simple camera.",
+        "imageUrls": [],
+        "tags": ["packing", "gear"]
+      },
+      "micro": {
+        "pointer_path_px": 570,
+        "dwell_ms": 380,
+        "reselect_count": 1,
+        "hover_ms": 180,
+        "scrub_px": 19
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 20.9,
+        "velocity_px_s": 339.3
+      }
+    },
+    {
+      "text": "",
+      "actor": 0,
+      "timestamp": "2025-10-31T02:29:00Z",
+      "action": "image",
+      "itemType": "image",
+      "items": ["shape:r028"],
+      "content": {
+        "text": "",
+        "imageUrls": [
+          "https://images.squarespace-cdn.com/content/v1/5f39599f0dd69335c3379b81/6e133a81-7cb4-4ddb-9b7a-3c561ac859d0/three+day+backpack+supplies.jpg"
+        ],
+        "tags": ["packing", "layout"]
+      },
+      "micro": {
+        "pointer_path_px": 445,
+        "dwell_ms": 270,
+        "reselect_count": 0,
+        "hover_ms": 110,
+        "scrub_px": 10
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 19.4,
+        "velocity_px_s": 292.5
+      }
+    },
+    {
+      "text": "We close the session by stating that all three friends feel good about the route timing and shared responsibilities.",
+      "actor": 1,
+      "timestamp": "2025-10-31T02:29:20Z",
+      "action": "add_note",
+      "itemType": "text",
+      "items": ["shape:r029"],
+      "content": {
+        "text": "We close the session by stating that all three friends feel good about the route timing and shared responsibilities.",
+        "imageUrls": [],
+        "tags": ["conclusion", "agreement"]
+      },
+      "micro": {
+        "pointer_path_px": 630,
+        "dwell_ms": 420,
+        "reselect_count": 1,
+        "hover_ms": 190,
+        "scrub_px": 23
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 21.5,
+        "velocity_px_s": 350.7
+      }
+    },
+    {
+      "text": "",
+      "actor": 2,
+      "timestamp": "2025-10-31T02:29:40Z",
+      "action": "image",
+      "itemType": "image",
+      "items": ["shape:r030"],
+      "content": {
+        "text": "",
+        "imageUrls": [
+          "https://s.yimg.com/ny/api/res/1.2/KFLOVGqhofecDZgt8MHZsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg7Y2Y9d2VicA--/https://media.zenfs.com/en/woman_s_day_ecomm_articles_493/a032b514f808a9dfec0a3efe9ecba29e"
+        ],
+        "tags": ["car", "final"]
+      },
+      "micro": {
+        "pointer_path_px": 470,
+        "dwell_ms": 300,
+        "reselect_count": 0,
+        "hover_ms": 130,
+        "scrub_px": 12
+      },
+      "tempo": {
+        "gap_prev_ms": 20000,
+        "apm_rolling": 20.0,
+        "velocity_px_s": 304.2
+      }
+    }
+  ]
+}

@@ -831,6 +831,11 @@ const DATASET_OPTIONS = [
     path: "./data/teamx_v3_linked.json",
     desc: "Cleans action verbs from text for natural phrasing; focuses on semantic content for CLIP embedding analysis. Uses CLIP embedding.",
   },
+  {
+    label: "RoadTrip to Colorado, Utah, and Vegas",
+    path: "./data/team_roadtrip_session_10min_linked.json",
+    desc: "Roadtrip plan. Uses CLIP embedding.",
+  },
 ];
 
 // 2) Simple cache so we only fetch/compute once per dataset.
