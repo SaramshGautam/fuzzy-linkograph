@@ -66,6 +66,51 @@ function getPairThreshold(m1, m2) {
 
 // Map dataset path -> related artifact files (images/CSVs) shown in the sidebar
 const ARTIFACTS_BY_DATASET = {
+  "./data/team_roadtrip_session_10min2_linked.json": {
+    // Group-level plots & metrics
+    group: {
+      images: [
+        "./outputs_from_roadtrip2/teamx_phase_confidence_timeline_group.png",
+        "./outputs_from_roadtrip2/teamx_phase_confidence_lines_group.png",
+        "./outputs_from_roadtrip2/spatial_clusters_TeamRoadTrip.png",
+      ],
+      csvs: [
+        "./outputs_from_roadtrip2/teamx_phase_confidence_group.csv",
+        "./outputs_from_roadtrip2/teamx_window_metrics_group.csv",
+        "./outputs_from_roadtrip2/teamx_window_metrics_group_labeled.csv",
+      ],
+    },
+
+    // Actor-level plots & metrics
+    actors: {
+      // per-actor images
+      actor_1: {
+        images: [
+          "./outputs_from_roadtrip2/phase_confidence_timeline_TeamRoadTrip_actor_1.png",
+          "./outputs_from_roadtrip2/phase_confidence_lines_TeamRoadTrip_actor_1.png",
+        ],
+      },
+      actor_2: {
+        images: [
+          "./outputs_from_roadtrip2/phase_confidence_timeline_TeamRoadTrip_actor_2.png",
+          "./outputs_from_roadtrip2/phase_confidence_lines_TeamRoadTrip_actor_2.png",
+        ],
+      },
+      actor_unknown: {
+        images: [
+          "./outputs_from_roadtrip2/phase_confidence_timeline_TeamRoadTrip_actor_unknown.png",
+          "./outputs_from_roadtrip2/phase_confidence_lines_TeamRoadTrip_actor_unknown.png",
+        ],
+      },
+
+      // shared actor-level CSVs
+      csvs: [
+        "./outputs_from_roadtrip2/teamx_phase_confidence_actor.csv",
+        "./outputs_from_roadtrip2/teamx_window_metrics_actor.csv",
+        "./outputs_from_roadtrip2/teamx_window_metrics_actor_labeled.csv",
+      ],
+    },
+  },
   "./data/teamx_v3_linked.json": {
     images: [
       "./data/outputs_v3/teamx_phase_confidence_timeline.png",
@@ -390,37 +435,301 @@ function parseCSV(text, maxRows = 10) {
   return { headers, rows };
 }
 
-function ArtifactsPanel({ datasetPath }) {
+// function ArtifactsPanel({ datasetPath }) {
+//   const config = ARTIFACTS_BY_DATASET[datasetPath];
+//   const [csvPreviews, setCsvPreviews] = React.useState([]);
+
+//   React.useEffect(() => {
+//     let cancelled = false;
+//     async function load() {
+//       if (!config?.csvs?.length) {
+//         setCsvPreviews([]);
+//         return;
+//       }
+//       const previews = [];
+//       for (const url of config.csvs) {
+//         try {
+//           const txt = await (await fetch(url)).text();
+//           const table = parseCSV(txt, 10);
+//           previews.push({ url, ...table });
+//         } catch (e) {
+//           previews.push({ url, error: true, headers: [], rows: [] });
+//           console.error("Failed to load CSV", url, e);
+//         }
+//       }
+//       if (!cancelled) setCsvPreviews(previews);
+//     }
+//     load();
+//     return () => {
+//       cancelled = true;
+//     };
+//   }, [datasetPath]);
+
+//   if (!config) return null;
+
+//   return e(
+//     "aside",
+//     {
+//       style: {
+//         borderLeft: "1px solid #eee",
+//         paddingLeft: 16,
+//         paddingTop: 4,
+//         position: "sticky",
+//         top: 0,
+//         alignSelf: "start",
+//         height: "100%",
+//         overflow: "auto",
+//         maxHeight: "calc(100vh - 24px)",
+//         width: "100%",
+//       },
+//     },
+//     e("h3", { style: { marginTop: 0 } }, "Artifacts"),
+//     // images
+//     config.images?.length
+//       ? e(
+//           "div",
+//           {
+//             style: {
+//               display: "flex",
+//               flexDirection: "column",
+//               alignItems: "center",
+//               gap: 20,
+//               width: "100%",
+//               overflowX: "auto",
+//             },
+//           },
+//           ...config.images.map((src) =>
+//             e(
+//               "a",
+//               {
+//                 key: src,
+//                 href: src,
+//                 target: "_blank",
+//                 rel: "noreferrer",
+//                 style: {
+//                   display: "block",
+//                   maxWidth: "100%",
+//                   width: "min(100%, 1000px)",
+//                 },
+//               },
+//               e("img", {
+//                 src,
+//                 alt: src.split("/").pop(),
+//                 style: {
+//                   display: "block",
+//                   width: "100%",
+//                   height: "auto",
+//                   objectFit: "contain",
+//                   borderRadius: 8,
+//                   boxShadow: "0 1px 3px rgba(0,0,0,0.08)",
+//                 },
+//               })
+//             )
+//           )
+//         )
+//       : null,
+
+//     // CSV previews
+//     csvPreviews.map((csv) =>
+//       e(
+//         "div",
+//         {
+//           key: csv.url,
+//           style: {
+//             marginBottom: 16,
+//             border: "1px solid #eee",
+//             borderRadius: 8,
+//             overflow: "hidden",
+//           },
+//         },
+//         e(
+//           "div",
+//           {
+//             style: {
+//               padding: "8px 10px",
+//               background: "#fafafa",
+//               borderBottom: "1px solid #eee",
+//               display: "flex",
+//               justifyContent: "space-between",
+//               alignItems: "center",
+//               fontSize: 13,
+//             },
+//           },
+//           e("span", null, csv.url.split("/").pop()),
+//           e(
+//             "a",
+//             {
+//               href: csv.url,
+//               download: true,
+//               style: { textDecoration: "none" },
+//             },
+//             "Download"
+//           )
+//         ),
+//         csv.error
+//           ? e(
+//               "div",
+//               { style: { padding: 10, color: "crimson", fontSize: 12 } },
+//               "Could not load preview."
+//             )
+//           : e(
+//               "div",
+//               { style: { overflowX: "auto" } },
+//               e(
+//                 "table",
+//                 {
+//                   style: {
+//                     width: "100%",
+//                     borderCollapse: "collapse",
+//                     fontSize: 12,
+//                   },
+//                 },
+//                 e(
+//                   "thead",
+//                   null,
+//                   e(
+//                     "tr",
+//                     null,
+//                     ...csv.headers.map((h, i) =>
+//                       e(
+//                         "th",
+//                         {
+//                           key: i,
+//                           style: {
+//                             textAlign: "left",
+//                             padding: "6px 8px",
+//                             borderBottom: "1px solid #eee",
+//                             whiteSpace: "nowrap",
+//                           },
+//                         },
+//                         h
+//                       )
+//                     )
+//                   )
+//                 ),
+//                 e(
+//                   "tbody",
+//                   null,
+//                   ...csv.rows.map((row, r) =>
+//                     e(
+//                       "tr",
+//                       { key: r },
+//                       ...row.map((cell, c) =>
+//                         e(
+//                           "td",
+//                           {
+//                             key: c,
+//                             style: {
+//                               padding: "6px 8px",
+//                               borderBottom: "1px solid #f5f5f5",
+//                               whiteSpace: "nowrap",
+//                             },
+//                           },
+//                           cell
+//                         )
+//                       )
+//                     )
+//                   )
+//                 )
+//               )
+//             )
+//       )
+//     )
+//   );
+// }
+
+function collectArtifactSections(config) {
+  if (!config) return [];
+
+  const sections = [];
+
+  // 1) Flat top-level (old style)
+  if (config.images || config.csvs) {
+    sections.push({
+      key: "default",
+      title: "Artifacts",
+      images: config.images || [],
+      csvs: config.csvs || [],
+    });
+  }
+
+  // 2) Group-level (new RoadTrip config)
+  if (config.group) {
+    sections.push({
+      key: "group",
+      title: "Group-level",
+      images: config.group.images || [],
+      csvs: config.group.csvs || [],
+    });
+  }
+
+  // 3) Actor-level (new RoadTrip config)
+  if (config.actors) {
+    // shared CSVs for all actors
+    if (config.actors.csvs) {
+      sections.push({
+        key: "actors-csvs",
+        title: "Actor-level CSVs",
+        images: [],
+        csvs: config.actors.csvs || [],
+      });
+    }
+    // per-actor images
+    for (const [actorId, actorCfg] of Object.entries(config.actors)) {
+      if (actorId === "csvs") continue;
+      sections.push({
+        key: `actor-${actorId}`,
+        title: `Actor ${actorId.replace("actor_", "")}`,
+        images: actorCfg.images || [],
+        csvs: actorCfg.csvs || [],
+      });
+    }
+  }
+
+  return sections;
+}
+
+function ArtifactsPanel({ datasetPath, style }) {
   const config = ARTIFACTS_BY_DATASET[datasetPath];
-  const [csvPreviews, setCsvPreviews] = React.useState([]);
+  const sections = React.useMemo(
+    () => collectArtifactSections(config),
+    [config]
+  );
+  const [csvPreviews, setCsvPreviews] = React.useState({}); // { url -> preview }
 
   React.useEffect(() => {
     let cancelled = false;
+
     async function load() {
-      if (!config?.csvs?.length) {
-        setCsvPreviews([]);
+      if (!sections.length) {
+        setCsvPreviews({});
         return;
       }
-      const previews = [];
-      for (const url of config.csvs) {
+
+      const urls = Array.from(new Set(sections.flatMap((s) => s.csvs || [])));
+
+      const previews = {};
+      for (const url of urls) {
         try {
           const txt = await (await fetch(url)).text();
           const table = parseCSV(txt, 10);
-          previews.push({ url, ...table });
+          previews[url] = { url, ...table, error: false };
         } catch (e) {
-          previews.push({ url, error: true, headers: [], rows: [] });
           console.error("Failed to load CSV", url, e);
+          previews[url] = { url, error: true, headers: [], rows: [] };
         }
       }
+
       if (!cancelled) setCsvPreviews(previews);
     }
+
     load();
     return () => {
       cancelled = true;
     };
-  }, [datasetPath]);
+  }, [datasetPath, sections]);
 
-  if (!config) return null;
+  if (!config || !sections.length) return null;
 
   return e(
     "aside",
@@ -436,158 +745,211 @@ function ArtifactsPanel({ datasetPath }) {
         overflow: "auto",
         maxHeight: "calc(100vh - 24px)",
         width: "100%",
+        ...style,
       },
     },
     e("h3", { style: { marginTop: 0 } }, "Artifacts"),
-    // images
-    config.images?.length
-      ? e(
-          "div",
-          {
-            style: {
-              display: "flex",
-              flexDirection: "column",
-              alignItems: "center",
-              gap: 20,
-              width: "100%",
-              overflowX: "auto",
-            },
-          },
-          ...config.images.map((src) =>
-            e(
-              "a",
-              {
-                key: src,
-                href: src,
-                target: "_blank",
-                rel: "noreferrer",
-                style: {
-                  display: "block",
-                  maxWidth: "100%",
-                  width: "min(100%, 1000px)",
-                },
-              },
-              e("img", {
-                src,
-                alt: src.split("/").pop(),
-                style: {
-                  display: "block",
-                  width: "100%",
-                  height: "auto",
-                  objectFit: "contain",
-                  borderRadius: 8,
-                  boxShadow: "0 1px 3px rgba(0,0,0,0.08)",
-                },
-              })
-            )
-          )
-        )
-      : null,
 
-    // CSV previews
-    csvPreviews.map((csv) =>
+    ...sections.map((section) =>
       e(
-        "div",
+        "section",
         {
-          key: csv.url,
-          style: {
-            marginBottom: 16,
-            border: "1px solid #eee",
-            borderRadius: 8,
-            overflow: "hidden",
-          },
+          key: section.key,
+          style: { marginBottom: 24, width: "100%" },
         },
         e(
-          "div",
+          "h4",
           {
             style: {
-              padding: "8px 10px",
-              background: "#fafafa",
-              borderBottom: "1px solid #eee",
-              display: "flex",
-              justifyContent: "space-between",
-              alignItems: "center",
+              margin: "8px 0",
               fontSize: 13,
+              textTransform: "uppercase",
+              letterSpacing: 0.04,
+              opacity: 0.8,
             },
           },
-          e("span", null, csv.url.split("/").pop()),
-          e(
-            "a",
-            {
-              href: csv.url,
-              download: true,
-              style: { textDecoration: "none" },
-            },
-            "Download"
-          )
+          section.title
         ),
-        csv.error
+
+        // images for this section
+        section.images && section.images.length
           ? e(
               "div",
-              { style: { padding: 10, color: "crimson", fontSize: 12 } },
-              "Could not load preview."
-            )
-          : e(
-              "div",
-              { style: { overflowX: "auto" } },
-              e(
-                "table",
-                {
-                  style: {
-                    width: "100%",
-                    borderCollapse: "collapse",
-                    fontSize: 12,
-                  },
+              {
+                style: {
+                  display: "flex",
+                  flexDirection: "column",
+                  alignItems: "center",
+                  gap: 16,
+                  width: "100%",
+                  overflowX: "auto",
+                  marginBottom: 8,
                 },
+              },
+              ...section.images.map((src) =>
                 e(
-                  "thead",
-                  null,
-                  e(
-                    "tr",
-                    null,
-                    ...csv.headers.map((h, i) =>
-                      e(
-                        "th",
-                        {
-                          key: i,
-                          style: {
-                            textAlign: "left",
-                            padding: "6px 8px",
-                            borderBottom: "1px solid #eee",
-                            whiteSpace: "nowrap",
-                          },
-                        },
-                        h
-                      )
-                    )
-                  )
-                ),
-                e(
-                  "tbody",
-                  null,
-                  ...csv.rows.map((row, r) =>
-                    e(
-                      "tr",
-                      { key: r },
-                      ...row.map((cell, c) =>
-                        e(
-                          "td",
-                          {
-                            key: c,
-                            style: {
-                              padding: "6px 8px",
-                              borderBottom: "1px solid #f5f5f5",
-                              whiteSpace: "nowrap",
-                            },
-                          },
-                          cell
-                        )
-                      )
-                    )
-                  )
+                  "a",
+                  {
+                    key: src,
+                    href: src,
+                    target: "_blank",
+                    rel: "noreferrer",
+                    style: {
+                      display: "block",
+                      maxWidth: "100%",
+                      width: "min(100%, 1000px)",
+                    },
+                  },
+                  e("img", {
+                    src,
+                    alt: src.split("/").pop(),
+                    style: {
+                      display: "block",
+                      width: "100%",
+                      height: "auto",
+                      objectFit: "contain",
+                      borderRadius: 8,
+                      boxShadow: "0 1px 3px rgba(0,0,0,0.08)",
+                    },
+                  })
                 )
               )
             )
+          : null,
+
+        // CSV previews for this section
+        section.csvs && section.csvs.length
+          ? section.csvs.map((url) => {
+              const csv = csvPreviews[url];
+              if (!csv) {
+                return e(
+                  "div",
+                  {
+                    key: url,
+                    style: {
+                      marginBottom: 8,
+                      border: "1px solid #eee",
+                      borderRadius: 8,
+                      padding: 8,
+                      fontSize: 12,
+                      opacity: 0.7,
+                    },
+                  },
+                  `Loading preview for ${url.split("/").pop()}…`
+                );
+              }
+
+              return e(
+                "div",
+                {
+                  key: csv.url,
+                  style: {
+                    marginBottom: 16,
+                    border: "1px solid #eee",
+                    borderRadius: 8,
+                    overflow: "hidden",
+                  },
+                },
+                e(
+                  "div",
+                  {
+                    style: {
+                      padding: "8px 10px",
+                      background: "#fafafa",
+                      borderBottom: "1px solid #eee",
+                      display: "flex",
+                      justifyContent: "space-between",
+                      alignItems: "center",
+                      fontSize: 13,
+                    },
+                  },
+                  e("span", null, csv.url.split("/").pop()),
+                  e(
+                    "a",
+                    {
+                      href: csv.url,
+                      download: true,
+                      style: { textDecoration: "none" },
+                    },
+                    "Download"
+                  )
+                ),
+                csv.error
+                  ? e(
+                      "div",
+                      {
+                        style: {
+                          padding: 10,
+                          color: "crimson",
+                          fontSize: 12,
+                        },
+                      },
+                      "Could not load preview."
+                    )
+                  : e(
+                      "div",
+                      { style: { overflowX: "auto" } },
+                      e(
+                        "table",
+                        {
+                          style: {
+                            width: "100%",
+                            borderCollapse: "collapse",
+                            fontSize: 12,
+                          },
+                        },
+                        e(
+                          "thead",
+                          null,
+                          e(
+                            "tr",
+                            null,
+                            ...csv.headers.map((h, i) =>
+                              e(
+                                "th",
+                                {
+                                  key: i,
+                                  style: {
+                                    textAlign: "left",
+                                    padding: "6px 8px",
+                                    borderBottom: "1px solid #eee",
+                                    whiteSpace: "nowrap",
+                                  },
+                                },
+                                h
+                              )
+                            )
+                          )
+                        ),
+                        e(
+                          "tbody",
+                          null,
+                          ...csv.rows.map((row, r) =>
+                            e(
+                              "tr",
+                              { key: r },
+                              ...row.map((cell, c) =>
+                                e(
+                                  "td",
+                                  {
+                                    key: c,
+                                    style: {
+                                      padding: "6px 8px",
+                                      borderBottom: "1px solid #f5f5f5",
+                                      whiteSpace: "nowrap",
+                                    },
+                                  },
+                                  cell
+                                )
+                              )
+                            )
+                          )
+                        )
+                      )
+                    )
+              );
+            })
+          : null
       )
     )
   );
@@ -849,6 +1211,11 @@ function FuzzyLinkograph(props) {
 
 const DATASET_OPTIONS = [
   {
+    label: "Actor and group based prediction with new metrics",
+    path: "./data/team_roadtrip_session_10min2_linked.json",
+    desc: "We included new metrics for phase prediction, and actor based and group based predictions are sperate.",
+  },
+  {
     label: "Baseline Roadtrip Session",
     path: "./data/teamx_session_10min_linked.json",
     desc: "Original 10-minute collaborative session with realistic pacing and natural idea flow (baseline). Uses sentence-transformers embedding. Model = all-MiniLM-L6-v2.",
@@ -965,46 +1332,6 @@ async function loadEpisode(path) {
   return episode;
 }
 
-// 3) Controls + Single Graph App
-
-// function HeaderControls({ datasetPath, onChange, episode }) {
-//   return e(
-//     "div",
-//     {
-//       style: {
-//         display: "flex",
-//         gap: "12px",
-//         alignItems: "center",
-//         marginBottom: "12px",
-//       },
-//     },
-//     e(
-//       "label",
-//       { htmlFor: "datasetSelect", style: { fontWeight: "600" } },
-//       "Dataset"
-//     ),
-//     e(
-//       "select",
-//       {
-//         id: "datasetSelect",
-//         value: datasetPath,
-//         onChange: (evt) => onChange(evt.target.value),
-//         style: { padding: "6px 8px" },
-//       },
-//       DATASET_OPTIONS.map((opt) =>
-//         e("option", { key: opt.path, value: opt.path }, opt.label)
-//       )
-//     ),
-//     episode
-//       ? e(
-//           "div",
-//           { style: { marginLeft: "auto", opacity: 0.8 } },
-//           `Moves: ${episode.moves.length} • Actors: ${episode.actors.size}`
-//         )
-//       : null
-//   );
-// }
-
 function HeaderControls({ datasetPath, onChange, episode }) {
   const selected =
     DATASET_OPTIONS.find((d) => d.path === datasetPath) || DATASET_OPTIONS[0];
@@ -1076,60 +1403,6 @@ function HeaderControls({ datasetPath, onChange, episode }) {
     )
   );
 }
-
-// function StatsBar({ episode }) {
-//   if (!episode) return null;
-
-//   const {
-//     linkDensityIndex,
-//     entropy,
-//     backlinkEntropy,
-//     forelinkEntropy,
-//     horizonlinkEntropy,
-//     copyCount,
-//     maxForelinkWeight,
-//     maxBacklinkWeight,
-//   } = episode;
-
-//   const wrap = (label, value) =>
-//     e(
-//       "div",
-//       { style: { display: "flex", gap: 6, alignItems: "baseline" } },
-//       e("div", { style: { fontSize: 12, opacity: 0.7 } }, label),
-//       e("div", { style: { fontWeight: 600 } }, value)
-//     );
-
-//   const minutes = (ms) => (ms / 60000).toFixed(0);
-
-//   return e(
-//     "div",
-//     {
-//       style: {
-//         display: "grid",
-//         gridTemplateColumns: "repeat(8, minmax(0,1fr))", // widened to fit new fields
-//         gap: 12,
-//         padding: "8px 0 16px 0",
-//         borderBottom: "1px solid #eee",
-//         marginBottom: 12,
-//       },
-//     },
-//     // row 1 (core metrics)
-//     wrap("Link density", linkDensityIndex?.toFixed(3)),
-//     wrap("Entropy (total)", entropy?.toFixed(3)),
-//     wrap("Entropy back", backlinkEntropy?.toFixed(3)),
-//     wrap("Entropy fore", forelinkEntropy?.toFixed(3)),
-//     wrap("Entropy horizon", horizonlinkEntropy?.toFixed(3)),
-//     wrap("Near-copies", copyCount ?? 0),
-//     wrap("Max fore W", maxForelinkWeight?.toFixed(2)),
-//     wrap("Max back W", maxBacklinkWeight?.toFixed(2)),
-
-//     // row 2 (global settings / thresholds)
-//     wrap("Sim threshold", MIN_LINK_STRENGTH.toFixed(2)),
-//     wrap("Segment gap", `${minutes(SEGMENT_THRESHOLD)} min`),
-//     wrap("Colorized links", SHOULD_COLORIZE_LINKS ? "on" : "off"),
-//     wrap("Text mode", MOVE_TEXT_MODE)
-//   );
-// }
 
 function StatsBar({ episode }) {
   if (!episode) return null;
